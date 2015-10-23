@@ -112,9 +112,9 @@ eventAddressCountry: "საქართველო"
 eventStartTime: "2015-11-07T11:00"
 eventDoorTime: "10:00"
 eventEndTime: "2015-11-08T20:00"
-eventPlaceCoordinates: "41.7178844, 44.7833498"
-mapCenterCoordinates: "41.7178844, 44.7833498"
-mapMobileCenterCoordinates: "41.7178844, 44.7833498"
+eventPlaceCoordinates: "41.717753, 44.784889"
+mapCenterCoordinates: "41.717753, 44.784889"
+mapMobileCenterCoordinates: "41.717753, 44.784889"
 
 # Venue Block
 venueBlockTitle: "ჯეოლაბი"
@@ -280,11 +280,11 @@ judgesImage: "judges.jpg"
 judgesTitle: "ჟიური"
 
 # Hackathon Prizes Block
-prizesTitle: "პრიზები"
-prizes:
- - {title: "მე-2 ადგილი", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1-ლი ადგილი", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "მე-3 ადგილი", image: "prize-3.png", info: "Useful Chromecast"}
+# prizesTitle: "პრიზები"
+# prizes:
+#  - {title: "მე-2 ადგილი", image: "prize-2.png", info: "Amazing Moto 360"}
+#  - {title: "1-ლი ადგილი", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+#  - {title: "მე-3 ადგილი", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "ადგილმდებარეობა"
@@ -300,6 +300,6 @@ hackathonStartTime: "2015-11-06T20:00"
 hackathonDoorTime: "20:00"
 hackathonEndTime: "2015-11-08T18:00"
 viewOnMap: "ნახეთ Google-ის რუკაზე"
-hackathonPlaceCoordinates: "41.7178844, 44.7833498"
-hackathonMapCenterCoordinates: "41.7178844, 44.7833498"
-hackathonMapMobileCenterCoordinates: "41.7178844, 44.7833498"
+hackathonPlaceCoordinates: "41.717753, 44.784889"
+hackathonMapCenterCoordinates: "41.717753, 44.784889"
+hackathonMapMobileCenterCoordinates: "41.717753, 44.784889"
