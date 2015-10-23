@@ -208,7 +208,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "სიახლეები"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
