@@ -118,10 +118,10 @@ mapMobileCenterCoordinates: "41.717753, 44.784889"
 
 # Venue Block
 venueBlockTitle: "ჯეოლაბი"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "geolab_1.jpg"
+venueSmallImage1: "geolab_2.jpg"
+venueSmallImage2: "geolab_3.jpg"
+venueSmallImage3: "geolab_4.jpg"
 venueTitle: "ჯეოლაბის ლაბორატორია"
 venueFeatures: ["მობილური და ვებ აპლიკაციების ლაბორატორია, რომელიც 24 საათის განმავლობაში ღიაა სხვადასხვა საინტერესო და ინოვაციური პროექტების განხორციელებისათვის."]
 # venueFeatures: ["24/7-ზე სამუშაო გარემო", "საინტერესო ტექნიკით აღჭურვილი", "ქალაქის ცენტრში"]
