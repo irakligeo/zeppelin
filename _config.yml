@@ -281,11 +281,11 @@ judgesImage: "judges.jpg"
 judgesTitle: "ჟიური"
 
 #Hackathon Prizes Block
-# prizesTitle: "პრიზები"
-# prizes:
-#  - {title: "მე-2 ადგილი", image: "prize-2.png", info: "Amazing Moto 360"}
-#  - {title: "1-ლი ადგილი", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
-#  - {title: "მე-3 ადგილი", image: "prize-3.png", info: "Useful Chromecast"}
+prizesTitle: "პრიზები"
+prizes:
+ - {title: "მე-2 ადგილი", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1-ლი ადგილი", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "მე-3 ადგილი", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "ადგილმდებარეობა"
