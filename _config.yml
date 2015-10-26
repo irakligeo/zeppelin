@@ -62,26 +62,26 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "ჰაკათონი"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
- - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
- - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
+ - {link: "https://bit.ly/dfua-c4p", text: "DevFest-ზე რეგისტრაცია"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
- - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
- - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
+ - {link: "https://bit.ly/dfua-c4p", text: "DevFest-ზე რეგისტრაცია"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "ნოემბერი 07-08, 2015"
+eventDate: "ნოემბერი 06-07-08, 2015"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
- - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
+ - {link: "https://bit.ly/dfua-c4p", text: "DevFest-ზე რეგისტრაცია"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 hackathonButtons:
- - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 
 # About Block
 aboutTitle: "GDG DevFest-ის შესახებ"
@@ -93,10 +93,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "55", specialCharacter: "+", info: "დამსწრეები", detail: "მსოფლიოს მასშტაბით"}
- - {count: "48", specialCharacter: "+", info: "საათი", detail: "წმინდა Google-ის ტექნოლოგიები"}
- - {count: "15", specialCharacter: "+", info: "სპიკერები", detail: "საქართველოდან და არა მხოლოდ"}
- - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: "დამატებით გასართობი ლაბი"}
+ - {count: "55", specialCharacter: "+", info: "დამსწრე", detail: ""}
+ - {count: "48", specialCharacter: "+", info: "საათი", detail: ""}
+ - {count: "15", specialCharacter: "+", info: "სპიკერი", detail: ""}
+ - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "სიახლეები"
