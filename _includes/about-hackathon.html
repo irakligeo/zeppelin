@@ -3,6 +3,9 @@
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
+            {% for button in site.hackathonButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
             {% for row in site.hackathonRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">

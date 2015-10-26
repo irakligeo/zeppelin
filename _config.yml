@@ -72,11 +72,12 @@ eventDate: "ნოემბერი 07-08, 2015"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
+ - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
-abdala:
- - {link: "https://bit.ly/dfua-c4p", text: "აბდალა"}
+hackathonButtons:
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
 
 # About Block
 aboutTitle: "GDG DevFest-ის შესახებ"
