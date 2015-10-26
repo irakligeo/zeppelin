@@ -24,9 +24,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Tbilisi"
 organizerAlternateName: "Google Developer Group Tbilisi"
 organizerDescription: "მოხალისე ჭკვიანი და ტექნოლოგიების მოყვარული ადამიანები, რომლებიც მუშაობენ ინოვაციურ პროექტებზე და უზიარებენ გამოცდილებას გუგლის ტექნოლოგიების შესახებ სხვებს."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "info@geolab.edu.ge"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://geolab.edu.ge"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -207,7 +207,7 @@ footerBlocks:
  -
   title: "კონტაქტები"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@geolab.edu.ge", text: "info@geolab.edu.ge"}
  -
   title: "FAQ"
   links:
