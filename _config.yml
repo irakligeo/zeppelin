@@ -280,7 +280,7 @@ hackathonRows:
 judgesImage: "judges.jpg"
 judgesTitle: "ჟიური"
 
-Hackathon Prizes Block
+#Hackathon Prizes Block
 prizesTitle: "პრიზები"
 prizes:
  - {title: "მე-2 ადგილი", image: "prize-2.png", info: "Amazing Moto 360"}
