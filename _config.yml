@@ -62,11 +62,11 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "ჰაკათონი"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
- - {link: "https://bit.ly/dfua-c4p", text: "DevFest-ზე რეგისტრაცია"}
+ - {link: "https://bit.ly/dfua-c4p", text: "რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
- - {link: "https://bit.ly/dfua-c4p", text: "DevFest-ზე რეგისტრაცია"}
+ - {link: "https://bit.ly/dfua-c4p", text: "რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 
 # Hero Block
@@ -77,7 +77,7 @@ typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "https://bit.ly/dfua-c4p", text: "DevFest-ზე რეგისტრაცია"}
+ - {link: "https://bit.ly/dfua-c4p", text: "რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 hackathonButtons:
