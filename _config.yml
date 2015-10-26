@@ -62,8 +62,12 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "ჰაკათონი"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
+ - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
+ - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
+ - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "შეუერთდი ჰაკათონს"}
 
 # Hero Block
 heroImage: "hero.jpg"
