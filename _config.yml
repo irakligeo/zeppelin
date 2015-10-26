@@ -75,6 +75,8 @@ heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
  - {link: "https://bit.ly/dfua-c4p", text: "დარეგისტრირდი"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
+abdala:
+ - {link: "https://bit.ly/dfua-c4p", text: "აბდალა"}
 
 # About Block
 aboutTitle: "GDG DevFest-ის შესახებ"
