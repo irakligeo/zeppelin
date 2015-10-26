@@ -93,7 +93,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "დამსწრეები", detail: "მსოფლიოს მასშტაბით"}
+ - {count: "55", specialCharacter: "+", info: "დამსწრეები", detail: "მსოფლიოს მასშტაბით"}
  - {count: "48", specialCharacter: "+", info: "საათი", detail: "წმინდა Google-ის ტექნოლოგიები"}
  - {count: "15", specialCharacter: "+", info: "სპიკერები", detail: "საქართველოდან და არა მხოლოდ"}
  - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: "დამატებით გასართობი ლაბი"}
