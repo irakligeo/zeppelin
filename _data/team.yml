@@ -58,21 +58,37 @@
 #   social: 
 #     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #     - {name: "site", link: "http://olostan.name/"}
+
+
+# -
+#   id: 1
+#   name: "სანდრო"
+#   surname: "ასათიანი"
+#   title: "ჯეოლაბის რექტორი"
+#   thumbnailUrl: ninuca_nanitashvili.jpg
+#   team: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
 -
-  id: 1
+  id: 2
   name: "ალექსი"
   surname: "ამნიაშვილი"
   title: "ჯეოლაბის ლექტორი"
-  thumbnailUrl: alexi_amniashvili_2.jpg
+  thumbnailUrl: alexi_amniashvili.jpg
   team: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/alexi.amniashvili"}
     - {name: "github", link: "https://github.com/AlexiAmni"}
+    - {name: "twitter", link: "https://twitter.com/AlexiAmnia"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAnnp3IBQt-cEzYV6Kvw5mSnJygNnqkX468&trk=hp-identity-photo"}
 -
-  id: 2
+  id: 3
   name: "ნინუცა"
   surname: "ნანიტაშვილი"
-  title: "GDG Tbilisi"
+  title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
   thumbnailUrl: ninuca_nanitashvili.jpg
   team: true
   social: 
@@ -80,6 +96,31 @@
     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+# -
+#   id: 4
+#   name: "გიორგი"
+#   surname: "ვახტანგიშვილი"
+#   title: "ჯეოლაბის ლექტორი"
+#   thumbnailUrl: ninuca_nanitashvili.jpg
+#   team: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+# -
+#   id: 5
+#   name: "ანი"
+#   surname: "ასათიანი"
+#   title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
+#   thumbnailUrl: ninuca_nanitashvili.jpg
+#   team: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+
 
 # -
 #   id: 30

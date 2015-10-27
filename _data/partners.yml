@@ -10,6 +10,7 @@
     - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg", width: "120px"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
     - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "120px"}
+    - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
