@@ -81,14 +81,14 @@
     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
 
--
-  id: 30
-  name: "ჯეოლაბის"
-  surname: "გუნდი"
-  title: "ვებ და მობილური აპლიკაციების ლაბორატორია"
-  thumbnailUrl: geolab_team.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/GeoLabEdu"}
-    - {name: "twitter", link: "https://twitter.com/GeoLabEdu"}
-    - {name: "site", link: "http://geolab.edu.ge/"}
+# -
+#   id: 30
+#   name: "ჯეოლაბის"
+#   surname: "გუნდი"
+#   title: "ვებ და მობილური აპლიკაციების ლაბორატორია"
+#   thumbnailUrl: geolab_team.jpg
+#   subTeam: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/GeoLabEdu"}
+#     - {name: "twitter", link: "https://twitter.com/GeoLabEdu"}
+#     - {name: "site", link: "http://geolab.edu.ge/"}
