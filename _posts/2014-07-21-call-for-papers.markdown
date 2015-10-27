@@ -53,7 +53,9 @@ __General__
 	* App Engine
 	* Storages (SQL, NoSQL, BigData)
 	* APIs
-* Go (as a language for a Cloud Ready Apps)
+* Go (as a language for a Cloud Ready Apps) 
+
+<br/>
 
 ##### აპლიკაციის შესავსებად გთხოვთ გადახვიდეთ შემდეგ ბმულზე: [გახდით სპიკერი](http://goo.gl/forms/Jem8xAwfSO).
 __განაცხადების მიღება__ 2 ნოემბრის ჩათვლით გაგრძელდება. 
