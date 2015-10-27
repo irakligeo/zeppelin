@@ -120,16 +120,14 @@
     - {name: "facebook", link: "https://www.facebook.com/giorgi.vakhtangishvili.9"}
     - {name: "github", link: "https://github.com/Jilberta"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAeaH5ABXrI5syaPewd_TQVBnAHrXAy6JhI&trk=hp-identity-name"}
-
-
-# -
-#   id: 30
-#   name: "ჯეოლაბის"
-#   surname: "გუნდი"
-#   title: "ვებ და მობილური აპლიკაციების ლაბორატორია"
-#   thumbnailUrl: geolab_team.jpg
-#   subTeam: true
-#   social: 
-#     - {name: "facebook", link: "https://www.facebook.com/GeoLabEdu"}
-#     - {name: "twitter", link: "https://twitter.com/GeoLabEdu"}
-#     - {name: "site", link: "http://geolab.edu.ge/"}
+-
+  id: 30
+  name: "ჯეოლაბის"
+  surname: "გუნდი"
+  title: "ვებ და მობილური აპლიკაციების ლაბორატორია"
+  thumbnailUrl: geolab_team.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/GeoLabEdu"}
+    - {name: "twitter", link: "https://twitter.com/GeoLabEdu"}
+    - {name: "site", link: "http://geolab.edu.ge/"}
