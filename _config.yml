@@ -211,7 +211,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "ქცევის კოდექსი"}
 
 # Blog
 blogTitle: "სიახლეები"

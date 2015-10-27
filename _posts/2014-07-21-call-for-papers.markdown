@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "ვინ შეიძლება იყოს სპიკერი"
+date:   2015-10-22 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG Devfest თბილისი 7-8 ნოემბერს GeoLab-ში ჩატარდება. თუ გსურთ, რომ ამ დიდი მოვლენის მონაწილე გახდეთ, როგორც სპიკერი სწორი გზა აგირჩევიათ. 
 
-#### Presenters – who should speak at the DevFest Conference?
+#### სპიკერები -  GDG Devfest თბილისის კონფერენციაზე ვინ უნდა იყოს სპიკერი?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+* დეველოპერები (შტატგარეშე და დაქირავებული)
+* კომპანიები, რომლებიც წერენ პროგრამებს (აპლიკაციებს, ინსტრუმენტებს და ა.შ.)
+* კვლევითი ინსტიტუტები, რომლებიც დაკავშირებული არიან Google-ის საქმიანობასთან.
+* კომპანიები, ორგანიზაციები და ინდივიდები, რომლებიც Google-ის ტექნოლოგიებს იყენებენ.
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+თუ თქვენ ამ ჯგუფებიდან რომელიმეს მიეკუთვნებით, ველით თქვენს განაცხადს. შემოსულ აპლიკაციებს GDG-ის საორგანიზაციო ჯგუფი განიხილავს.<br/>
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+#### თემები - რას უნდა ველოდოთ?
+
+ჩვენმა გუნდმა საინტერესო თემების ჩამონათვალი გააკეთა, თუმცა თუ თქვენ გაქვთ ორიგინალური იდეა, რომელიც სიაში არ არის გთხოვთ გაგვიზიაროთ. 
 
 ##### Android
 
@@ -45,23 +46,21 @@ __General__
 * ChromeOS (apps development)
 * Web Performance (tools, techniques, approaches)
 
-
 ##### Cloud
 
 * Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
+	* Compute Engine
+	* App Engine
+	* Storages (SQL, NoSQL, BigData)
+	* APIs
 * Go (as a language for a Cloud Ready Apps)
 
+#### აპლიკაციის შესავსებად გთხოვთ გადახვიდეთ შემდეგ ბმულზე: [გახდით სპიკერი](http://bit.ly/dfua-c4p).
+__განაცხადების მიღება__ 2 ნოემბრის ჩათვლით გაგრძელდება. 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+__გთხოვთ გაითვალისწინოთ__, რომ შემოთავაზება შეიძლება დღის წესრიგში ვერ მოხვდეს.<br/>
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
+GDG-ის საორგანიზაციო ჯგუფი შეარჩევს ყველაზე საინტერესო და განსხვავებულ აპლიკაციებს. შერჩეულ კანდიდატებს დავუკავშირდებით არაუგვიანეს 5 ნოემბრისა.<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+#### თუ შეკითხვა გაქვთ,
+გთხოვთ შემდეგ მისამართზე მოგვწეროთ: [l.moshiashvili@geolab.edu.ge](mailto:l.moshiashvili@geolab.edu.ge)

@@ -1,20 +1,29 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: ქცევის კოდექსი
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__GDG თბილისი ამაყობს თავაზიანი, კონტაქტური და განსაკუთრებული საზოგადოებით და იმედოვნებს, რომ დამსწრეების მხრიდან, ღონისძიებაზე შეუსაბამო ქცევები არ დაფიქსირდება.
+
+ჩვენს სივრცეში აკრძალულია:
+∙ დაცინვა ან შეურაცხმყოფელი კომენტარები - სქესზე, სექსუალურობაზე, რასაზე, რელიგიაზე, ეთნიკურ მახასიათებელზე, სხეულის ზომებზე და სხვა
+∙ პორნოგრაფიის საჯაროდ ჩვენება
+∙ დაუკითხავად ხალხზე ხელის შეხება
+∙ დამსწრეების შეწუხება
+
+ამ წესების მრავალჯერადი დარღვევის შემთხვევაში GDG-ს თანამშრომელი ორგანიზაციიდან გაირიცხება, ხოლო ღონისძიებაზე დამსწრეს შეიძლება მოსთხოვონ ადგილის დატოვება.
+
+თუ თქვენ მიმართ განხორციელდა შეუსაბამო ქმედება, გთხოვთ ამის შესახებ GDG-ის თანამშრომლებს დაუყოვნებლივ აცნობოთ, რათა მოხდეს სწრაფი რეაგირება და პრობლემის ოპერატიულად აღმოფხვრა. ჩვენ გვჯერა, რომ GDG Devfest თბილისი ყოველთვის გამორჩეული და ორიგინალური იქნება.
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+######საკონტაქტო ინფორმაცია:
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+ლიკა მოშიაშვილი
+ჯეოლაბის მედიისა და კომუნიკაციის მენეჯერი
+Tel: 577520952
+Email: [l.moshiashvili@geolab.edu.ge](mailto:l.moshiashvili@geolab.edu.ge)
 
-
-######Contacts:
-
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
