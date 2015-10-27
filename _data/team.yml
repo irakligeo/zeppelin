@@ -59,6 +59,16 @@
 #     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #     - {name: "site", link: "http://olostan.name/"}
 -
+  id: 1
+  name: "ალექსი"
+  surname: "ამნიაშვილი"
+  title: "ჯეოლაბის ლექტორი"
+  thumbnailUrl: alexi_amniashvili.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/alexi.amniashvili"}
+    - {name: "github", link: "https://github.com/AlexiAmni"}
+-
   id: 30
   name: "ჯეოლაბის"
   surname: "გუნდი"
