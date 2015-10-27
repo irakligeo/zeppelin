@@ -12,7 +12,7 @@
     - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "120px"}
     - {name: "Geocell", description: "Geocell", link: "http://geocell.ge", imageUrl: "geocell-logo.svg", width: "400px", height: "400px"}
     - {name: "GAU", description: "GAU", link: "http://gau.ge", imageUrl: "gau-logo.svg", width: "120px"}
-    - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "400px"}
+    - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "400px", height: "400px"}
 - 
   group: "Information partners"
   elements: 
