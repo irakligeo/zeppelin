@@ -60,18 +60,18 @@
 #     - {name: "site", link: "http://olostan.name/"}
 
 
-# -
-#   id: 1
-#   name: "სანდრო"
-#   surname: "ასათიანი"
-#   title: "ჯეოლაბის რექტორი"
-#   thumbnailUrl: ninuca_nanitashvili.jpg
-#   team: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
-#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
-#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
-#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+-
+  id: 1
+  name: "სანდრო"
+  surname: "ასათიანი"
+  title: "ჯეოლაბის რექტორი"
+  thumbnailUrl: sandro_asatiani.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/118075987095552391909/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/sandro.asatiani"}
+    - {name: "github", link: "https://github.com/sandroasatiani"}
+    - {name: "linkedin", link: "http://www.linkedin.com/pub/sandro-asatiani/10/355/1b8/en"}
 -
   id: 2
   name: "ნინუცა"
