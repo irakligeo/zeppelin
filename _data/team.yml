@@ -74,6 +74,30 @@
 #     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
 -
   id: 2
+  name: "ნინუცა"
+  surname: "ნანიტაშვილი"
+  title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
+  thumbnailUrl: ninuca_nanitashvili.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+    - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+-
+  id: 3
+  name: "ვახო"
+  surname: "ვახტანგიშვილი"
+  title: "Co-Founder Leavingstone"
+  thumbnailUrl: vakho_vakhtangishvili.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/1/109726022381882622823/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/iamgatsby"}
+    - {name: "twitter", link: "https://twitter.com/iamvakho"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
+-
+  id: 4
   name: "ალექსი"
   surname: "ამნიაშვილი"
   title: "ჯეოლაბის ლექტორი"
@@ -85,41 +109,17 @@
     - {name: "twitter", link: "https://twitter.com/AlexiAmnia"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAnnp3IBQt-cEzYV6Kvw5mSnJygNnqkX468&trk=hp-identity-photo"}
 -
-  id: 3
-  name: "ნინუცა"
-  surname: "ნანიტაშვილი"
-  title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
-  thumbnailUrl: ninuca_nanitashvili.jpg
+  id: 5
+  name: "გიორგი"
+  surname: "ვახტანგიშვილი"
+  title: "ჯეოლაბის ლექტორი"
+  thumbnailUrl: giorgi_vakhtangishvili.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
-    - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
-# -
-#   id: 4
-#   name: "გიორგი"
-#   surname: "ვახტანგიშვილი"
-#   title: "ჯეოლაბის ლექტორი"
-#   thumbnailUrl: ninuca_nanitashvili.jpg
-#   team: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
-#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
-#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
-#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
-# -
-#   id: 5
-#   name: "ანი"
-#   surname: "ასათიანი"
-#   title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
-#   thumbnailUrl: ninuca_nanitashvili.jpg
-#   team: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
-#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
-#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
-#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+    - {name: "google-plus", link: "https://plus.google.com/u/1/101629664149226299284/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/giorgi.vakhtangishvili.9"}
+    - {name: "github", link: "https://github.com/Jilberta"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAeaH5ABXrI5syaPewd_TQVBnAHrXAy6JhI&trk=hp-identity-name"}
 
 
 # -
