@@ -69,6 +69,19 @@
     - {name: "facebook", link: "https://www.facebook.com/alexi.amniashvili"}
     - {name: "github", link: "https://github.com/AlexiAmni"}
 -
+  id: 2
+  name: "ნინუცა"
+  surname: "ნანიტაშვილი"
+  title: "GDG Tbilisi"
+  thumbnailUrl: ninuca_nanitashvili.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+    - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+
+-
   id: 30
   name: "ჯეოლაბის"
   surname: "გუნდი"
