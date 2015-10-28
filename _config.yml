@@ -66,7 +66,7 @@ bottomNavigationLinks:
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "რეგისტრაცია"}
+ - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 
 # Hero Block
