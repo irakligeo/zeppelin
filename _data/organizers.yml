@@ -1,7 +1,7 @@
 - 
   group: "მთავარი ორგანიზატორი"
   elements: 
-    - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg", width: "400px"}
+    - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg", width: "600px"}
 - 
   group: "თანაორგანიზატორები"
   elements: 
