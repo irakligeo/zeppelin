@@ -121,6 +121,16 @@
     - {name: "github", link: "https://github.com/Jilberta"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAeaH5ABXrI5syaPewd_TQVBnAHrXAy6JhI&trk=hp-identity-name"}
 -
+  id: 6
+  name: "ლიკა"
+  surname: "მოშიაშვილი"
+  title: "ჯეოლაბის მედიისა და კომუნიკაციის მენეჯერი"
+  thumbnailUrl: lika_moshiashvili.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/lika.moshiashvili.3"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/lika-moshiashvili/106/aa8/920"}
+-
   id: 30
   name: "ჯეოლაბის"
   surname: "გუნდი"
