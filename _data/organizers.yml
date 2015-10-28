@@ -5,4 +5,4 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg"}
+    - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg"}
