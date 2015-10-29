@@ -131,6 +131,15 @@
     - {name: "facebook", link: "https://www.facebook.com/lika.moshiashvili.3"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/lika-moshiashvili/106/aa8/920"}
 -
+  id: 7
+  name: "ლევან"
+  surname: "ასათიანი"
+  title: "ჯეოლაბის ლექტორი"
+  thumbnailUrl: levan_asatiani.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/asatianilevan"}
+-
   id: 30
   name: "ჯეოლაბის"
   surname: "გუნდი"
