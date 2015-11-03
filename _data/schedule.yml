@@ -39,16 +39,16 @@
         endTime: "04:00",
         sessionIds: [011]
     }
-- 
-  date: "2015-11-07"
-  dateReadable: "7 ნოემბერი"
-  tracks: 
-    - {title: "ღია ლექციები", color: "#2196F3"}
-    - {title: "ვორქშოფები", color: "#009688"}
-    - {title: "ჰაკათონი", color: "#607D8B"}
-    - {title: "WomanTechMakers", color: "#00E5FF"}
-    - {title: "Design Sprint", color: "#3D5AFE"}
-    - {title: "ჯეოლაბი", color: "#512DA8"}
+# - 
+#   date: "2015-11-07"
+#   dateReadable: "7 ნოემბერი"
+#   tracks: 
+#     - {title: "ღია ლექციები", color: "#2196F3"}
+#     - {title: "ვორქშოფები", color: "#009688"}
+#     - {title: "ჰაკათონი", color: "#607D8B"}
+#     - {title: "WomanTechMakers", color: "#00E5FF"}
+#     - {title: "Design Sprint", color: "#3D5AFE"}
+#     - {title: "ჯეოლაბი", color: "#512DA8"}
   # timeslots: 
     # - {
     # 	startTime: "10:00",
@@ -70,16 +70,16 @@
     # 	endTime: "15:00",
     # 	sessionIds: [503]
     # }
-- 
-  date: "2015-11-08"
-  dateReadable: "8 ნოემბერი"
-  tracks: 
-    - {title: "ღია ლექციები", color: "#2196F3"}
-    - {title: "ვორქშოფები", color: "#009688"}
-    - {title: "ჰაკათონი", color: "#607D8B"}
-    - {title: "WomanTechMakers", color: "#00E5FF"}
-    - {title: "Design Sprint", color: "#3D5AFE"}
-    - {title: "ჯეოლაბი", color: "#512DA8"}
+# - 
+#   date: "2015-11-08"
+#   dateReadable: "8 ნოემბერი"
+#   tracks: 
+#     - {title: "ღია ლექციები", color: "#2196F3"}
+#     - {title: "ვორქშოფები", color: "#009688"}
+#     - {title: "ჰაკათონი", color: "#607D8B"}
+#     - {title: "WomanTechMakers", color: "#00E5FF"}
+#     - {title: "Design Sprint", color: "#3D5AFE"}
+#     - {title: "ჯეოლაბი", color: "#512DA8"}
   # timeslots: 
   #   - {
   #       startTime: "10:00",
