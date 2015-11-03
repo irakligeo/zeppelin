@@ -58,38 +58,38 @@
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
--
-  id: 005
-  title: "ჰაკათონის რეგისტრაცია"
-  description: "იწყება რეგისტრაცია ჰაკათონის მონაწილეებისთვის"
-  place: "204-ე აუდიტორიის შესასვლელში"
--
-  id: 006
-  title: "ჰაკათონის გახსნა"
-  description: "ჰაკათონის გახსნის ცერემონია"
-  place: "204-ე აუდიტორია"
--
-  id: 007
-  title: "ბრეინშტორმინგი"
-  description: ""
-  place: "204-ე აუდიტორია"
--
-  id: 008
-  title: "Pitching"
-  description: "ჰაკათონის იდეების წარდგენა, პრეზენტაცია"
-  place: "204-ე აუდიტორია"
--
-  id: 009
-  title: "კვება"
-  description: ""
-  place: "204-ე აუდიტორიის შესასვლელში"
--
-  id: 010
-  title: "Hacking"
-  description: "მუშაობა საკუთარ პროექტებზე"
-  place: "204-ე აუდიტორია"
--
-  id: 011
-  title: "სნექები"
-  description: ""
-  place: "204-ე აუდიტორიის შესასვლელში"
+# -
+#   id: 005
+#   title: "ჰაკათონის რეგისტრაცია"
+#   description: "იწყება რეგისტრაცია ჰაკათონის მონაწილეებისთვის"
+#   place: "204-ე აუდიტორიის შესასვლელში"
+# -
+#   id: 006
+#   title: "ჰაკათონის გახსნა"
+#   description: "ჰაკათონის გახსნის ცერემონია"
+#   place: "204-ე აუდიტორია"
+# -
+#   id: 007
+#   title: "ბრეინშტორმინგი"
+#   description: ""
+#   place: "204-ე აუდიტორია"
+# -
+#   id: 008
+#   title: "Pitching"
+#   description: "ჰაკათონის იდეების წარდგენა, პრეზენტაცია"
+#   place: "204-ე აუდიტორია"
+# -
+#   id: 009
+#   title: "კვება"
+#   description: ""
+#   place: "204-ე აუდიტორიის შესასვლელში"
+# -
+#   id: 010
+#   title: "Hacking"
+#   description: "მუშაობა საკუთარ პროექტებზე"
+#   place: "204-ე აუდიტორია"
+# -
+#   id: 011
+#   title: "სნექები"
+#   description: ""
+#   place: "204-ე აუდიტორიის შესასვლელში"
