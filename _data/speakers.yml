@@ -1,27 +1,54 @@
 - 
   id: 3
-  name: "Baris"
+  name: "Baris "
   surname: "Yesugey"
   company: "Google"
   title: "Google-ის წარმომადგენელი"
-  bio: ""
+  bio: '<p>As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on <a href="https://developers.google.com/">developers.google.com</a> . I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.</p>'
   thumbnailUrl: baris.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: ""}
 - 
   id: 4
-  name: "Oytun"
-  surname: "Eren Sengul"
-  company: "U/UX Expert"
-  title: "U/UX ექსპერტი და ციფრული გამოცდილების კონსულტანტი"
-  bio: ''
+  name: "Oytun "
+  surname: "Eren  Sengul"
+  company: ""
+  title: "Business, Communication, Growth Marketing, Ecosystem, UX, Mobile Development, Design, Startups..."
+  bio: "I'm heavily interested in startups, mobile apps, Community build up, Growth Hacking and UX. By the way, I love kernels and operating systems. As every Sales&Marketing Specialist needs to understand about business, as much as I did; presales, sale, tele-marketing, B2B & B2C marketing, enterprise communications... As every Community Manager needs to understand about programming, as much as I understand; Objective-C, Java, .NET, JavaScript, Python, HTML5, C and my hobby is Assembly. Member of Linux Foundation, Turkish, working on emerging mobile software markets, in vehicle infotainment and decided to growth Linux based in everywhere. Communication between developers-producers-end users. Ready for sale and well prepared to enterprise. Mobile software development team lead and ecosystem provider. End of the day, try to learn everything about life and always keep searching based mobile."
   thumbnailUrl: oytun.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+    - 
+- 
+  id: 5
+  name: "შალვა "
+  surname: "ბუკია"
+  company: "Co-Founder at In2circle"
+  title: ""
+  bio: '<p>დაიწყო ვებ სტუდია Pixel-ში ვებ დიზაინერად, შემდეგ Singular Group-ში იყო არტ დირექტორი, შემდეგ Bank of Georgia - Digital Experience Designer. ამჟამად არის <a href="http://sadili.ge">სადილი.ge</a> (საჭმლის ქეითერინგ სერვისი, in2circle inc.-ის ქვეკომპანია) - თანადამფუძნებელი და Spribe (IT კომპანია, <a href="http://spribe.co/">spribe.co</a>) - პარტნიორი.</p>'
+  thumbnailUrl: shalva_bukia.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/shalvius"}
+    - {name: "site", link: "http://sadili.ge"}
+    - {name: "site", link: "http://spribe.co"}
+- 
+  id: 6
+  name: "ოთო "
+  surname: "მესხი"
+  company: "Developer"
+  title: ""
+  bio: "13 წლიანი გამოცდილების მქონე Software Architect და Full Stack Developer. ბოლო სამუშაო - პროგრამული უზრუნველყოფის განყოფილების უფროსი სილქნეტში; ამ ეტაპზე - საკუთარი სტარტაპის განვითარება, სხვა და სხვა საინტერესო პროექტებში ჩართულობა."
+  thumbnailUrl: oto_meskhi.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "facebook.com/otomeskhy"}
+    - {name: "twitter", link: "twitter.com/otomeskhy"}
+    - {name: "linkedin", link: "linkedin.com/in/otomeskhy"}
     - 
 # -
 #   id: 5
