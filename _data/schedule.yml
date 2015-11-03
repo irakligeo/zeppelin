@@ -2,9 +2,12 @@
   date: "2014-10-24"
   dateReadable: "October 24"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "ღია ლექციები", color: "#2196F3"}
+    - {title: "ვორქშოფები", color: "#009688"}
+    - {title: "ჰაკათონი", color: "#607D8B"}
+    - {title: "WomanTechMakers", color: "#00E5FF"}
+    - {title: "Design Sprint", color: "#3D5AFE"}
+    - {title: "ჯეოლაბი", color: "#512DA8"}
   timeslots:
     - {
     	startTime: "10:00",
