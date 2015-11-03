@@ -124,34 +124,68 @@
         endTime: "02:00",
         sessionIds: [404, 404, 404, 411, 404]
     }
-# - 
-#   date: "2015-11-08"
-#   dateReadable: "8 ნოემბერი"
-#   tracks: 
-#     - {title: "ღია ლექციები", color: "#2196F3"}
-#     - {title: "ვორქშოფები", color: "#009688"}
-#     - {title: "ჰაკათონი", color: "#607D8B"}
-#     - {title: "WomanTechMakers", color: "#00E5FF"}
-#     - {title: "Design Sprint", color: "#3D5AFE"}
-#     - {title: "ჯეოლაბი", color: "#512DA8"}
-#   timeslots: 
-#     - {
-#         startTime: "10:00",
-#         endTime: "10:45",
-#         sessionIds: [404, 002]
-#     }
-#     - {
-#         startTime: "11:00",
-#         endTime: "11:45",
-#         sessionIds: [002, 003]
-#     }
-#     - {
-#         startTime: "13:00",
-#         endTime: "13:45",
-#         sessionIds: [003]
-#     }
-#     - {
-#         startTime: "14:00",
-#         endTime: "15:00",
-#         sessionIds: [503]
-#     }
+- 
+  date: "2015-11-08"
+  dateReadable: "8 ნოემბერი"
+  tracks: 
+    - {title: "ღია ლექციები", color: "#2196F3"}
+    - {title: "ვორქშოფები", color: "#009688"}
+    - {title: "ჰაკათონი", color: "#607D8B"}
+    - {title: "Design Sprint", color: "#3D5AFE"}
+    - {title: "ჯეოლაბი", color: "#512DA8"}
+  timeslots: 
+    - {
+        startTime: "09:00",
+        endTime: "09:50",
+        sessionIds: [404, 404, 404, 410, 404]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:50",
+        sessionIds: [404, 404, 404, 409, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:50",
+        sessionIds: [404, 404, 404, 412, 404]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:50",
+        sessionIds: [404, 404, 404, 410, 404]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:50",
+        sessionIds: [404, 404, 404, 410, 404]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:50",
+        sessionIds: [404, 404, 404, 410, 404]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:50",
+        sessionIds: [404, 404, 404, 409, 404]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:50",
+        sessionIds: [404, 404, 404, 413, 404]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "18:30",
+        sessionIds: [404, 404, 404, 413, 404]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:50",
+        sessionIds: [404, 404, 404, 414, 404]
+    }
+    - {
+        startTime: "19:30",
+        endTime: "20:00",
+        sessionIds: [900, 900, 900, 900, 900]
+    }
