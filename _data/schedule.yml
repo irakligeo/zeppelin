@@ -1,6 +1,47 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2015-11-06"
+  dateReadable: "6 ნოემბერი"
+  tracks: 
+    - {title: "ჰაკათონი", color: "#607D8B"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "19:20",
+    	sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "19:30",
+        endTime: "20:00",
+        sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "21:15",
+        sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "21:30",
+        endTime: "22:00",
+        sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "22:30",
+        endTime: "23:00",
+        sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "23:00",
+        endTime: "03:00",
+        sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "03:00",
+        endTime: "04:00",
+        sessionIds: [002, 003, 004]
+    }
+- 
+  date: "2015-11-07"
+  dateReadable: "7 ნოემბერი"
   tracks: 
     - {title: "ღია ლექციები", color: "#2196F3"}
     - {title: "ვორქშოფები", color: "#009688"}
@@ -8,28 +49,6 @@
     - {title: "WomanTechMakers", color: "#00E5FF"}
     - {title: "Design Sprint", color: "#3D5AFE"}
     - {title: "ჯეოლაბი", color: "#512DA8"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "10:00",
@@ -50,4 +69,35 @@
     	startTime: "14:00",
     	endTime: "15:00",
     	sessionIds: [503]
+    }
+- 
+  date: "2015-11-08"
+  dateReadable: "8 ნოემბერი"
+  tracks: 
+    - {title: "ღია ლექციები", color: "#2196F3"}
+    - {title: "ვორქშოფები", color: "#009688"}
+    - {title: "ჰაკათონი", color: "#607D8B"}
+    - {title: "WomanTechMakers", color: "#00E5FF"}
+    - {title: "Design Sprint", color: "#3D5AFE"}
+    - {title: "ჯეოლაბი", color: "#512DA8"}
+  timeslots: 
+    - {
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [404, 002]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [002, 003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [503]
     }
