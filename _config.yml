@@ -108,7 +108,7 @@ latestNewsTitle: "სიახლეები"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "სპიკერები"
-# rockstarSpeakersButtonText: "ნახეთ ყველა სპიკერი"
+rockstarSpeakersButtonText: "ნახეთ ყველა სპიკერი"
 
 # Location Block
 locationBlockTitle: "მისამართი"
