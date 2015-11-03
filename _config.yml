@@ -64,12 +64,12 @@ bottomNavigationLinks:
  - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
- - {link: "https://docs.google.com/forms/d/17i7gQJ9CckL_pJtqgK20nVhjYHgiViSebdeylgMrBuQ/viewform", text: "დიზაინ სპრინტი"}
+ - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
- - {link: "https://docs.google.com/forms/d/17i7gQJ9CckL_pJtqgK20nVhjYHgiViSebdeylgMrBuQ/viewform", text: "დიზაინ სპრინტი"}
+ - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -81,7 +81,7 @@ heroButtons:
  - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
- - {link: "https://docs.google.com/forms/d/17i7gQJ9CckL_pJtqgK20nVhjYHgiViSebdeylgMrBuQ/viewform", text: "დიზაინ სპრინტი"}
+ - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 hackathonButtons:
  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
