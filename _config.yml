@@ -57,7 +57,7 @@ navigationLinks:
  - {permalink: "/", text: "მთავარი"}
  - {permalink: "/blog/", text: "სიახლეები"}
  # - {permalink: "/schedule/", text: "განრიგი"}
- # - {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/team/", text: "ჩვენ"}
  - {permalink: "/hackathon/", text: "ჰაკათონი"}
 bottomNavigationLinks:
