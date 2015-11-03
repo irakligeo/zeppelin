@@ -166,24 +166,28 @@
   description: "რა არის საჭირო ანდროიდ აპლიკაციის გასაკეთებლად და როგორ დავწეროთ პირველი აპპი."
   subtype: workshop
   complexity: "Intermediate"
+  service: true
 -
   id: 505
   title: "Android Material Design"
   description: "როგორ ავაწყოთ ანდროიდ აპლიკაციის დიზაინი Material Design-ის დახმარებით"
   subtype: workshop
   complexity: "Intermediate"
+  service: true
 -
   id: 506
   title: "2D თამაში მობილურისთვის"
   description: "როგორ გავაკეთოთ მარტივი 2D თამაში ჩვენი ტელეფონებისთვის"
   subtype: workshop
   complexity: "Intermediate"
+  service: true
 -
   id: 507
   title: "Front End"
   description: "როგორ ავაწყოთ ვებსაიტი"
   subtype: workshop
   complexity: "Intermediate"
+  service: true
 -
   id: 601
   title: "რეგისტრაცია"
