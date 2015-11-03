@@ -61,34 +61,41 @@
   id: 405
   title: "ჰაკათონის რეგისტრაცია"
   description: "იწყება რეგისტრაცია ჰაკათონის მონაწილეებისთვის"
+  service: true
   place: "204-ე აუდიტორიის შესასვლელში"
 -
   id: 406
   title: "ჰაკათონის გახსნა"
   description: "ჰაკათონის გახსნის ცერემონია"
+  service: true
   place: "204-ე აუდიტორია"
 -
   id: 407
   title: "ბრეინშტორმინგი"
-  description: ""
+  description: "204-ე აუდიტორია"
+  service: true
   place: "204-ე აუდიტორია"
 -
   id: 408
   title: "Pitching"
   description: "ჰაკათონის იდეების წარდგენა, პრეზენტაცია"
+  service: true
   place: "204-ე აუდიტორია"
 -
   id: 409
   title: "კვება"
-  description: ""
+  description: "204-ე აუდიტორიის შესასვლელში"
+  service: true
   place: "204-ე აუდიტორიის შესასვლელში"
 -
   id: 410
   title: "Hacking"
   description: "მუშაობა საკუთარ პროექტებზე"
+  service: true
   place: "204-ე აუდიტორია"
 -
   id: 411
   title: "სნექები"
-  description: ""
+  description: "204-ე აუდიტორიის შესასვლელში"
+  service: true
   place: "204-ე აუდიტორიის შესასვლელში"
