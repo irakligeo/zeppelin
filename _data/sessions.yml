@@ -99,3 +99,9 @@
   description: "204-ე აუდიტორიის შესასვლელში"
   service: true
   place: "204-ე აუდიტორიის შესასვლელში"
+-
+  id: 412
+  title: "Checkpoint"
+  description: "პროექტების სტატუსების გავლა მენტორებთან"
+  service: true
+  place: "204-ე აუდიტორია"
