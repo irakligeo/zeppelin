@@ -8,7 +8,9 @@
   thumbnailUrl: baris.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 - 
   id: 4
   name: "Oytun "
@@ -19,9 +21,9 @@
   thumbnailUrl: oytun.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/108497665620300512154/posts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAhca1wBpeo1LmSdcukJEjVRRI-tPW8Nbog&authType=NAME_SEARCH&authToken=HbHX&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A140274524%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889140662%2Ctas%3AOytun%20Eren%20Sengul"}
+    - {name: "facebook", link: "https://www.facebook.com/oytuneren?fref=ts"}
     - 
 - 
   id: 5
