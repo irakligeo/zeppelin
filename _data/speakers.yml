@@ -48,10 +48,23 @@
   thumbnailUrl: oto_meskhi.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "facebook.com/otomeskhy"}
-    - {name: "twitter", link: "twitter.com/otomeskhy"}
-    - {name: "linkedin", link: "linkedin.com/in/otomeskhy"}
-    - 
+    - {name: "facebook", link: "https://www.facebook.com/otomeskhy"}
+    - {name: "twitter", link: "https://twitter.com/otomeskhy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/otomeskhy"}
+- 
+  id: 7
+  name: "ანდრო "
+  surname: "აბაშიძე"
+  company: "Mobius, Freelancer"
+  title: "Game Designer"
+  bio: "10 წელია დაკავებულია გრაფიკული დიზაინით, ხოლო ბოლო 5 წელი - თამაშების და აპლიკაციების დიზაინით... ამჟამად მუშაობს კომპანია მობიუსში და თავისუფალ დროს მუშაობს ფრილანს პროექტებზე. ლამაზი, საყვარელი, ფუმფულა. უყვარს თამაშები, ცოცხლობს თამაშებით და თვითონაც თამაშობს :) PS. დახურული აქვს Counter-Strike !"
+  thumbnailUrl: andro_abashidze_1.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/andronix1"}
+    - {name: "site", link: "https://www.facebook.com/AndronixGFX/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAABJNyi0BUyI0rmnm_R_Q6NJC6M-XYz7RFEE&trk=hp-identity-name"}
+    - {name: "site", link: "https://www.behance.net/AndroniX"}
 # -
 #   id: 5
 #   name: "ირაკლი"
