@@ -118,6 +118,113 @@
   service: true
   place: "200-ე აუდიტორია"
 -
+  id: 201
+  title: "GDG Devfest Tbilisi 2015 გახსნა"
+  description: "დეველოპერების ფესტივალის გახსნა"
+  subtype: keynote
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 202
+  title: "ორიოდე სიტყვა პროდუქტ დიზაინის შესახებ"
+  description: "რა არის პროდუქტ დიზაინი და რასთან ერთად იჭმევა? როგორ იქმნება კარგი (ამ შემთხვევაში ციფრული) პროდუქტი. რა ნიუანსები არსებობს და რას უნდა მიექცეს ყურადღება. დეველოპერის როლი პროდუქტ დიზაინში."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+-
+  id: 203
+  title: "Paper to Digital: Google Material Design"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 204
+  title: "2D Game Design"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediate"
+-
+  id: 205
+  title: "Web MIDI API"
+  description: "Web MIDI API-ს მცირე შესავალი და რეალური დემონსტრაცია. Web MIDI API არის ექსპერიმენტული და (ჯერ-ჯერობით) არც ისე ცნობილი ტექნოლოგია, რომლის დახმარებითაც შეგვიძლია დავაკავშიროთ MIDI Hardware და ბრაუზერი."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Intermediate"
+-
+  id: 308
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "საუკეთესო დრო სპიკერებთან და დამსწრეებთან სასაუბროდ :)"
+-
+  id: 504
+  title: "ანდროიდის ვორქშოფი"
+  description: "რა არის საჭირო ანდროიდ აპლიკაციის გასაკეთებლად და როგორ დავწეროთ პირველი აპპი."
+  subtype: workshop
+  complexity: "Intermediate"
+-
+  id: 505
+  title: "Android Material Design"
+  description: "როგორ ავაწყოთ ანდროიდ აპლიკაციის დიზაინი Material Design-ის დახმარებით"
+  subtype: workshop
+  complexity: "Intermediate"
+-
+  id: 506
+  title: "2D თამაში მობილურისთვის"
+  description: "როგორ გავაკეთოთ მარტივი 2D თამაში ჩვენი ტელეფონებისთვის"
+  subtype: workshop
+  complexity: "Intermediate"
+-
+  id: 507
+  title: "Front End"
+  description: "როგორ ავაწყოთ ვებსაიტი"
+  subtype: workshop
+  complexity: "Intermediate"
+-
+  id: 601
+  title: "რეგისტრაცია"
+  description: "ჯგუფების რეგისტრაცია Design Sprint-ზე"
+  service: true
+-
+  id: 602
+  title: "Sprint-ის დაწყება"
+  description: "იწყება Design Sprint-ის მუშაობა"
+  service: true
+-
+  id: 603
+  title: "Sprint-ის გაგრძელება"
+  description: "გრძელდება მუშაობა Design Sprint-ზე"
+  service: true
+-
+  id: 604
+  title: "Sprint-ის დასრულება"
+  description: "სრულდება მუშაობა Design Sprint-ზე"
+  service: true
+-
+  id: 805
+  title: "ექსპოს გახსნა"
+  description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
+  service: true
+-
+  id: 806
+  title: "ექსპოს დახურვა"
+  description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
+  service: true
+-
+  id: 807
+  title: "SpaceX-ის კონკურსის დაწყება"
+  description: "კონკურსი ჯეოლაბში სტუდენტების მიერ შექმნილ თამაშში SpaceX"
+  service: true
+-
+  id: 808
+  title: "SpaceX-ის კონკურსის დასრულება"
+  description: "კონკურსი ჯეოლაბში სტუდენტების მიერ შექმნილ თამაშში SpaceX"
+  service: true
+-
   id: 900
   title: "დაჯილდოება"
   description: "გამარჯვებულების დაჯილდოება და DevFest-ის დახურვა"
