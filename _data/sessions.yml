@@ -209,6 +209,16 @@
   description: "სრულდება მუშაობა Design Sprint-ზე"
   service: true
 -
+  id: 701
+  title: "WomenTechMakers"
+  description: "სესია 1"
+  service: true
+-
+  id: 702
+  title: "WomenTechMakers"
+  description: "სესია 2"
+  service: true
+-
   id: 805
   title: "ექსპოს გახსნა"
   description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
