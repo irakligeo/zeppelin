@@ -176,6 +176,13 @@
   speakers: [10]
   complexity: "Intermediate"
 -
+  id: 209
+  title: "UX in Agile World "
+  description: ""
+  subtype: presentation
+  speakers: [11]
+  complexity: "Intermediate"
+-
   id: 308
   title: "Coffee Break"
   place: "Hall"
