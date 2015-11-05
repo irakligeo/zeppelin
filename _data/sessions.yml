@@ -178,7 +178,7 @@
 -
   id: 209
   title: "UX in Agile World "
-  description: ""
+  description: "Agile is a way to get everything done as fast as possible, so the user experience is often disregarded in Agile development, as it needs time for general processes, like user research. But dealing with UX issues cannot be ignored as your competitors are always a tap away. So how to not make things slow in Agile, but also take care of user experience?"
   subtype: presentation
   speakers: [11]
   complexity: "Intermediate"
