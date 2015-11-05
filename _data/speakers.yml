@@ -65,6 +65,39 @@
     - {name: "site", link: "https://www.facebook.com/AndronixGFX/"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAABJNyi0BUyI0rmnm_R_Q6NJC6M-XYz7RFEE&trk=hp-identity-name"}
     - {name: "site", link: "https://www.behance.net/AndroniX"}
+- 
+  id: 8
+  name: "დავით "
+  surname: "გოჩავა"
+  company: "Mobius"
+  title: "Developer, ლექტორი"
+  bio: "2 წელია მუშაობს კომპანია მობიუსში lead game developer-ად. მართალია, ჯერ მნიშვნელოვანი არაფერი შეუქმნია, მაგრამ ცხოვრება წინაა."
+  thumbnailUrl: deo_gochava.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/deo.gochava"}
+- 
+  id: 9
+  name: "აჩი "
+  surname: "კუპრაშვილი"
+  company: "Leavingstone"
+  title: "Developer"
+  bio: "მეზარებოდა რა სკოლაში გაკვეთილებზე სიარული, 13 წლის ასაკში დავიწყე ალგორითმების “წრეზე სიარული”. ჩანაფიქრმა გაამართლა, და მეტიც დამაინტერესა და მიმახვედრა, რომ That’s my life. უკვე 2 წელია Leavingstone რიგებში ვიბრძვი IOS Developer_ის სტატუსით. ჰობი - კალათურთის თამაში და საზოგადოებრივ თავშეყრის ადგილებში ძილი. დახასიათება - უნიკალურად ზარმაცი. შემიძლია ერთდროულად 2 “არაფერი” ვაკეთო."
+  thumbnailUrl: achi_kuprashvili.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/achiko.kuprashvili"}
+- 
+  id: 10
+  name: "ილო "
+  surname: "ღლონტი"
+  company: "Head of Seed Forum Georia, Founder of IHUB Tbilisi."
+  title: ""
+  bio: "Seed Forum Georia-ს Head-ი, IHUB Tbilisi Founder. აქამდე ვიყავი 'თავისუფალი დებატების ლიგის'' დამაარსებელი, ICC-Georgia-ს 3rd Chairman, უკრაინაში ვიყავი რივნეს ვიცე-გუბენრატორის მოვალეობის შემსრულებელი, ასევე ტერნოპოლის ოლქის რეფორმების საბჭოს ხელმძღვანელი."
+  thumbnailUrl: ilo_ghlonti.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
 # -
 #   id: 5
 #   name: "ირაკლი"
