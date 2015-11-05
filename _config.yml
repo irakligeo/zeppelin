@@ -96,7 +96,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "დამსწრე", detail: ""}
+ - {count: "330", specialCharacter: "+", info: "დამსწრე", detail: ""}
  - {count: "48", specialCharacter: "+", info: "საათი", detail: ""}
  - {count: "10", specialCharacter: "+", info: "სპიკერი", detail: ""}
  - {count: "4", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
