@@ -98,6 +98,17 @@
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
+- 
+  id: 11
+  name: "Vardan "
+  surname: "Grigoryan"
+  company: "GDG Yerevan"
+  title: ""
+  bio: "GDG Yerevan Organizer for 5 years. Currently work as a Product Owner at Ginosi Apartments, mostly focused on UX, so we call it UX Owner."
+  thumbnailUrl: vardan_grigoryan.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
 # -
 #   id: 5
 #   name: "ირაკლი"
