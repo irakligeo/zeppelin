@@ -13,6 +13,7 @@
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "400px", height: "400px"}
     - {name: "Night Pizza", description: "NP", link: "http://nightpizza.ge", imageUrl: "nightpizza.svg", width: "100px"}
     - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
+    - {name: "IHUB", description: "IHUB", link: "https://www.facebook.com/IHUB-Tbilisi-863627120411270", imageUrl: "ihub-logo.svg", width: "120px"}
 # - 
   # group: "Information partners"
   # elements: 
