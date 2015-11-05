@@ -108,7 +108,18 @@
   thumbnailUrl: vardan_grigoryan.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
+    - {name: "facebook", link: "https://www.facebook.com/ajmikzer"}
+# - 
+#   id: 12
+#   name: "ოთო "
+#   surname: "ზაკალაშვილი"
+#   company: ""
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: vardan_grigoryan.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/otarza"}
 # -
 #   id: 5
 #   name: "ირაკლი"
