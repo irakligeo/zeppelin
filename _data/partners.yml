@@ -2,7 +2,7 @@
   group: "გენერალური სპონსორები"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "TBC Bank", description: "TBC Bank", link: "http://tbc.ge", imageUrl: "tbc_2.svg", width: "400px"}
+    - {name: "TBC Bank", description: "TBC Bank", link: "http://tbc.ge", imageUrl: "tbc_2.svg", width: "800px"}
     - {name: "Geocell", description: "Geocell", link: "http://geocell.ge", imageUrl: "geocell-logo.svg", width: "400px", height: "400px"}
     - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg"}
 
