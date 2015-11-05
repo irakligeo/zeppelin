@@ -2,14 +2,17 @@
   group: "გენერალური სპონსორები"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "TBC Bank", description: "TBC Bank", link: "http://tbc.ge", imageUrl: "tbc.svg"}
+    - {name: "Geocell", description: "Geocell", link: "http://geocell.ge", imageUrl: "geocell-logo.svg", width: "400px", height: "400px"}
     - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg"}
+
 - 
   group: "მხარდამჭერები"
   elements: 
-    - {name: "Geocell", description: "Geocell", link: "http://geocell.ge", imageUrl: "geocell-logo.svg", width: "400px", height: "400px"}
     - {name: "GAU", description: "GAU", link: "http://gau.ge", imageUrl: "gau-logo.svg", width: "120px"}
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "400px", height: "400px"}
     - {name: "Night Pizza", description: "NP", link: "http://nightpizza.ge", imageUrl: "nightpizza.svg", width: "100px"}
+    - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
 # - 
   # group: "Information partners"
   # elements: 
