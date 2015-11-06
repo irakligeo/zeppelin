@@ -99,7 +99,7 @@ statisticBlock:
  - {count: "330", specialCharacter: "+", info: "დამსწრე", detail: ""}
  - {count: "48", specialCharacter: "+", info: "საათი", detail: ""}
  - {count: "10", specialCharacter: "+", info: "სპიკერი", detail: ""}
- - {count: "4", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
+ - {count: "5", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "სიახლეები"
