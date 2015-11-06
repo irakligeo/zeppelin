@@ -109,17 +109,17 @@
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/ajmikzer"}
-# - 
-#   id: 12
-#   name: "ოთო "
-#   surname: "ზაკალაშვილი"
-#   company: ""
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: vardan_grigoryan.jpg
-#   rockstar: true
-#   social: 
-#     - {name: "facebook", link: "https://www.facebook.com/otarza"}
+- 
+  id: 12
+  name: "ოთო "
+  surname: "ზაკალაშვილი"
+  company: "ყველაზე ზარმაცი დეველოპერი"
+  title: "ყველაზე ზარმაცი დეველოპერი"
+  bio: "ყველაზე ზარმაცი დეველოპერი"
+  thumbnailUrl: oto_zakalashvili.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/otarza"}
 # -
 #   id: 5
 #   name: "ირაკლი"
