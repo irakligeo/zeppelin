@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Tbilisi DevFest 2015"
+title: "GDG Tbilisi DevFest 2016"
 email: "info@geolab.edu.ge"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "" #/zeppelin
@@ -59,7 +59,9 @@ navigationLinks:
  - {permalink: "/schedule/", text: "განრიგი"}
  - {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/team/", text: "ჩვენ"}
- - {permalink: "/hackathon/", text: "ჰაკათონი"}
+ # - {permalink: "/hackathon/", text: "ჰაკათონი"}
+
+
 # bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  # - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
@@ -73,8 +75,8 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "ნოემბერი 6-7-8, 2015"
+heroTitle: "GDG DevFest <typeout> 2016"
+eventDate: "ნოემბერი 27, 2016"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
@@ -91,7 +93,7 @@ aboutTitle: "GDG DevFest-ის შესახებ"
 aboutBlock:
  - {title: "კონფერენცია", image: "conference.jpg", text: "GDG–ის ყოველწლიური დეველოპერული ფესტივალი საქართველოში. Google-ის წარმომადგენლები, საინტერესო სპიკერები და განსაკუთრებული ღონისძიება სპეციალურად GDG თბილისისთვის." }
  - {title: "ვორქშოფები", image: "workshop.jpg", text: "2 საათიანი პრაქტიკული ლექცია, რომელზეც მონაწილეები თავად შექმნიან მარტივ აპლიკაციებსა და დიზაინს. ბევრი პროგრამირება, ინოვაცია და ტექნოლოგია." }
- - {title: "ჰაკათონი", image: "hackathon_main_page.jpg", text: "48 საათიანი ღონისძიება. გააქვთ ტექნოლოგიებთან დაკავშირებული ინოვაციური იდეა? შემოგვიერთდით ჰაკათონზე და აქციეთ ის რეალობად!" }
+ # - {title: "ჰაკათონი", image: "hackathon_main_page.jpg", text: "48 საათიანი ღონისძიება. გააქვთ ტექნოლოგიებთან დაკავშირებული ინოვაციური იდეა? შემოგვიერთდით ჰაკათონზე და აქციეთ ის რეალობად!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
