@@ -74,9 +74,9 @@ navigationLinks:
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "khokhobi.png"
 heroTitle: "GDG DevFest <typeout> 2016"
-eventDate: "ნოემბერი 27, 2016"
+eventDate: "27 ნოემბერი, 2016"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
@@ -114,28 +114,35 @@ rockstarSpeakersButtonText: "ნახეთ ყველა სპიკერ�
 
 # Location Block
 locationBlockTitle: "მისამართი"
-eventLocationName: "ჯეოლაბი"
+eventLocationName: "ტექნოპარკი"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "მერაბ ალექსიძის 8"
+eventStreetAddress: "ინოვაციების 7"
 eventAddressLocality: "თბილისი"
 eventAddressLocalityRegion: "საქართველო"
 eventPostalCode: "0160"
 eventAddressCountry: "საქართველო"
-eventStartTime: "2015-11-07T11:00"
+eventStartTime: "2016-11-27T12:00"
 eventDoorTime: "10:00"
-eventEndTime: "2015-11-08T20:00"
-eventPlaceCoordinates: "41.717753, 44.784889"
-mapCenterCoordinates: "41.717753, 44.784889"
-mapMobileCenterCoordinates: "41.717753, 44.784889"
+eventEndTime: "2016-11-272T23:00"
+# "41.688312, 44.769244" - ჯეოლაბის
+eventPlaceCoordinates: "41.688312, 44.769244"
+mapCenterCoordinates: "41.688312, 44.769244"
+mapMobileCenterCoordinates: "41.688312, 44.769244"
 
 # Venue Block
-venueBlockTitle: "ჯეოლაბი"
-venueBigImage: "geolab_1.jpg"
-venueSmallImage1: "geolab_2.jpg"
-venueSmallImage2: "geolab_3.jpg"
-venueSmallImage3: "geolab_4.jpg"
-venueTitle: "ჯეოლაბის ლაბორატორია"
-venueFeatures: ["მობილური და ვებ აპლიკაციების ლაბორატორია, რომელიც 24 საათის განმავლობაში ღიაა საინტერესო და ინოვაციური პროექტებისთვის."]
+venueBlockTitle: "ტექნოპარკი"
+venueBigImage: "techpark1.jpg"
+venueSmallImage1: "techpark2.jpg"
+venueSmallImage2: "techpark3.jpg"
+venueSmallImage3: "techpark1.jpg"
+venueFeatures: ["ტექნოპარკი არის სივრცე, სადაც თავმოყრილია ტექნოლოგიური, საგანმანათლებლო და პროფესიონალური რესურსები, რაც წარმოადგენს ერთგვარ პლატფორმას ინოვაციებსა და ტექნოლოგიებზე დაფუძნებული იდეებისა და ბიზნესების განვითარებისთვის."]
+# venueBlockTitle: "ჯეოლაბი"
+# venueBigImage: "geolab_1.jpg"
+# venueSmallImage1: "geolab_2.jpg"
+# venueSmallImage2: "geolab_3.jpg"
+# venueSmallImage3: "geolab_4.jpg"
+# venueTitle: "ჯეოლაბის ლაბორატორია"
+# venueFeatures: ["მობილური და ვებ აპლიკაციების ლაბორატორია, რომელიც 24 საათის განმავლობაში ღიაა საინტერესო და ინოვაციური პროექტებისთვის."]
 # venueFeatures: ["24/7-ზე სამუშაო გარემო", "საინტერესო ტექნიკით აღჭურვილი", "ქალაქის ცენტრში"]
 
 # Tweets Feed Block
