@@ -66,7 +66,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "statistic.jpg"
 heroTitle: "GDG DevFest <typeout> 2016"
 eventDate: "ნოემბერი 27, 2016"
 typeoutTextValues: '"", "Tbilisi"'
