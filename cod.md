@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: ქცევის კოდექსი
 permalink: /cod/
@@ -21,7 +21,7 @@ GDG თბილისი ამაყობს თავაზიანი, კ
 
 
 
-######საკონტაქტო ინფორმაცია:
+საკონტაქტო ინფორმაცია:
 
 ლიკა მოშიაშვილი
 
@@ -33,3 +33,4 @@ Email: [l.moshiashvili@geolab.edu.ge](mailto:l.moshiashvili@geolab.edu.ge)
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+######
