@@ -74,7 +74,7 @@ navigationLinks:
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
-heroImage: "khokhobiDark.jpg"
+heroImage: "actualKhokhobi.png"
 heroTitle: "GDG DevFest <typeout> 2016"
 eventDate: "27 ნოემბერი, 2016"
 typeoutTextValues: '"", "Tbilisi"'
