@@ -16,39 +16,32 @@
 -
 
 
+  id: 003
+  title: "Fonts"
+  description: ""
+  speakers: [3]
+  language: en
+-
+
+  id: 004
+  title: "Topology • ტოპოლოგია"
+  description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
+  speakers: [9]
+
+-
+
+  id: 005
+  title: "Tango with RxJava"
+  description: "<p>რა არის Reactive Programming?</p>
+  <p>რატომ გვჭირდება?</p>
+  <p>რა პრობლემას ჭრის RxJava?</p>
+  <p>როგორ შეიძლება გამოვიყენოთ?</p>
+  <p>RxJava ანდროიდში</p>"
+  speakers: [11]
 
 
 
-
-
-
-
-#   id: 003
-#   title: "Fonts"
-#   description: ""
-#   speakers: [3]
-#   language: en
-# -
-
-#   id: 004
-#   title: "Topology • ტოპოლოგია"
-#   description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
-#   speakers: [9]
-
-# -
-
-#   id: 005
-#   title: "Tango with RxJava"
-#   description: "<p>რა არის Reactive Programming?</p>
-#   <p>რატომ გვჭირდება?</p>
-#   <p>რა პრობლემას ჭრის RxJava?</p>
-#   <p>როგორ შეიძლება გამოვიყენოთ?</p>
-#   <p>RxJava ანდროიდში</p>"
-#   speakers: [11]
-
-
-
-
+-
 
 
     # სესიები 2016 წლამდე

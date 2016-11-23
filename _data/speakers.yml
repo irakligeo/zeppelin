@@ -34,7 +34,173 @@
   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 
 
+ 
+- 
 
+  id: 3
+  name: "Michael"
+  surname: "Everson"
+  company: "Unicode"
+  title: ""
+  bio: '<p></p>'
+  # thumbnailUrl: .jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+
+  id: 4
+  name: "ოთო"
+  surname: "ფრანგიშვილი"
+  company: ""
+  title: ""
+  bio: '<p></p>'
+  # thumbnailUrl: koko_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 5
+  name: "Paul"
+  surname: "Lammerts"
+  company: "Pixplicity"
+  title: "Co-Founder"
+  bio: '<p>Paul found his way into mobile technologies through mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to keep up with the latest developments and share knowledge by contributing into the open-source and chairing the GDG The Dutch Android User Group. He can frequently be seen giving tech talks & workshops at conferences across the globe.
+</p>'
+  # thumbnailUrl: koko_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 6
+  name: "პავლე"
+  surname: "გაბრიჭიძე"
+  company: "Leavingstone"
+  title: "Head of Digital Advertising Unit"
+  bio: '<p>პავლე გაბრიჭიძე 2014 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის იუნითის ჰედი.</p>
+  <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
+  <p>2013-2014 მართვის საინფორმაციო სისტემების კომპანია ოპტიმუსი - მარკეტინგის მენეჯერი.</p>
+  <p>2011-2012 კომპანია მობიფეი - კორპორტიული კლიენტების გაყიდვების წარმომადგენელი.</p>
+  <p>2009-2010 თავისუფალ უნივერსიტეტი - PR მენეჯერის ასისტენტი.</p>
+  <p>(2009-2013წწ.) დაამთავრა თბილისის თავისუფალი უნივერსიტეტი (ESM ბიზნეს სკოლა), ბიზნესის ადმინისტრირების ფაკულტეტი.</p>'
+  thumbnailUrl: pavle-gabritchidze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+- 
+
+  id: 7
+  name: "ანდრო"
+  surname: "ბორცვაძე"
+  company: "Leavingstone"
+  title: "Ads Manager"
+  bio: '<p>ანდრო ბორცვაძე 2015 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის მენეჯერი.</p>
+  <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
+  <p>ანდრო ბორცვაძემ დაამთავრა (2012-2016წწ.) ილიას სახელმწიფო უნივერსიტეტი, ბიზნესის ადმინისტრირების (მენეჯმენტი) ფაკულტეტი.</p>'
+  thumbnailUrl: andro-bortsvadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+
+  id: 8
+  name: "სალომე"
+  surname: "ვახტანგაძე"
+  company: ""
+  title: ""
+  bio: '<p>სალომე ვახტანგაძე - ხუთი წლის განმავლობაში მუშაობდა Google-ში სხვადასხვა პროექტზე!</p>
+  <p>დაამთავრა თბილისის სახელმწიფო უნივერსიტეტის გამოყენებითი მათემატიკის და კომპიუტერული მეცნიერებების ფაკულტეტი. არის ნიუ იორკის უნივერსიტეტის მაგისტრი.</p>'
+  # thumbnailUrl: koko_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+
+  id: 9
+  name: "სანდრო"
+  surname: "დოლუა"
+  company: ""
+  title: "სტრუქტურული ინჟინერი"
+  bio: '<p>Sandro Dolua is a structural engineer with ten years of experience who thinks people make decisions based on emotion, not reason.</p>'
+  thumbnailUrl: sandro_dolua_and_kylo.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+  id: 10
+  name: "სოფიო"
+  surname: "გაჩეჩილაძე"
+  company: ""
+  title: ""
+  bio: '<p></p>'
+  # thumbnailUrl: koko_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+ id: 11
+  name: "ტატო"
+  surname: "კუტალია"
+  company: "eMoney.ge"
+  title: "Android Developer"
+  bio: '<p>Android Developer @ eMoney.ge</p>
+  <p>RxJava enthusiast</p>
+  <p>უყვარს ჩხირკედელაობა</p>
+  <p>უსმენს jazz-სა და progressive-ს</p>
+  <p>Former dev @ myvideo.ge</p>
+  <p>CS Masters @ IBSU</p>'
+  thumbnailUrl: tato_kutalia.png
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+ id: 12
+  name: "ვახო"
+  surname: "ვახტანგიშვილი"
+  company: "Leavingstone"
+  title: "Co-Founder"
+  bio: '<p></p>'
+  thumbnailUrl: vakho_vakhtangishvili_3.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 
 
