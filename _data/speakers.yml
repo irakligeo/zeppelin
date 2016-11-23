@@ -1,8 +1,9 @@
+  
+
+   # 2016 წლის სპიკერები
+        
+       
 - 
-          
-          # 2016 წლის სპიკერები
-
-
   id: 1
   name: "გიორგი "
   surname: "მამალაძე"
@@ -15,7 +16,7 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
-
+- 
 
   id: 2
   name: "აკაკი"
@@ -32,7 +33,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
 
  id: 3
   name: "Michael"
@@ -47,7 +48,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
 
 
   id: 4
@@ -63,7 +64,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
 
   id: 5
   name: "Paul"
@@ -79,7 +80,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
 
   id: 6
   name: "პავლე"
@@ -98,7 +99,7 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
-
+- 
 
   id: 7
   name: "ანდრო"
@@ -115,7 +116,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
 
 
   id: 8
@@ -133,7 +134,7 @@
   #   - {name: "linkedin", link: ""}
 
 
-
+- 
 
 
   id: 9
@@ -150,7 +151,7 @@
   #   - {name: "linkedin", link: ""}
 
 
-
+- 
 
   id: 10
   name: "სოფიო"
@@ -165,7 +166,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
  id: 11
   name: "ტატო"
   surname: "კუტალია"
@@ -184,7 +185,7 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-
+- 
 
  id: 12
   name: "ვახო"

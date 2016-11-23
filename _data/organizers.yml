@@ -6,3 +6,4 @@
   group: "თანაორგანიზატორები"
   elements: 
     - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "120px"}
+    - {name: "GBG Tbilisi", description: "GBG Tbilisi", link: "http://devfest.ge", imageUrl: "GBGLOGO.svg", width: "120px"}
