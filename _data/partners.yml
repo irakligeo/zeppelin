@@ -16,9 +16,9 @@
     # - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
     # - {name: "IHUB", description: "IHUB", link: "https://www.facebook.com/IHUB-Tbilisi-863627120411270", imageUrl: "ihub.svg", width: "120px"}
     # - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
-    - {name: "ნატახტარი", description: "ნატახტარი", link: "http://www.natakhtari.com/", imageUrl: "natakhtari-logo.jpg", width: "120px"}
-    - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "400px"}
-    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains-logo.jpg", width: "400px", height: "400px"}
+    - {name: "ნატახტარი", description: "ნატახტარი", link: "http://www.natakhtari.com/", imageUrl: "natakhtari-logo.jpg", width: "80px"}
+    - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "100px"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains-logo.jpg", width: "100px", height: "400px"}
 # - 
   # group: "Information partners"
   # elements: 
