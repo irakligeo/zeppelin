@@ -38,7 +38,7 @@
 - 
 
   id: 3
-  name: "Michael"
+  name: "Michael "
   surname: "Everson"
   company: "Unicode"
   title: ""
@@ -54,7 +54,7 @@
 
 
   id: 4
-  name: "ოთო"
+  name: "ოთო "
   surname: "ფრანგიშვილი"
   company: ""
   title: ""
@@ -69,7 +69,7 @@
 - 
 
   id: 5
-  name: "Paul"
+  name: "Paul "
   surname: "Lammerts"
   company: "Pixplicity"
   title: "Co-Founder"
@@ -85,7 +85,7 @@
 - 
 
   id: 6
-  name: "პავლე"
+  name: "პავლე "
   surname: "გაბრიჭიძე"
   company: "Leavingstone"
   title: "Head of Digital Advertising Unit"
@@ -104,7 +104,7 @@
 - 
 
   id: 7
-  name: "ანდრო"
+  name: "ანდრო "
   surname: "ბორცვაძე"
   company: "Leavingstone"
   title: "Ads Manager"
@@ -122,7 +122,7 @@
 
 
   id: 8
-  name: "სალომე"
+  name: "სალომე "
   surname: "ვახტანგაძე"
   company: ""
   title: ""
@@ -140,7 +140,7 @@
 
 
   id: 9
-  name: "სანდრო"
+  name: "სანდრო "
   surname: "დოლუა"
   company: ""
   title: "სტრუქტურული ინჟინერი"
@@ -156,7 +156,7 @@
 - 
 
   id: 10
-  name: "სოფიო"
+  name: "სოფიო "
   surname: "გაჩეჩილაძე"
   company: ""
   title: ""
@@ -168,43 +168,43 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-- 
- id: 11
-  name: "ტატო"
-  surname: "კუტალია"
-  company: "eMoney.ge"
-  title: "Android Developer"
-  bio: '<p>Android Developer @ eMoney.ge</p>
-  <p>RxJava enthusiast</p>
-  <p>უყვარს ჩხირკედელაობა</p>
-  <p>უსმენს jazz-სა და progressive-ს</p>
-  <p>Former dev @ myvideo.ge</p>
-  <p>CS Masters @ IBSU</p>'
-  thumbnailUrl: tato_kutalia.png
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
+# - 
+#   id: 11
+#   name: "ტატო "
+#   surname: "კუტალია"
+#   company: "eMoney.ge"
+#   title: "Android Developer"
+#   bio: '<p>Android Developer @ eMoney.ge</p>
+#   <p>RxJava enthusiast</p>
+#   <p>უყვარს ჩხირკედელაობა</p>
+#   <p>უსმენს jazz-სა და progressive-ს</p>
+#   <p>Former dev @ myvideo.ge</p>
+#   <p>CS Masters @ IBSU</p>'
+#   thumbnailUrl: tato_kutalia.png
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
 
-- 
+# - 
 
- id: 12
-  name: "ვახო"
-  surname: "ვახტანგიშვილი"
-  company: "Leavingstone"
-  title: "Co-Founder"
-  bio: '<p></p>'
-  thumbnailUrl: vakho_vakhtangishvili_3.jpg
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
-
-
+#   id: 12
+#   name: "ვახო "
+#   surname: "ვახტანგიშვილი"
+#   company: "Leavingstone"
+#   title: "Co-Founder"
+#   bio: '<p></p>'
+#   thumbnailUrl: vakho_vakhtangishvili_3.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
 
 
+
+# -
 
 
 
