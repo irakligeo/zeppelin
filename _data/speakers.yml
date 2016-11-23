@@ -1,126 +1,353 @@
 - 
-  id: 3
-  name: "Baris "
-  surname: "Yesugey"
-  company: "Google"
-  title: "Developer Ecosystem Region Lead (Turkey, Central Asia, Caucasus)"
-  bio: '<p>As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on <a href="https://developers.google.com/">developers.google.com</a> . I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.</p>'
-  thumbnailUrl: baris.jpg
+          
+          # 2016 წლის სპიკერები
+
+
+  id: 1
+  name: "გიორგი "
+  surname: "მამალაძე"
+  company: "Siemens Factory Automation"
+  title: "Senior Software Architect"
+  bio: '<p>George Mamaladze is a Senior Software Architect at Siemens Factory Automation. He has extensive experience in technical leadership of teams creating large scale industry automation engineering, telecommunication and financial software.</p>'
+  thumbnailUrl: giorgi_mamaladze.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
-- 
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+  id: 2
+  name: "აკაკი"
+  surname: "რაზმაძე"
+  company: ""
+  title: "გრაფიკული და შრიფტის დიზაინერი"
+  bio: '<p>აკაკი რაზმაძეს რამოდენიმეწლიანი მუშაობის გამოცდილება აქვს, როგორც გრაფიკულ, ასევე შრიფტის დიზაინში და სალექციო კურსების წარმართვის მიმართულებით.</p>
+  <p>აკაკი რაზმაძემ დაამთავრა თბილისის სახელმწიფო სამხატვრო აკადემიის გრაფიკის განხრით.</p>
+  <p>მან მაგისტრის ხარისხი გერმანიაში მიიღო, საკომუნიკაციო დიზაინის მიმართულებით, სადაც ასევე გაიარა პრაქტიკა შრიფტების მწარმოებელ კომპანიაში -“Monotype”. ამ პერიოდში შექმნილი ქართული შრიფტები, როგორებიცაა Neue Helvetica Georgian, FF Meta Georgian დღეს ამ კომპანიის საკუთრებაა. დაამთავრა თბილისის სახელმწიფო სამხატვრო აკადემია, გრაფიკის მიმართულებით.</p>'
+  thumbnailUrl: koko_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+ id: 3
+  name: "Michael"
+  surname: "Everson"
+  company: "Unicode"
+  title: ""
+  bio: '<p></p>'
+  # thumbnailUrl: .jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+
   id: 4
-  name: "Oytun "
-  surname: "Eren  Sengul"
-  company: "Digital Experience Consultant"
-  title: "Business, Communication, Growth Marketing, Ecosystem, UX, Mobile Development, Design, Startups..."
-  bio: "I'm heavily interested in startups, mobile apps, Community build up, Growth Hacking and UX. By the way, I love kernels and operating systems. As every Sales&Marketing Specialist needs to understand about business, as much as I did; presales, sale, tele-marketing, B2B & B2C marketing, enterprise communications... As every Community Manager needs to understand about programming, as much as I understand; Objective-C, Java, .NET, JavaScript, Python, HTML5, C and my hobby is Assembly. Member of Linux Foundation, Turkish, working on emerging mobile software markets, in vehicle infotainment and decided to growth Linux based in everywhere. Communication between developers-producers-end users. Ready for sale and well prepared to enterprise. Mobile software development team lead and ecosystem provider. End of the day, try to learn everything about life and always keep searching based mobile."
-  thumbnailUrl: oytun.jpg
+  name: "ოთო"
+  surname: "ფრანგიშვილი"
+  company: ""
+  title: ""
+  bio: '<p></p>'
+  # thumbnailUrl: koko_razmadze.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/108497665620300512154/posts"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAhca1wBpeo1LmSdcukJEjVRRI-tPW8Nbog&authType=NAME_SEARCH&authToken=HbHX&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A140274524%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889140662%2Ctas%3AOytun%20Eren%20Sengul"}
-    - {name: "facebook", link: "https://www.facebook.com/oytuneren?fref=ts"}
-    - 
-- 
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
   id: 5
-  name: "შალვა "
-  surname: "ბუკია"
-  company: "Co-Founder at In2circle"
-  title: ""
-  bio: '<p>დაიწყო ვებ სტუდია Pixel-ში ვებ დიზაინერად, შემდეგ Singular Group-ში იყო არტ დირექტორი, შემდეგ Bank of Georgia - Digital Experience Designer. ამჟამად არის <a href="http://sadili.ge">სადილი.ge</a> (საჭმლის ქეითერინგ სერვისი, in2circle inc.-ის ქვეკომპანია) - თანადამფუძნებელი და Spribe (IT კომპანია, <a href="http://spribe.co/">spribe.co</a>) - პარტნიორი.</p>'
-  thumbnailUrl: shalva_bukia.jpg
+  name: "Paul"
+  surname: "Lammerts"
+  company: "Pixplicity"
+  title: "Co-Founder"
+  bio: '<p>Paul found his way into mobile technologies through mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to keep up with the latest developments and share knowledge by contributing into the open-source and chairing the GDG The Dutch Android User Group. He can frequently be seen giving tech talks & workshops at conferences across the globe.
+</p>'
+  # thumbnailUrl: koko_razmadze.jpg
   rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/shalvius"}
-    - {name: "site", link: "http://sadili.ge"}
-    - {name: "site", link: "http://spribe.co"}
-- 
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
   id: 6
-  name: "ოთო "
-  surname: "მესხი"
-  company: "Developer"
-  title: ""
-  bio: "13 წლიანი გამოცდილების მქონე Software Architect და Full Stack Developer. ბოლო სამუშაო - პროგრამული უზრუნველყოფის განყოფილების უფროსი სილქნეტში; ამ ეტაპზე - საკუთარი სტარტაპის განვითარება, სხვა და სხვა საინტერესო პროექტებში ჩართულობა."
-  thumbnailUrl: oto_meskhi.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/otomeskhy"}
-    - {name: "twitter", link: "https://twitter.com/otomeskhy"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/otomeskhy"}
-- 
-  id: 7
-  name: "ანდრო "
-  surname: "აბაშიძე"
-  company: "Mobius, Freelancer"
-  title: "Game Designer"
-  bio: "10 წელია დაკავებულია გრაფიკული დიზაინით, ხოლო ბოლო 5 წელი - თამაშების და აპლიკაციების დიზაინით... ამჟამად მუშაობს კომპანია მობიუსში და თავისუფალ დროს მუშაობს ფრილანს პროექტებზე. ლამაზი, საყვარელი, ფუმფულა. უყვარს თამაშები, ცოცხლობს თამაშებით და თვითონაც თამაშობს :) PS. დახურული აქვს Counter-Strike !"
-  thumbnailUrl: andro_abashidze_2.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/andronix1"}
-    - {name: "site", link: "https://www.facebook.com/AndronixGFX/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAABJNyi0BUyI0rmnm_R_Q6NJC6M-XYz7RFEE&trk=hp-identity-name"}
-    - {name: "site", link: "https://www.behance.net/AndroniX"}
-- 
-  id: 8
-  name: "დავით "
-  surname: "გოჩავა"
-  company: "Mobius"
-  title: "Developer, ლექტორი"
-  bio: "2 წელია მუშაობს კომპანია მობიუსში lead game developer-ად. მართალია, ჯერ მნიშვნელოვანი არაფერი შეუქმნია, მაგრამ ცხოვრება წინაა."
-  thumbnailUrl: deo_gochava.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/deo.gochava"}
-- 
-  id: 9
-  name: "აჩი "
-  surname: "კუპრაშვილი"
+  name: "პავლე"
+  surname: "გაბრიჭიძე"
   company: "Leavingstone"
-  title: "Developer"
-  bio: "მეზარებოდა რა სკოლაში გაკვეთილებზე სიარული, 13 წლის ასაკში დავიწყე ალგორითმების “წრეზე სიარული”. ჩანაფიქრმა გაამართლა, და მეტიც დამაინტერესა და მიმახვედრა, რომ That’s my life. უკვე 2 წელია Leavingstone რიგებში ვიბრძვი IOS Developer_ის სტატუსით. ჰობი - კალათურთის თამაში და საზოგადოებრივ თავშეყრის ადგილებში ძილი. დახასიათება - უნიკალურად ზარმაცი. შემიძლია ერთდროულად 2 “არაფერი” ვაკეთო."
-  thumbnailUrl: achi_kuprashvili.jpg
+  title: "Head of Digital Advertising Unit"
+  bio: '<p>პავლე გაბრიჭიძე 2014 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის იუნითის ჰედი.</p>
+  <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
+  <p>2013-2014 მართვის საინფორმაციო სისტემების კომპანია ოპტიმუსი - მარკეტინგის მენეჯერი.</p>
+  <p>2011-2012 კომპანია მობიფეი - კორპორტიული კლიენტების გაყიდვების წარმომადგენელი.</p>
+  <p>2009-2010 თავისუფალ უნივერსიტეტი - PR მენეჯერის ასისტენტი.</p>
+  <p>(2009-2013წწ.) დაამთავრა თბილისის თავისუფალი უნივერსიტეტი (ESM ბიზნეს სკოლა), ბიზნესის ადმინისტრირების ფაკულტეტი.</p>'
+  thumbnailUrl: pavle-gabritchidze.jpg
   rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/achiko.kuprashvili"}
-- 
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+  id: 7
+  name: "ანდრო"
+  surname: "ბორცვაძე"
+  company: "Leavingstone"
+  title: "Ads Manager"
+  bio: '<p>ანდრო ბორცვაძე 2015 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის მენეჯერი.</p>
+  <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
+  <p>ანდრო ბორცვაძემ დაამთავრა (2012-2016წწ.) ილიას სახელმწიფო უნივერსიტეტი, ბიზნესის ადმინისტრირების (მენეჯმენტი) ფაკულტეტი.</p>'
+  thumbnailUrl: andro-bortsvadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+
+  id: 8
+  name: "სალომე"
+  surname: "ვახტანგაძე"
+  company: ""
+  title: ""
+  bio: '<p>სალომე ვახტანგაძე - ხუთი წლის განმავლობაში მუშაობდა Google-ში სხვადასხვა პროექტზე!</p>
+  <p>დაამთავრა თბილისის სახელმწიფო უნივერსიტეტის გამოყენებითი მათემატიკის და კომპიუტერული მეცნიერებების ფაკულტეტი. არის ნიუ იორკის უნივერსიტეტის მაგისტრი.</p>'
+  # thumbnailUrl: koko_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+
+
+  id: 9
+  name: "სანდრო"
+  surname: "დოლუა"
+  company: ""
+  title: "სტრუქტურული ინჟინერი"
+  bio: '<p>Sandro Dolua is a structural engineer with ten years of experience who thinks people make decisions based on emotion, not reason.</p>'
+  thumbnailUrl: sandro_dolua_and_kylo.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+
   id: 10
-  name: "ილო "
-  surname: "ღლონტი"
-  company: "Head of Seed Forum Georia, Founder of IHUB Tbilisi."
+  name: "სოფიო"
+  surname: "გაჩეჩილაძე"
+  company: ""
   title: ""
-  bio: "Seed Forum Georgia-ს Head-ი, IHUB Tbilisi Founder. ის არის 'თავისუფალი დებატების ლიგის'' დამაარსებელი. ილია ღლონტი იყო ICC-Georgia-ს 3rd Chairman, ასევე მოღვაწეობდა უკრაინაში რივნეს ვიცე-გუბენრატორის მოვალეობის შემსრულებელის პოზიციაზე და შემდეგ იყო ტერნოპოლის ოლქის რეფორმების საბჭოს ხელმძღვანელი."
-  thumbnailUrl: ilo_ghlonti.jpg
+  bio: '<p></p>'
+  # thumbnailUrl: koko_razmadze.jpg
   rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
-- 
-  id: 11
-  name: "Vardan "
-  surname: "Grigoryan"
-  company: "GDG Yerevan"
-  title: ""
-  bio: "GDG Yerevan Organizer for 5 years. Currently work as a Product Owner at Ginosi Apartments, mostly focused on UX, so we call it UX Owner."
-  thumbnailUrl: vardan_grigoryan.jpg
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+ id: 11
+  name: "ტატო"
+  surname: "კუტალია"
+  company: "eMoney.ge"
+  title: "Android Developer"
+  bio: '<p>Android Developer @ eMoney.ge</p>
+  <p>RxJava enthusiast</p>
+  <p>უყვარს ჩხირკედელაობა</p>
+  <p>უსმენს jazz-სა და progressive-ს</p>
+  <p>Former dev @ myvideo.ge</p>
+  <p>CS Masters @ IBSU</p>'
+  thumbnailUrl: tato_kutalia.png
   rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/ajmikzer"}
-- 
-  id: 12
-  name: "ოთო "
-  surname: "ზაკალაშვილი"
-  company: "ყველაზე ზარმაცი დეველოპერი"
-  title: "ყველაზე ზარმაცი დეველოპერი"
-  bio: "ყველაზე ზარმაცი დეველოპერი"
-  thumbnailUrl: oto_zakalashvili.jpg
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+ id: 12
+  name: "ვახო"
+  surname: "ვახტანგიშვილი"
+  company: "Leavingstone"
+  title: "Co-Founder"
+  bio: '<p></p>'
+  thumbnailUrl: vakho_vakhtangishvili_3.jpg
   rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/otarza"}
-# -
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+ # id: 13
+ #  name: ""
+ #  surname: ""
+ #  company: ""
+ #  title: ""
+ #  bio: '<p></p>'
+ #  # thumbnailUrl: koko_razmadze.jpg
+ #  rockstar: true
+ #  # social: 
+ #  #   - {name: "google-plus", link: ""}
+ #  #   - {name: "facebook", link: ""}
+ #  #   - {name: "linkedin", link: ""}
+
+
+
+
+
+
+
+        # 2015 წლის და ძველი(ალბათ) სპიკერები
+
+
+ # id: 3
+#   name: "Baris "
+#   surname: "Yesugey"
+#   company: "Google"
+#   title: "Developer Ecosystem Region Lead (Turkey, Central Asia, Caucasus)"
+#   bio: '<p>As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on <a href="https://developers.google.com/">developers.google.com</a> . I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.</p>'
+#   thumbnailUrl: baris.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+#     - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+# - 
+#   id: 4
+#   name: "Oytun "
+#   surname: "Eren  Sengul"
+#   company: "Digital Experience Consultant"
+#   title: "Business, Communication, Growth Marketing, Ecosystem, UX, Mobile Development, Design, Startups..."
+#   bio: "I'm heavily interested in startups, mobile apps, Community build up, Growth Hacking and UX. By the way, I love kernels and operating systems. As every Sales&Marketing Specialist needs to understand about business, as much as I did; presales, sale, tele-marketing, B2B & B2C marketing, enterprise communications... As every Community Manager needs to understand about programming, as much as I understand; Objective-C, Java, .NET, JavaScript, Python, HTML5, C and my hobby is Assembly. Member of Linux Foundation, Turkish, working on emerging mobile software markets, in vehicle infotainment and decided to growth Linux based in everywhere. Communication between developers-producers-end users. Ready for sale and well prepared to enterprise. Mobile software development team lead and ecosystem provider. End of the day, try to learn everything about life and always keep searching based mobile."
+#   thumbnailUrl: oytun.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/108497665620300512154/posts"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAhca1wBpeo1LmSdcukJEjVRRI-tPW8Nbog&authType=NAME_SEARCH&authToken=HbHX&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A140274524%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889140662%2Ctas%3AOytun%20Eren%20Sengul"}
+#     - {name: "facebook", link: "https://www.facebook.com/oytuneren?fref=ts"}
+#     - 
+# - 
+#   id: 5
+#   name: "შალვა "
+#   surname: "ბუკია"
+#   company: "Co-Founder at In2circle"
+#   title: ""
+#   bio: '<p>დაიწყო ვებ სტუდია Pixel-ში ვებ დიზაინერად, შემდეგ Singular Group-ში იყო არტ დირექტორი, შემდეგ Bank of Georgia - Digital Experience Designer. ამჟამად არის <a href="http://sadili.ge">სადილი.ge</a> (საჭმლის ქეითერინგ სერვისი, in2circle inc.-ის ქვეკომპანია) - თანადამფუძნებელი და Spribe (IT კომპანია, <a href="http://spribe.co/">spribe.co</a>) - პარტნიორი.</p>'
+#   thumbnailUrl: shalva_bukia.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/shalvius"}
+#     - {name: "site", link: "http://sadili.ge"}
+#     - {name: "site", link: "http://spribe.co"}
+# - 
+#   id: 6
+#   name: "ოთო "
+#   surname: "მესხი"
+#   company: "Developer"
+#   title: ""
+#   bio: "13 წლიანი გამოცდილების მქონე Software Architect და Full Stack Developer. ბოლო სამუშაო - პროგრამული უზრუნველყოფის განყოფილების უფროსი სილქნეტში; ამ ეტაპზე - საკუთარი სტარტაპის განვითარება, სხვა და სხვა საინტერესო პროექტებში ჩართულობა."
+#   thumbnailUrl: oto_meskhi.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/otomeskhy"}
+#     - {name: "twitter", link: "https://twitter.com/otomeskhy"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/otomeskhy"}
+# - 
+#   id: 7
+#   name: "ანდრო "
+#   surname: "აბაშიძე"
+#   company: "Mobius, Freelancer"
+#   title: "Game Designer"
+#   bio: "10 წელია დაკავებულია გრაფიკული დიზაინით, ხოლო ბოლო 5 წელი - თამაშების და აპლიკაციების დიზაინით... ამჟამად მუშაობს კომპანია მობიუსში და თავისუფალ დროს მუშაობს ფრილანს პროექტებზე. ლამაზი, საყვარელი, ფუმფულა. უყვარს თამაშები, ცოცხლობს თამაშებით და თვითონაც თამაშობს :) PS. დახურული აქვს Counter-Strike !"
+#   thumbnailUrl: andro_abashidze_2.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/andronix1"}
+#     - {name: "site", link: "https://www.facebook.com/AndronixGFX/"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAABJNyi0BUyI0rmnm_R_Q6NJC6M-XYz7RFEE&trk=hp-identity-name"}
+#     - {name: "site", link: "https://www.behance.net/AndroniX"}
+# - 
+#   id: 8
+#   name: "დავით "
+#   surname: "გოჩავა"
+#   company: "Mobius"
+#   title: "Developer, ლექტორი"
+#   bio: "2 წელია მუშაობს კომპანია მობიუსში lead game developer-ად. მართალია, ჯერ მნიშვნელოვანი არაფერი შეუქმნია, მაგრამ ცხოვრება წინაა."
+#   thumbnailUrl: deo_gochava.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/deo.gochava"}
+# - 
+#   id: 9
+#   name: "აჩი "
+#   surname: "კუპრაშვილი"
+#   company: "Leavingstone"
+#   title: "Developer"
+#   bio: "მეზარებოდა რა სკოლაში გაკვეთილებზე სიარული, 13 წლის ასაკში დავიწყე ალგორითმების “წრეზე სიარული”. ჩანაფიქრმა გაამართლა, და მეტიც დამაინტერესა და მიმახვედრა, რომ That’s my life. უკვე 2 წელია Leavingstone რიგებში ვიბრძვი IOS Developer_ის სტატუსით. ჰობი - კალათურთის თამაში და საზოგადოებრივ თავშეყრის ადგილებში ძილი. დახასიათება - უნიკალურად ზარმაცი. შემიძლია ერთდროულად 2 “არაფერი” ვაკეთო."
+#   thumbnailUrl: achi_kuprashvili.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/achiko.kuprashvili"}
+# - 
+#   id: 10
+#   name: "ილო "
+#   surname: "ღლონტი"
+#   company: "Head of Seed Forum Georia, Founder of IHUB Tbilisi."
+#   title: ""
+#   bio: "Seed Forum Georgia-ს Head-ი, IHUB Tbilisi Founder. ის არის 'თავისუფალი დებატების ლიგის'' დამაარსებელი. ილია ღლონტი იყო ICC-Georgia-ს 3rd Chairman, ასევე მოღვაწეობდა უკრაინაში რივნეს ვიცე-გუბენრატორის მოვალეობის შემსრულებელის პოზიციაზე და შემდეგ იყო ტერნოპოლის ოლქის რეფორმების საბჭოს ხელმძღვანელი."
+#   thumbnailUrl: ilo_ghlonti.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
+# - 
+#   id: 11
+#   name: "Vardan "
+#   surname: "Grigoryan"
+#   company: "GDG Yerevan"
+#   title: ""
+#   bio: "GDG Yerevan Organizer for 5 years. Currently work as a Product Owner at Ginosi Apartments, mostly focused on UX, so we call it UX Owner."
+#   thumbnailUrl: vardan_grigoryan.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/ajmikzer"}
+# - 
+#   id: 12
+#   name: "ოთო "
+#   surname: "ზაკალაშვილი"
+#   company: "ყველაზე ზარმაცი დეველოპერი"
+#   title: "ყველაზე ზარმაცი დეველოპერი"
+#   bio: "ყველაზე ზარმაცი დეველოპერი"
+#   thumbnailUrl: oto_zakalashvili.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/otarza"}
+# # -
+
+
+
 #   id: 5
 #   name: "ირაკლი"
 #   surname: "ცაგარეიშვილი"
