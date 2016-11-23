@@ -1,6 +1,17 @@
- # 2016 წლის სესიები 
-   
-    
+  
+
+-
+  id: 001
+  title: "Material design: Visual style and imagery"
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  subtype: workshop
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+
+  
 -
   id: 001
   title: "Creating Software to Survive and Grow (გადარჩი და გაიზარდე)"
@@ -8,45 +19,54 @@
   speakers: [1]
   language: en
 -
-
   id: 002
   title: " ♥  ანუ მე მიყვარს უნიკოდი"
   description: "თანამედროვე ციფრულ სამყაროში არაერთი გამოწვევა და პრობლემა გაჩნდა, რომელიც მსოფლიოს სხვადასხვა ქვეყანაში, სხვადასხვა პრობლემას ქმნის. ერთი შეხედვით, ამ ყველაფრიდან გამოსავალი ერთიანი სტანდარტის შემუშავება უნდა იყოს, მაგრამ ზოგჯერ ასე მარტივადაც არაა ყველაფერი. არ უნდა დაგვავიწყდეს, რომ ფიურერი ყოველთვის მართალია, და გასაკეთებელი კიდევ ბევრია!"
   speakers: [2]
 
--
-
-  id: 003
-  title: "Fonts"
-  description: ""
-  speakers: [3]
-  language: en
--
-
-  id: 004
-  title: "Topology • ტოპოლოგია"
-  description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
-  speakers: [9]
-
--
-
-  id: 005
-  title: "Tango with RxJava"
-  description: "<p>რა არის Reactive Programming?</p>
-  <p>რატომ გვჭირდება?</p>
-  <p>რა პრობლემას ჭრის RxJava?</p>
-  <p>როგორ შეიძლება გამოვიყენოთ?</p>
-  <p>RxJava ანდროიდში</p>"
-  speakers: [11]
-
--
 
 
 
-  # id: 006
-  # title: ""
-  # description: ""
-  # speakers: [3]
+
+
+
+# -
+#   id: 001
+#   title: "Creating Software to Survive and Grow (გადარჩი და გაიზარდე)"
+#   description: "George shares his experience about how to grow a great software design without doing "everything right" ahead. He is touching popular topics like micro services and recalls older concepts e.g. domain driven design."
+#   speakers: [1]
+#   language: en
+# -
+
+#   id: 002
+#   title: " ♥  ანუ მე მიყვარს უნიკოდი"
+#   description: "თანამედროვე ციფრულ სამყაროში არაერთი გამოწვევა და პრობლემა გაჩნდა, რომელიც მსოფლიოს სხვადასხვა ქვეყანაში, სხვადასხვა პრობლემას ქმნის. ერთი შეხედვით, ამ ყველაფრიდან გამოსავალი ერთიანი სტანდარტის შემუშავება უნდა იყოს, მაგრამ ზოგჯერ ასე მარტივადაც არაა ყველაფერი. არ უნდა დაგვავიწყდეს, რომ ფიურერი ყოველთვის მართალია, და გასაკეთებელი კიდევ ბევრია!"
+#   speakers: [2]
+
+# -
+
+#   id: 003
+#   title: "Fonts"
+#   description: ""
+#   speakers: [3]
+#   language: en
+# -
+
+#   id: 004
+#   title: "Topology • ტოპოლოგია"
+#   description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
+#   speakers: [9]
+
+# -
+
+#   id: 005
+#   title: "Tango with RxJava"
+#   description: "<p>რა არის Reactive Programming?</p>
+#   <p>რატომ გვჭირდება?</p>
+#   <p>რა პრობლემას ჭრის RxJava?</p>
+#   <p>როგორ შეიძლება გამოვიყენოთ?</p>
+#   <p>RxJava ანდროიდში</p>"
+#   speakers: [11]
 
 
 
@@ -58,8 +78,8 @@
 
 
 
-
- # id: 307
+# -
+#   id: 307
 #   title: "Coffee Break"
 #   place: "Hall"
 #   service: true
