@@ -2,8 +2,8 @@
   group: "გენერალური სპონსორები"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "TBC Bank", description: "TBC Bank", link: "http://tbc.ge", imageUrl: "tbc_2.svg", width: "800px", height: "400px"}
-    - {name: "Geocell", description: "Geocell", link: "http://geocell.ge", imageUrl: "geocell-logo.svg", width: "400px", height: "400px"}
+    # - {name: "TBC Bank", description: "TBC Bank", link: "http://tbc.ge", imageUrl: "tbc_2.svg", width: "800px", height: "400px"}
+    # - {name: "Geocell", description: "Geocell", link: "http://geocell.ge", imageUrl: "geocell-logo.svg", width: "400px", height: "400px"}
     - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "gdg-tbilisi.svg"}
 
 - 
@@ -11,11 +11,14 @@
   elements: 
     - {name: "GAU", description: "GAU", link: "http://gau.ge", imageUrl: "gau-logo.svg", width: "120px"}
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "400px", height: "400px"}
-    - {name: "Wissol", description: "Wissol", link: "http://wissol.ge/", imageUrl: "wissoll.svg", width: "120px"}
-    - {name: "Night Pizza", description: "NP", link: "http://nightpizza.ge", imageUrl: "nightpizza_2.svg", width: "100px"}
-    - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
-    - {name: "IHUB", description: "IHUB", link: "https://www.facebook.com/IHUB-Tbilisi-863627120411270", imageUrl: "ihub.svg", width: "120px"}
-    - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
+    # - {name: "Wissol", description: "Wissol", link: "http://wissol.ge/", imageUrl: "wissoll.svg", width: "120px"}
+    # - {name: "Night Pizza", description: "NP", link: "http://nightpizza.ge", imageUrl: "nightpizza_2.svg", width: "100px"}
+    # - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
+    # - {name: "IHUB", description: "IHUB", link: "https://www.facebook.com/IHUB-Tbilisi-863627120411270", imageUrl: "ihub.svg", width: "120px"}
+    # - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
+    - {name: "ნატახტარი", description: "ნატახტარი", link: "http://www.natakhtari.com/", imageUrl: "natakhtari-logo.jpg", width: "120px"}
+    - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "400px"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains-logo.jpg", width: "400px", height: "400px"}
 # - 
   # group: "Information partners"
   # elements: 
