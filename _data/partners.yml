@@ -18,7 +18,7 @@
     # - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
    
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains-logo.jpg", width: "100px", height: "400px"}
-    - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita.svg", width: "400px", height: "117px"}
+    - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita.svg", width: "115px", height: "400px"}
     - {name: "Owl Group", description: "Owl Group", link: "", imageUrl: "OWL-GROUP.png", width: "150px"}
     - {name: "ნატახტარი", description: "ნატახტარი", link: "http://www.natakhtari.com/", imageUrl: "natakhtari-logo.jpg", width: "85px"}
     - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "100px"}
