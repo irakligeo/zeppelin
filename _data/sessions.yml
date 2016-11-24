@@ -17,8 +17,8 @@
 
 
   id: 003
-  title: "Fonts"
-  description: ""
+  title: "The confusing case history of Georgian in Unicode"
+  description: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals."
   speakers: [3]
   language: en
 -
@@ -39,6 +39,12 @@
   <p>RxJava ანდროიდში</p>"
   speakers: [11]
 
+-
+
+  id: 006
+  title: "TensorFlow - Deep Learning in Real Life"
+  description: "TensorFlow არის Google ბიბლიოთეკა ხელოვნური ნეირონული ქსელებისათვის (არა მარტო) რომელიც არის უფასო და ღია კოდით, მარტივი, GPU თავსებადი და დისტრიბუციული. დღესდღეობით Deep Learning არის ძალიან ინტენსიურად განვითარებადი და გამოყენებადი Machine Learning დარგი. ღია ბიბლიოთეკებმა ფაქტიურად შესაძლებელი გახადა მათი გამოყენება 'უბრალო ხალხისათვის' და არა მარტო მონაცემთა მეცნიერებისათვის და დიდი კორპორაციების ინჰაუზ ინჟინრებისათვის."
+  speakers: [13]
 
 
 -

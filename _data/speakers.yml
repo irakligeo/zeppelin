@@ -40,10 +40,10 @@
   id: 3
   name: "Michael  "
   surname: "Everson"
-  company: "Unicode"
-  title: ""
-  bio: '<p></p>'
-  # thumbnailUrl: .jpg
+  company: "Evertype"
+  title: "Publisher and Owner"
+  bio: '<p>Michael Everson is a linguist, script encoder, typesetter, font designer, and publisher. His central interest is in making writing systems useful in formats for computers and digital media. He has worked for two decades encoding characters and scripts in the Unicode Standards. He is the publisher and owner of Evertype, located in Portlaoise, Ireland, and has published many translations of Alice’s Adventures in Wonderland and The Hobbit. He is an American and a naturalized Irish citizen.</p>'
+  thumbnailUrl: michael_everson.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -73,9 +73,8 @@
   surname: "Lammertsma"
   company: "Pixplicity"
   title: "Co-Founder"
-  bio: '<p>Paul found his way into mobile technologies through mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to keep up with the latest developments and share knowledge by contributing into the open-source and chairing the GDG The Dutch Android User Group. He can frequently be seen giving tech talks & workshops at conferences across the globe.
-</p>'
-  # thumbnailUrl: koko_razmadze.jpg
+  bio: '<p>პაულ ლამერთსმამ მობილური აპლიკაციების სააგენტო Pixplicity 2011 წელს დაარსა ჰოლანდიაში. კომპანიამ მალე დაიმკვიდრა სახელი ციფრულ ბაზარზე, ისეთ კომპანიებისთვის მუშაობით როგორიცაა De Telegraaf, Consumentenbond და Mercedes-Benz. წლების მანძილზე მას უმუშავია წამყვანი დეველოპერის პოზიციაზე ანდროიდის მიმართულებით. რამდენიმე წელია პაულ ლამერთსმა ხელმძღვანელობს Google-ის დეველოპერების ჯგუფს და ჰოლანდიის ანდროიდის მომხმარებელთა ჯგუფს. მას ჩაუტარებია საჯარო გამოსვლები და ვორქრშოფები მსოფლიოს არაერთ ქვეყანაში. მომხსენებელი საქართველოს წელს პირველად ესტუმრება.</p>'
+  thumbnailUrl: paul_lammertsma.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -126,9 +125,8 @@
   surname: "ვახტანგაძე"
   company: ""
   title: ""
-  bio: '<p>სალომე ვახტანგაძე - ხუთი წლის განმავლობაში მუშაობდა Google-ში სხვადასხვა პროექტზე!</p>
-  <p>დაამთავრა თბილისის სახელმწიფო უნივერსიტეტის გამოყენებითი მათემატიკის და კომპიუტერული მეცნიერებების ფაკულტეტი. არის ნიუ იორკის უნივერსიტეტის მაგისტრი.</p>'
-  # thumbnailUrl: koko_razmadze.jpg
+  bio: '<p>სალომე ვახტანგაძე - დაამთავრა თბილისი სახელმწიფო უნივერსიტეტის გამოყენებითი მათემატიკის და კომპიუტერული მეცნიერებების ფაკულტეტი, შემდეგ სწავლა განაგრძო ნიუ იორკის უნივერსიტეტში მაგისტრატურაზე. უნივერსიტეტის დამთავრების შემდეგ ხუთი წლის განმავლობაში მუშაობდა Google-ში სხვადასხვა პროექტებზე, მათ შორისაა: 1. indexing pipeline, that’s responsible for producing all the low ¬latency web search indices. It is a fully multi¬homed system with 99.9% availability and low processing latency. It was written in C++ and had dependencies on most of Google’s infrastructure. 2. uProxy, a peer ¬to¬-peer proxy tool which proxies web traffic using a SOCKS5 proxy over WebRTC. 3. Unfiltered.news is a visualization tool for discovering and exploring global news.</p>'
+  thumbnailUrl: salome_vaxtangadze.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -191,8 +189,8 @@
   name: "ვახო "
   surname: "ვახტანგიშვილი"
   company: "Leavingstone"
-  title: "Co-Founder"
-  bio: '<p></p>'
+  title: "CEO, Co-Founder"
+  bio: '<p>In 2009 Vakho graduated from European School of Management (at present ESM Business School under Free University of Tbilisi) and is a Bachelor of Business Administration.</p><p>Along with the education in June 2007 Vakho started working as a copyrighter and later as a creative project manager at Wizard Advertising. After 6 months of working experience at the agency Vakho decided to quit due to the need for freedom to do what he liked most.</p><p>In April 2008, at the age of 20, with three friends Vakho started a new venture, a digital agency TOPgroup, providing Digital Marketing and Web Solutions to the Georgian companies. In 2010, due to rising demand for Digital and Social Media Marketing the new brand - Leavingstone has been created under TOPgroup that for now represents one of the leading digital creative agencies in Georgia.</p><p>Leavingstone plans and performs digital marketing activities for top companies in the region -  JSC TBC Bank, JSC Bank Constanta, Geocell (TeliaSonera), Azercell (TeliaSonera), JSC Silknet, GPI Holding, Borjomi, Natakhtari Effes, Wissol Group etc.</p><p>Due to the rising needs for the advance skills in computer science and technology, Leavingstone founded GeoLab with three partners: Geocell, Georgian American University and GITA (Georgia’s Innovation and Technology Agency). GeoLab is a ICT technology laboratory which is open 24 hours a day for any interesting and innovative projects. GeoLab has its own IT institute where lecturers teach students how to create real products with digital tools.</p>'
   thumbnailUrl: vakho_vakhtangishvili_3.jpg
   rockstar: true
   # social: 
@@ -201,6 +199,21 @@
   #   - {name: "linkedin", link: ""}
 
 
+
+- 
+
+  id: 13
+  name: "ლევან "
+  surname: "ცინაძე"
+  company: "შსს და სახელმწიფო უსაფრთხოების სამსახური"
+  title: "პროგრამული უზრუნველყოფის ინჟინერი"
+  bio: '<p>ვარ ლევან ცინაძე მათემატიკოსი, პროგრამული უზრუნველყოფის ინჟინერი, ვმუშაობ შსს და სახელმწიფო უსაფრთხოების სამსახურში (იმედია საშიში არ არის :) ), სფერო -  Machine Learning - Deep Learning, Big Data (TensorFlow, Hadoop, Spark)  ვარ Data Science Tbilisi და Deep Learning Tbilisi მითაფების კოორგანიზატორი და Deep Learning ენთუზიასტი.</p>'
+  #thumbnailUrl: vakho_vakhtangishvili_3.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 
 
