@@ -75,11 +75,11 @@
   timeslots: 
     - {
         startTime: "12:00",
-        sessionIds: [307, 307, 306, 305]
+        sessionIds: [307, 307, 306, 304]
     }
     - {
       startTime: "12:45",
-      sessionIds: [404, 404, 404, 409]
+      sessionIds: [404, 404, 306, 304]
     }
     - {
       startTime: "13:20",
