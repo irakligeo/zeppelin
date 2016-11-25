@@ -91,7 +91,7 @@ heroButtons:
 # About Block
 aboutTitle: "GDG DevFest-ის შესახებ"
 aboutBlock:
- - {title: "Why Android Development?", image: "paul_lammertsma.jpgs", text: "პაულ ლამერთსმამ მობილური აპლიკაციების სააგენტო Pixplicity 2011 წელს დაარსა ჰოლანდიაში. კომპანიამ მალე დაიმკვიდრა სახელი ციფრულ ბაზარზე, ისეთ კომპანიებისთვის მუშაობით, როგორიცაა De Telegraaf, Consumentenbond და Mercedes-Benz. წლების მანძილზე მას უმუშავია წამყვანი დეველოპერის პოზიციაზე ანდროიდის მიმართულებით. რამდენიმე წელია პაულ ლამერთსმა ხელმძღვანელობს Google-ის დეველოპერების ჯგუფს და ჰოლანდიის ანდროიდის მომხმარებელთა ჯგუფს." }
+ - {title: "Why Android Development?", image: "paul_lammertsma.jpgs", text: "პაულ ლამერთსმამ მობილური აპლიკაციების სააგენტო Pixplicity 2011 წელს დაარსა ჰოლანდიაში. წლების მანძილზე მას უმუშავია წამყვანი დეველოპერის პოზიციაზე ანდროიდის მიმართულებით. რამდენიმე წელია პაულ ლამერთსმა ხელმძღვანელობს Google-ის დეველოპერების ჯგუფს და ჰოლანდიის ანდროიდის მომხმარებელთა ჯგუფს." }
  - {title: "The confusing case history of Georgian in Unicode", image: "michael_everson.jpg", text: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals." }
  # - {title: "ჰაკათონი", image: "hackathon_main_page.jpg", text: "48 საათიანი ღონისძიება. გააქვთ ტექნოლოგიებთან დაკავშირებული ინოვაციური იდეა? შემოგვიერთდით ჰაკათონზე და აქციეთ ის რეალობად!" }
 
