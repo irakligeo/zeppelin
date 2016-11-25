@@ -208,7 +208,7 @@
   company: "შსს და სახელმწიფო უსაფრთხოების სამსახური"
   title: "პროგრამული უზრუნველყოფის ინჟინერი"
   bio: '<p>ვარ ლევან ცინაძე. მათემატიკოსი, პროგრამული უზრუნველყოფის ინჟინერი, ვმუშაობ შსს და სახელმწიფო უსაფრთხოების სამსახურში (იმედია საშიში არ არის :) ), სფერო -  Machine Learning - Deep Learning, Big Data (TensorFlow, Hadoop, Spark)  ვარ Data Science Tbilisi და Deep Learning Tbilisi მითაფების კოორგანიზატორი და Deep Learning ენთუზიასტი.</p>'
-thumbnailUrl: levan_tsinadze.jpg
+  thumbnailUrl: levan_tsinadze.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
