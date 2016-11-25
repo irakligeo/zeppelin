@@ -47,6 +47,15 @@
 #   speakers: [13]
 
 
+
+-
+  id: 305
+  title: "Paul Lammertsma"
+  place: ""
+  description: ""
+
+
+
 -
   id: 306
   title: "CodeLab"
@@ -67,6 +76,14 @@
   title: "Opening"
   place: ""
   description: ""
+
+
+
+
+
+
+
+
 -
   id: 503
   title: "Lunch Break"
