@@ -1,53 +1,53 @@
   
 
 
--
-  id: 001
-  title: "Creating Software to Survive and Grow (გადარჩი და გაიზარდე)"
-  description: "George shares his experience about how to grow a great software design without doing 'everything right' ahead. He is touching popular topics like micro services and recalls older concepts e.g. domain driven design."
-  speakers: [1]
-  language: en
--
-  id: 002
-  title: " ♥  ანუ მე მიყვარს უნიკოდი"
-  description: "თანამედროვე ციფრულ სამყაროში არაერთი გამოწვევა და პრობლემა გაჩნდა, რომელიც მსოფლიოს სხვადასხვა ქვეყანაში, სხვადასხვა პრობლემას ქმნის. ერთი შეხედვით, ამ ყველაფრიდან გამოსავალი ერთიანი სტანდარტის შემუშავება უნდა იყოს, მაგრამ ზოგჯერ ასე მარტივადაც არაა ყველაფერი. არ უნდა დაგვავიწყდეს, რომ ფიურერი ყოველთვის მართალია, და გასაკეთებელი კიდევ ბევრია!"
-  speakers: [2]
+# -
+#   id: 001
+#   title: "Creating Software to Survive and Grow (გადარჩი და გაიზარდე)"
+#   description: "George shares his experience about how to grow a great software design without doing 'everything right' ahead. He is touching popular topics like micro services and recalls older concepts e.g. domain driven design."
+#   speakers: [1]
+#   language: en
+# -
+#   id: 002
+#   title: " ♥  ანუ მე მიყვარს უნიკოდი"
+#   description: "თანამედროვე ციფრულ სამყაროში არაერთი გამოწვევა და პრობლემა გაჩნდა, რომელიც მსოფლიოს სხვადასხვა ქვეყანაში, სხვადასხვა პრობლემას ქმნის. ერთი შეხედვით, ამ ყველაფრიდან გამოსავალი ერთიანი სტანდარტის შემუშავება უნდა იყოს, მაგრამ ზოგჯერ ასე მარტივადაც არაა ყველაფერი. არ უნდა დაგვავიწყდეს, რომ ფიურერი ყოველთვის მართალია, და გასაკეთებელი კიდევ ბევრია!"
+#   speakers: [2]
 
--
-
-
-  id: 003
-  title: "The confusing case history of Georgian in Unicode"
-  description: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals."
-  speakers: [3]
-  language: en
--
-
-  id: 004
-  title: "Topology • ტოპოლოგია"
-  description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
-  speakers: [9]
-
--
-
-  id: 005
-  title: "Tango with RxJava"
-  description: "<p>რა არის Reactive Programming?</p>
-  <p>რატომ გვჭირდება?</p>
-  <p>რა პრობლემას ჭრის RxJava?</p>
-  <p>როგორ შეიძლება გამოვიყენოთ?</p>
-  <p>RxJava ანდროიდში</p>"
-  speakers: [11]
-
--
-
-  id: 006
-  title: "TensorFlow - Deep Learning in Real Life"
-  description: "TensorFlow არის Google ბიბლიოთეკა ხელოვნური ნეირონული ქსელებისათვის (არა მარტო) რომელიც არის უფასო და ღია კოდით, მარტივი, GPU თავსებადი და დისტრიბუციული. დღესდღეობით Deep Learning არის ძალიან ინტენსიურად განვითარებადი და გამოყენებადი Machine Learning დარგი. ღია ბიბლიოთეკებმა ფაქტიურად შესაძლებელი გახადა მათი გამოყენება 'უბრალო ხალხისათვის' და არა მარტო მონაცემთა მეცნიერებისათვის და დიდი კორპორაციების ინჰაუზ ინჟინრებისათვის."
-  speakers: [13]
+# -
 
 
--
+#   id: 003
+#   title: "The confusing case history of Georgian in Unicode"
+#   description: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals."
+#   speakers: [3]
+#   language: en
+# -
+
+#   id: 004
+#   title: "Topology • ტოპოლოგია"
+#   description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
+#   speakers: [9]
+
+# -
+
+#   id: 005
+#   title: "Tango with RxJava"
+#   description: "<p>რა არის Reactive Programming?</p>
+#   <p>რატომ გვჭირდება?</p>
+#   <p>რა პრობლემას ჭრის RxJava?</p>
+#   <p>როგორ შეიძლება გამოვიყენოთ?</p>
+#   <p>RxJava ანდროიდში</p>"
+#   speakers: [11]
+
+# -
+
+#   id: 006
+#   title: "TensorFlow - Deep Learning in Real Life"
+#   description: "TensorFlow არის Google ბიბლიოთეკა ხელოვნური ნეირონული ქსელებისათვის (არა მარტო) რომელიც არის უფასო და ღია კოდით, მარტივი, GPU თავსებადი და დისტრიბუციული. დღესდღეობით Deep Learning არის ძალიან ინტენსიურად განვითარებადი და გამოყენებადი Machine Learning დარგი. ღია ბიბლიოთეკებმა ფაქტიურად შესაძლებელი გახადა მათი გამოყენება 'უბრალო ხალხისათვის' და არა მარტო მონაცემთა მეცნიერებისათვის და დიდი კორპორაციების ინჰაუზ ინჟინრებისათვის."
+#   speakers: [13]
+
+
+# -
 
 
     # სესიები 2016 წლამდე
@@ -55,285 +55,285 @@
 
 
 
-# -
-#   id: 307
-#   title: "Coffee Break"
-#   place: "Hall"
-#   service: true
-#   description: "The best time to talk with speakers and attendees"
-# -
-#   id: 503
-#   title: "Lunch Break"
-#   place: "Dining room"
-#   service: true
-# -
-#   id: 001
-#   title: "Material design: Visual style and imagery"
-#   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-#   subtype: workshop
-#   speakers: [3, 6]
-#   language: en
-#   complexity: "Intermediate"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 002
-#   title: "Building Cloud-powered wearable Apps"
-#   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-#   subtype: presentation
-#   speakers: [4, 5]
-#   language: en
-#   complexity: "Intermediate" 
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 003
-#   title: "Android L Animation"
-#   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-#   subtype: presentation
-#   speakers: [4]
-#   language: en
-#   complexity: "Intermediate" 
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# -
-#   id: 004
-#   title: "Polymer: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype: keynote
-#   speakers: [6]
-#   language: uk
-#   complexity: "Beginner"
-#   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 005
-#   title: "Test: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype: keynote
-#   speakers: [7]
-#   language: en
-#   complexity: "Expert"
-#   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 405
-#   title: "ჰაკათონის რეგისტრაცია"
-#   description: "იწყება რეგისტრაცია ჰაკათონის მონაწილეებისთვის"
-#   service: true
-#   place: "204-ე აუდიტორიის შესასვლელში"
-# -
-#   id: 406
-#   title: "ჰაკათონის გახსნა"
-#   description: "ჰაკათონის გახსნის ცერემონია"
-#   service: true
-#   place: "204-ე აუდიტორია"
-# -
-#   id: 407
-#   title: "ბრეინშტორმინგი"
-#   description: "204-ე აუდიტორია"
-#   service: true
-#   place: "204-ე აუდიტორია"
-# -
-#   id: 408
-#   title: "Pitching"
-#   description: "ჰაკათონის იდეების წარდგენა, პრეზენტაცია"
-#   service: true
-#   place: "204-ე აუდიტორია"
-# -
-#   id: 409
-#   title: "კვება"
-#   description: ""
-#   service: true
-#   place: "204-ე აუდიტორიის შესასვლელში"
-# -
-#   id: 410
-#   title: "Hacking"
-#   description: "მუშაობა საკუთარ პროექტებზე"
-#   service: true
-#   place: "204-ე აუდიტორია"
-# -
-#   id: 411
-#   title: "სნექები"
-#   description: "204-ე აუდიტორიის შესასვლელში"
-#   service: true
-#   place: "204-ე აუდიტორიის შესასვლელში"
-# -
-#   id: 412
-#   title: "Checkpoint"
-#   description: "პროექტების სტატუსების გავლა მენტორებთან"
-#   service: true
-#   place: "204-ე აუდიტორია"
-# -
-#   id: 413
-#   title: "პრეზენტაციების მომზადება"
-#   description: "პრეზენტაციების აწყობა და გამოსვლისთვის მომზადება"
-#   service: true
-#   place: "204-ე აუდიტორია"
-# -
-#   id: 414
-#   title: "პრეზენტაციები"
-#   description: "ჰაკათონის პროექტების წარდგენა"
-#   service: true
-#   place: "200-ე აუდიტორია"
-# -
-#   id: 201
-#   title: "GDG Devfest Tbilisi 2015 გახსნა"
-#   description: "დეველოპერების ფესტივალის გახსნა"
-#   subtype: keynote
-#   speakers: [3]
-#   language: en
-#   complexity: "Intermediate"
-# -
-#   id: 202
-#   title: "ორიოდე სიტყვა პროდუქტ დიზაინის შესახებ"
-#   description: "რა არის პროდუქტ დიზაინი და რასთან ერთად იჭმევა? როგორ იქმნება კარგი (ამ შემთხვევაში ციფრული) პროდუქტი. რა ნიუანსები არსებობს და რას უნდა მიექცეს ყურადღება. დეველოპერის როლი პროდუქტ დიზაინში."
-#   subtype: presentation
-#   speakers: [5]
-#   complexity: "Intermediate"
-# -
-#   id: 203
-#   title: "Paper to Digital: Google Material Design"
-#   description: ""
-#   subtype: presentation
-#   speakers: [4]
-#   language: en
-#   complexity: "Intermediate"
-# -
-#   id: 204
-#   title: "2D Game Design"
-#   description: ""
-#   subtype: presentation
-#   speakers: [7]
-#   complexity: "Intermediate"
-# -
-#   id: 205
-#   title: "Web MIDI API"
-#   description: "Web MIDI API-ს მცირე შესავალი და რეალური დემონსტრაცია. Web MIDI API არის ექსპერიმენტული და (ჯერ-ჯერობით) არც ისე ცნობილი ტექნოლოგია, რომლის დახმარებითაც შეგვიძლია დავაკავშიროთ MIDI Hardware და ბრაუზერი."
-#   subtype: presentation
-#   speakers: [6]
-#   complexity: "Intermediate"
-# -
-#   id: 206
-#   title: "Mobile Backend as a service (Parse.com)"
-#   description: "დღეს მობილური აპლიკაციების უმრავლესობას სჭირდება მონაცემების სერვერზე შენახვა, თუმცა ყველა დეველოპერს არ ეხალისება server-side-ზე მუშაობა, თავის ტკივილის აცილების ბევრი გზა არსებობს, მათგან კი ერთ-ერთია Parse."
-#   subtype: keynote
-#   speakers: [8]
-#   complexity: "Intermediate"
-# -
-#   id: 207
-#   title: "'რა მოგვცა აბუ აბდულლაჰ მუჰამედ იბნ მუსამ?'"
-#   description: "ყველაფერში, რაც ამ ტექსტის წაკითხვამდე გააკეთეთ ან რასაც შემდეგ იზამთ, თქვენ  გამოიყენეთ ალგორითმები. არ ვხუმრობ. კბილების გახეხვა, ხელ-პირის დაბანა, კვერცხის შეწვა, თანამშრომელთან ლაპარაკი - ეს ყველაფერი ( სწორი ან არასწორი) ალგორითმების გამოყენებით ხდება. ალგორითმები პროგრამირებაშ და ალგორითმები ყოველდღიურ ცხოვრებაში - ორივე შემთხვევაში, ოპტიმალურად შერჩეული ალგორითმი მნიშვნელოვანწილად ზოგავს დროს და ენერგიას."
-#   subtype: presentation
-#   speakers: [9]
-#   complexity: "Intermediate"
-# -
-#   id: 208
-#   title: "მეწარმეობის ფსიქოლოგია - რისთვის უნდა ვიყო მზად, როდესაც ვაკეთებ start-up-ს? "
-#   description: "გამოსვლა შეეხება მეწარმეობის ფსიქოლოგიას. რა გამოწვევები აქვს start-up-ერს, რა მორალური და ფსიქოლოგიური წინააღმდეგობები ხვდება მას და ზოგადად როგორია წარმატებული მეწარმის სახე."
-#   subtype: presentation
-#   speakers: [10]
-#   complexity: "Intermediate"
-# -
-#   id: 209
-#   title: "UX in Agile World "
-#   description: "Agile is a way to get everything done as fast as possible, so the user experience is often disregarded in Agile development, as it needs time for general processes, like user research. But dealing with UX issues cannot be ignored as your competitors are always a tap away. So how to not make things slow in Agile, but also take care of user experience?"
-#   subtype: presentation
-#   speakers: [11]
-#   language: en
-#   complexity: "Intermediate"
-# -
-#   id: 210
-#   title: "რა არის Docker?"
-#   description: "* თუ ხარ დეველოპერი ან სისტემური ადმინისტრატორი... <br><br> * თუ აგტკიებია თავი შენი გარემოს გამართვისას და შემდეგ იგივეს კეთებისას გნუდში არსებული ყველა დეველოპერისთვის... <br><br> * თუ ერთხელ მაინც უწვალებიხარ სერვერზე დეპლოიმენტს... <br><br> მაშინ შეიძლება Docker - ი დაგეხმაროს. <br><br> მარტივად გამართვადი და გაზიარებადი დეველოპმენტ და დეპლოიმენტ გარემოები დეველოპერებისა და სისტემური ადმინისტრატორებისთვის."
-#   subtype: presentation
-#   speakers: [12]
-#   complexity: "Intermediate"
-# -
-#   id: 308
-#   title: "Coffee Break"
-#   place: "Hall"
-#   service: true
-#   description: "საუკეთესო დრო სპიკერებთან და დამსწრეებთან სასაუბროდ :)"
-# -
-#   id: 504
-#   title: "ანდროიდის ვორქშოფი"
-#   description: "რა არის საჭირო ანდროიდ აპლიკაციის გასაკეთებლად და როგორ დავწეროთ პირველი აპპი."
-#   subtype: workshop
-#   complexity: "Intermediate"
-#   service: true
-# -
-#   id: 505
-#   title: "Android Material Design"
-#   description: "როგორ ავაწყოთ ანდროიდ აპლიკაციის დიზაინი Material Design-ის დახმარებით"
-#   subtype: workshop
-#   complexity: "Intermediate"
-#   service: true
-# -
-#   id: 506
-#   title: "2D თამაში მობილურისთვის"
-#   description: "როგორ გავაკეთოთ მარტივი 2D თამაში ჩვენი ტელეფონებისთვის"
-#   subtype: workshop
-#   complexity: "Intermediate"
-#   service: true
-# -
-#   id: 507
-#   title: "Front End"
-#   description: "როგორ ავაწყოთ ვებსაიტი"
-#   subtype: workshop
-#   complexity: "Intermediate"
-#   service: true
-# -
-#   id: 601
-#   title: "რეგისტრაცია"
-#   description: "ჯგუფების რეგისტრაცია Design Sprint-ზე"
-#   service: true
-# -
-#   id: 602
-#   title: "Sprint-ის დაწყება"
-#   description: "იწყება Design Sprint-ის მუშაობა"
-#   service: true
-# -
-#   id: 603
-#   title: "Sprint-ის გაგრძელება"
-#   description: "გრძელდება მუშაობა Design Sprint-ზე"
-#   service: true
-# -
-#   id: 604
-#   title: "Sprint-ის დასრულება"
-#   description: "სრულდება მუშაობა Design Sprint-ზე"
-#   service: true
-# -
-#   id: 701
-#   title: "WomenTechMakers"
-#   description: "სესია 1"
-#   service: true
-# -
-#   id: 702
-#   title: "WomenTechMakers"
-#   description: "სესია 2"
-#   service: true
-# -
-#   id: 805
-#   title: "ექსპოს გახსნა"
-#   description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
-#   service: true
-# -
-#   id: 806
-#   title: "ექსპოს დახურვა"
-#   description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
-#   service: true
-# -
-#   id: 807
-#   title: "SpaceX-ის კონკურსის დაწყება"
-#   description: "კონკურსი ჯეოლაბში სტუდენტების მიერ შექმნილ თამაშში SpaceX"
-#   service: true
-# -
-#   id: 808
-#   title: "SpaceX-ის კონკურსის დასრულება"
-#   description: "კონკურსი ჯეოლაბში სტუდენტების მიერ შექმნილ თამაშში SpaceX"
-#   service: true
-# -
-#   id: 900
-#   title: "დაჯილდოება"
-#   description: "გამარჯვებულების დაჯილდოება და DevFest-ის დახურვა"
-#   service: true
-#   place: "200-ე აუდიტორია"
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Material design: Visual style and imagery"
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  subtype: workshop
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "Building Cloud-powered wearable Apps"
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "Android L Animation"
+  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 004
+  title: "Polymer: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
+  speakers: [6]
+  language: uk
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Test: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 405
+  title: "ჰაკათონის რეგისტრაცია"
+  description: "იწყება რეგისტრაცია ჰაკათონის მონაწილეებისთვის"
+  service: true
+  place: "204-ე აუდიტორიის შესასვლელში"
+-
+  id: 406
+  title: "ჰაკათონის გახსნა"
+  description: "ჰაკათონის გახსნის ცერემონია"
+  service: true
+  place: "204-ე აუდიტორია"
+-
+  id: 407
+  title: "ბრეინშტორმინგი"
+  description: "204-ე აუდიტორია"
+  service: true
+  place: "204-ე აუდიტორია"
+-
+  id: 408
+  title: "Pitching"
+  description: "ჰაკათონის იდეების წარდგენა, პრეზენტაცია"
+  service: true
+  place: "204-ე აუდიტორია"
+-
+  id: 409
+  title: "კვება"
+  description: ""
+  service: true
+  place: "204-ე აუდიტორიის შესასვლელში"
+-
+  id: 410
+  title: "Hacking"
+  description: "მუშაობა საკუთარ პროექტებზე"
+  service: true
+  place: "204-ე აუდიტორია"
+-
+  id: 411
+  title: "სნექები"
+  description: "204-ე აუდიტორიის შესასვლელში"
+  service: true
+  place: "204-ე აუდიტორიის შესასვლელში"
+-
+  id: 412
+  title: "Checkpoint"
+  description: "პროექტების სტატუსების გავლა მენტორებთან"
+  service: true
+  place: "204-ე აუდიტორია"
+-
+  id: 413
+  title: "პრეზენტაციების მომზადება"
+  description: "პრეზენტაციების აწყობა და გამოსვლისთვის მომზადება"
+  service: true
+  place: "204-ე აუდიტორია"
+-
+  id: 414
+  title: "პრეზენტაციები"
+  description: "ჰაკათონის პროექტების წარდგენა"
+  service: true
+  place: "200-ე აუდიტორია"
+-
+  id: 201
+  title: "GDG Devfest Tbilisi 2015 გახსნა"
+  description: "დეველოპერების ფესტივალის გახსნა"
+  subtype: keynote
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 202
+  title: "ორიოდე სიტყვა პროდუქტ დიზაინის შესახებ"
+  description: "რა არის პროდუქტ დიზაინი და რასთან ერთად იჭმევა? როგორ იქმნება კარგი (ამ შემთხვევაში ციფრული) პროდუქტი. რა ნიუანსები არსებობს და რას უნდა მიექცეს ყურადღება. დეველოპერის როლი პროდუქტ დიზაინში."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+-
+  id: 203
+  title: "Paper to Digital: Google Material Design"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 204
+  title: "2D Game Design"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediate"
+-
+  id: 205
+  title: "Web MIDI API"
+  description: "Web MIDI API-ს მცირე შესავალი და რეალური დემონსტრაცია. Web MIDI API არის ექსპერიმენტული და (ჯერ-ჯერობით) არც ისე ცნობილი ტექნოლოგია, რომლის დახმარებითაც შეგვიძლია დავაკავშიროთ MIDI Hardware და ბრაუზერი."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Intermediate"
+-
+  id: 206
+  title: "Mobile Backend as a service (Parse.com)"
+  description: "დღეს მობილური აპლიკაციების უმრავლესობას სჭირდება მონაცემების სერვერზე შენახვა, თუმცა ყველა დეველოპერს არ ეხალისება server-side-ზე მუშაობა, თავის ტკივილის აცილების ბევრი გზა არსებობს, მათგან კი ერთ-ერთია Parse."
+  subtype: keynote
+  speakers: [8]
+  complexity: "Intermediate"
+-
+  id: 207
+  title: "'რა მოგვცა აბუ აბდულლაჰ მუჰამედ იბნ მუსამ?'"
+  description: "ყველაფერში, რაც ამ ტექსტის წაკითხვამდე გააკეთეთ ან რასაც შემდეგ იზამთ, თქვენ  გამოიყენეთ ალგორითმები. არ ვხუმრობ. კბილების გახეხვა, ხელ-პირის დაბანა, კვერცხის შეწვა, თანამშრომელთან ლაპარაკი - ეს ყველაფერი ( სწორი ან არასწორი) ალგორითმების გამოყენებით ხდება. ალგორითმები პროგრამირებაშ და ალგორითმები ყოველდღიურ ცხოვრებაში - ორივე შემთხვევაში, ოპტიმალურად შერჩეული ალგორითმი მნიშვნელოვანწილად ზოგავს დროს და ენერგიას."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
+-
+  id: 208
+  title: "მეწარმეობის ფსიქოლოგია - რისთვის უნდა ვიყო მზად, როდესაც ვაკეთებ start-up-ს? "
+  description: "გამოსვლა შეეხება მეწარმეობის ფსიქოლოგიას. რა გამოწვევები აქვს start-up-ერს, რა მორალური და ფსიქოლოგიური წინააღმდეგობები ხვდება მას და ზოგადად როგორია წარმატებული მეწარმის სახე."
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediate"
+-
+  id: 209
+  title: "UX in Agile World "
+  description: "Agile is a way to get everything done as fast as possible, so the user experience is often disregarded in Agile development, as it needs time for general processes, like user research. But dealing with UX issues cannot be ignored as your competitors are always a tap away. So how to not make things slow in Agile, but also take care of user experience?"
+  subtype: presentation
+  speakers: [11]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 210
+  title: "რა არის Docker?"
+  description: "* თუ ხარ დეველოპერი ან სისტემური ადმინისტრატორი... <br><br> * თუ აგტკიებია თავი შენი გარემოს გამართვისას და შემდეგ იგივეს კეთებისას გნუდში არსებული ყველა დეველოპერისთვის... <br><br> * თუ ერთხელ მაინც უწვალებიხარ სერვერზე დეპლოიმენტს... <br><br> მაშინ შეიძლება Docker - ი დაგეხმაროს. <br><br> მარტივად გამართვადი და გაზიარებადი დეველოპმენტ და დეპლოიმენტ გარემოები დეველოპერებისა და სისტემური ადმინისტრატორებისთვის."
+  subtype: presentation
+  speakers: [12]
+  complexity: "Intermediate"
+-
+  id: 308
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "საუკეთესო დრო სპიკერებთან და დამსწრეებთან სასაუბროდ :)"
+-
+  id: 504
+  title: "ანდროიდის ვორქშოფი"
+  description: "რა არის საჭირო ანდროიდ აპლიკაციის გასაკეთებლად და როგორ დავწეროთ პირველი აპპი."
+  subtype: workshop
+  complexity: "Intermediate"
+  service: true
+-
+  id: 505
+  title: "Android Material Design"
+  description: "როგორ ავაწყოთ ანდროიდ აპლიკაციის დიზაინი Material Design-ის დახმარებით"
+  subtype: workshop
+  complexity: "Intermediate"
+  service: true
+-
+  id: 506
+  title: "2D თამაში მობილურისთვის"
+  description: "როგორ გავაკეთოთ მარტივი 2D თამაში ჩვენი ტელეფონებისთვის"
+  subtype: workshop
+  complexity: "Intermediate"
+  service: true
+-
+  id: 507
+  title: "Front End"
+  description: "როგორ ავაწყოთ ვებსაიტი"
+  subtype: workshop
+  complexity: "Intermediate"
+  service: true
+-
+  id: 601
+  title: "რეგისტრაცია"
+  description: "ჯგუფების რეგისტრაცია Design Sprint-ზე"
+  service: true
+-
+  id: 602
+  title: "Sprint-ის დაწყება"
+  description: "იწყება Design Sprint-ის მუშაობა"
+  service: true
+-
+  id: 603
+  title: "Sprint-ის გაგრძელება"
+  description: "გრძელდება მუშაობა Design Sprint-ზე"
+  service: true
+-
+  id: 604
+  title: "Sprint-ის დასრულება"
+  description: "სრულდება მუშაობა Design Sprint-ზე"
+  service: true
+-
+  id: 701
+  title: "WomenTechMakers"
+  description: "სესია 1"
+  service: true
+-
+  id: 702
+  title: "WomenTechMakers"
+  description: "სესია 2"
+  service: true
+-
+  id: 805
+  title: "ექსპოს გახსნა"
+  description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
+  service: true
+-
+  id: 806
+  title: "ექსპოს დახურვა"
+  description: "სხვადასხვა საინტერესო მოწყობილობების გამოფენა"
+  service: true
+-
+  id: 807
+  title: "SpaceX-ის კონკურსის დაწყება"
+  description: "კონკურსი ჯეოლაბში სტუდენტების მიერ შექმნილ თამაშში SpaceX"
+  service: true
+-
+  id: 808
+  title: "SpaceX-ის კონკურსის დასრულება"
+  description: "კონკურსი ჯეოლაბში სტუდენტების მიერ შექმნილ თამაშში SpaceX"
+  service: true
+-
+  id: 900
+  title: "დაჯილდოება"
+  description: "გამარჯვებულების დაჯილდოება და DevFest-ის დახურვა"
+  service: true
+  place: "200-ე აუდიტორია"
