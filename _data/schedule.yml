@@ -119,82 +119,9 @@
         sessionIds: [591]
     }
   
-- 
-  date: "2015-11-08"
-  dateReadable: "8 ნოემბერი"
-  tracks: 
-    - {title: "ღია ლექციები", color: "#2196F3"}
-    - {title: "ვორქშოფები", color: "#009688"}
-    - {title: "Design Sprint", color: "#3D5AFE"}
-    - {title: "ჰაკათონი", color: "#607D8B"}
-    - {title: "ჯეოლაბი", color: "#512DA8"}
-  timeslots: 
-    - {
-        startTime: "09:00",
-        endTime: "09:50",
-        sessionIds: [404, 404, 601, 410, 404]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:50",
-        sessionIds: [404, 404, 602, 409, 404]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:50",
-        sessionIds: [404, 506, 404, 412, 805]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "12:50",
-        sessionIds: [206, 506, 404, 410, 404]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:50",
-        sessionIds: [204, 404, 409, 410, 807]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:50",
-        sessionIds: [308, 507, 603, 410, 404]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:50",
-        sessionIds: [205, 507, 404, 409, 404]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:50",
-        sessionIds: [207, 404, 604, 413, 808]
-    }
-    - {
-        startTime: "17:00",
-        endTime: "17:50",
-        sessionIds: [210, 404, 404, 413, 404]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "18:50",
-        sessionIds: [404, 404, 404, 414, 806]
-    }
-    - {
-        startTime: "19:30",
-        endTime: "20:00",
-        sessionIds: [900]
-    }
 
 
-
-
-
-
-
-
-
-
-
+# 2016-მდე schedule:
 # - 
 #   date: "2015-11-06"
 #   dateReadable: "6 ნოემბერი"
