@@ -19,9 +19,9 @@
    
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains-logo.svg", width: "100px", height: "400px"}
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita.svg", width: "115px", height: "400px"}
-    - {name: "Ray Productions", description: "Ray Productions", link: "", imageUrl: "Ray_Production.svg", width: "400px"}
+    - {name: "Ray Productions", description: "Ray Productions", link: "https://www.facebook.com/RayProductionGE/?fref=ts&__mref=message", imageUrl: "Ray_Production.svg", width: "400px"}
     - {name: "Owl Group", description: "Owl Group", link: "", imageUrl: "owl-logo-svg.svg", width: "125px"}
-    - {name: "3D - tride", description: "3D - tride", link: "", imageUrl: "3d_logo.svg", width: "118px"}
+    - {name: "3D - tride", description: "3D - tride", link: "https://www.facebook.com/3dludi/?hc_ref=SEARCH&fref=nf&__mref=message", imageUrl: "3d_logo.svg", width: "118px"}
     - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "100px"}
 
 # - 

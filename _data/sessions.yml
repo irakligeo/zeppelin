@@ -105,7 +105,7 @@
 
   id: 607
   title: "Analytics / Digital Marketing"
-  description: ""
+  description: "სპიკერები ისაუბრებენ ციფრული რეკლამის შესაძლებლობებზე და უპირატესობებზე. განხილული იქნბა კონკერტული ქეისები."
   speakers: [6, 7]
 
 
@@ -115,9 +115,10 @@
 
 -
   id: 305
-  title: "Paul Lammertsma"
+  title: "Why Android Development?"
   place: ""
   description: ""
+  speakers: [5]
   language: en
 
 
