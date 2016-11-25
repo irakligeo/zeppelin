@@ -49,18 +49,10 @@
 
 
  -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
-
-
-
-    # სესიები 2016 წლამდე
-
-
-
+  id: 007
+  title: "Opening"
+  place: ""
+  description: ""
 
 -
   id: 307
