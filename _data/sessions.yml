@@ -7,29 +7,31 @@
 #   description: "George shares his experience about how to grow a great software design without doing 'everything right' ahead. He is touching popular topics like micro services and recalls older concepts e.g. domain driven design."
 #   speakers: [1]
 #   language: en
-# -
-#   id: 002
-#   title: " ♥  ანუ მე მიყვარს უნიკოდი"
-#   description: "თანამედროვე ციფრულ სამყაროში არაერთი გამოწვევა და პრობლემა გაჩნდა, რომელიც მსოფლიოს სხვადასხვა ქვეყანაში, სხვადასხვა პრობლემას ქმნის. ერთი შეხედვით, ამ ყველაფრიდან გამოსავალი ერთიანი სტანდარტის შემუშავება უნდა იყოს, მაგრამ ზოგჯერ ასე მარტივადაც არაა ყველაფერი. არ უნდა დაგვავიწყდეს, რომ ფიურერი ყოველთვის მართალია, და გასაკეთებელი კიდევ ბევრია!"
-#   speakers: [2]
-
-# -
 
 
-#   id: 003
-#   title: "The confusing case history of Georgian in Unicode"
-#   description: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals."
-#   speakers: [3]
-#   language: en
-# -
+-
+  id: 002
+  title: " ♥  ანუ მე მიყვარს უნიკოდი"
+  description: "თანამედროვე ციფრულ სამყაროში არაერთი გამოწვევა და პრობლემა გაჩნდა, რომელიც მსოფლიოს სხვადასხვა ქვეყანაში, სხვადასხვა პრობლემას ქმნის. ერთი შეხედვით, ამ ყველაფრიდან გამოსავალი ერთიანი სტანდარტის შემუშავება უნდა იყოს, მაგრამ ზოგჯერ ასე მარტივადაც არაა ყველაფერი. არ უნდა დაგვავიწყდეს, რომ ფიურერი ყოველთვის მართალია, და გასაკეთებელი კიდევ ბევრია!"
+  speakers: [2]
 
-#   id: 004
-#   title: "Topology • ტოპოლოგია"
-#   description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
-#   speakers: [9]
+-
+
+
+  id: 003
+  title: "The confusing case history of Georgian in Unicode"
+  description: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals."
+  speakers: [3]
+  language: en
 
 
 
+-
+
+  id: 004
+  title: "Topology • ტოპოლოგია"
+  description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
+  speakers: [9]
 
 
 
