@@ -67,16 +67,15 @@
   date: "2016-11-27"
   dateReadable: "27 ნოემბერი"
   tracks: 
-    - {title: "CONFERENCE Room", color: "#2196F3"}
-    - {title: "EPSON ROOM", color: "#009688"}
-    - {title: "CodeLabs", color: "#00E5FF"}
-    - {title: "Expo", color: "#607D8B"}
+    - {title: "CONFERENCE Room", color: "#FFC013"}
+    - {title: "EPSON Room", color: "#4D80C1"}
+    - {title: "CodeLabs", color: "#EE402E"}
+    - {title: "Expo", color: "#7E287E"}
 
   timeslots: 
     - {
-        startTime: "09:00",
-        endTime: "09:50",
-        sessionIds: [307, 404, 404]
+        startTime: "12:00",
+        sessionIds: [307, 307, 404, 404]
     }
     - {
       startTime: "10:00",
