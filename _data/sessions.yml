@@ -31,13 +31,6 @@
 
 
 
--
-
-  id: 600
-  title: "Design"
-  description: ""
-  speakers: [4]
-
 
 
 -
@@ -50,6 +43,13 @@
   <p>როგორ შეიძლება გამოვიყენოთ?</p>
   <p>RxJava ანდროიდში</p>"
   speakers: [11]
+
+-
+
+  id: 600
+  title: "Design"
+  description: ""
+  speakers: [4]
 
 
 
