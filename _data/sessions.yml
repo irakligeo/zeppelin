@@ -47,7 +47,14 @@
 #   speakers: [13]
 
 
-# -
+
+ -
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
 
 
     # სესიები 2016 წლამდე
