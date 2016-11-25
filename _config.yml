@@ -91,8 +91,8 @@ heroButtons:
 # About Block
 aboutTitle: "GDG DevFest-ის შესახებ"
 aboutBlock:
- - {title: "კონფერენცია", image: "conference.jpg", text: "GDG–ის ყოველწლიური დეველოპერული ფესტივალი საქართველოში. Google-ის წარმომადგენლები, საინტერესო სპიკერები და განსაკუთრებული ღონისძიება სპეციალურად GDG თბილისისთვის." }
- - {title: "ვორქშოფები", image: "workshop.jpg", text: "2 საათიანი პრაქტიკული ლექცია, რომელზეც მონაწილეები თავად შექმნიან მარტივ აპლიკაციებსა და დიზაინს. ბევრი პროგრამირება, ინოვაცია და ტექნოლოგია." }
+ - {title: "ღია ლექციები", image: "conference.jpg", text: "GDG–ის ყოველწლიური დეველოპერული ფესტივალი საქართველოში. Google-ის წარმომადგენლები, საინტერესო სპიკერები და განსაკუთრებული ღონისძიება სპეციალურად GDG თბილისისთვის." }
+ - {title: "The confusing case history of Georgian in Unicode", image: "michael_everson.jpg", text: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals." }
  # - {title: "ჰაკათონი", image: "hackathon_main_page.jpg", text: "48 საათიანი ღონისძიება. გააქვთ ტექნოლოგიებთან დაკავშირებული ინოვაციური იდეა? შემოგვიერთდით ჰაკათონზე და აქციეთ ის რეალობად!" }
 
 # Statistic Block
