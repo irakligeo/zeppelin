@@ -48,18 +48,12 @@
 
 
 
- -
-  id: 007
-  title: "Opening"
-  place: ""
-  description: ""
 
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
+  title: "Opening"
+  place: ""
+  description: ""
 -
   id: 503
   title: "Lunch Break"
