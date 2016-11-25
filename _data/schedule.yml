@@ -1,63 +1,62 @@
-
-# - 
-#   date: "2015-11-06"
-#   dateReadable: "6 ნოემბერი"
-#   tracks: 
-#     - {title: "ჰაკათონი", color: "#607D8B"}
-#   timeslots:
-#     - {startTime: "18:00", endTime: "19:20", sessionIds: [405]}
-#     - {startTime: "19:30", endTime: "20:00", sessionIds: [406]}
-#     - {startTime: "20:00", endTime: "21:15", sessionIds: [407]}
-#     - {startTime: "21:30", endTime: "22:00", sessionIds: [408]}
-#     - {startTime: "22:30", endTime: "23:00", sessionIds: [409]}
-#     - {startTime: "23:00", endTime: "03:00", sessionIds: [410]}
-#     - {startTime: "03:00", endTime: "04:00", sessionIds: [411]}
-# - 
-#   date: "2015-11-07"
-#   dateReadable: "7 ნოემბერი"
-#   tracks: 
-#     - {title: "ღია ლექციები", color: "#2196F3"}
-#     - {title: "ვორქშოფები", color: "#009688"}
-#     - {title: "WomanTechMakers", color: "#00E5FF"}
-#     - {title: "ჰაკათონი", color: "#607D8B"}
-#     - {title: "ჯეოლაბი", color: "#512DA8"}
-#   timeslots: 
-#     - {startTime: "09:00", endTime: "09:50", sessionIds: [404, 404, 404, 410, 404]}
-#     - {startTime: "10:00", endTime: "10:50", sessionIds: [404, 404, 404, 409, 404]}
-#     - {startTime: "11:00", endTime: "11:50", sessionIds: [201, 404, 404, 410, 404]}
-#     - {startTime: "12:00", endTime: "12:50", sessionIds: [208, 404, 404, 410, 805]}
-#     - {startTime: "13:00", endTime: "13:50", sessionIds: [308, 504, 404, 410, 404]}
-#     - {startTime: "14:00", endTime: "14:50", sessionIds: [202, 504, 404, 410, 404]}
-#     - {startTime: "15:00", endTime: "15:50", sessionIds: [203, 404, 701, 409, 404]}
-#     - {startTime: "16:00", endTime: "16:50", sessionIds: [209, 404, 702, 410, 404]}
-#     - {startTime: "17:00", endTime: "17:50", sessionIds: [404, 505, 404, 410, 404]}
-#     - {startTime: "18:00", endTime: "18:50", sessionIds: [404, 505, 404, 410, 806]}
-#     - {startTime: "19:00", endTime: "19:50", sessionIds: [404, 404, 404, 410, 404]}
-#     - {startTime: "20:00", endTime: "20:50", sessionIds: [404, 404, 404, 412, 404]}
-#     - {startTime: "21:00", endTime: "21:50", sessionIds: [404, 404, 404, 409, 404]}
-#     - {startTime: "22:00", endTime: "01:00", sessionIds: [404, 404, 404, 410, 404]}
-#     - {startTime: "01:00", endTime: "02:00", sessionIds: [404, 404, 404, 411, 404]}
-# - 
-#   date: "2015-11-08"
-#   dateReadable: "8 ნოემბერი"
-#   tracks: 
-#     - {title: "ღია ლექციები", color: "#2196F3"}
-#     - {title: "ვორქშოფები", color: "#009688"}
-#     - {title: "Design Sprint", color: "#3D5AFE"}
-#     - {title: "ჰაკათონი", color: "#607D8B"}
-#     - {title: "ჯეოლაბი", color: "#512DA8"}
-#   timeslots: 
-#     - {startTime: "09:00", endTime: "09:50", sessionIds: [404, 404, 601, 410, 404]}
-#     - {startTime: "10:00", endTime: "10:50", sessionIds: [404, 404, 602, 409, 404]}
-#     - {startTime: "11:00", endTime: "11:50", sessionIds: [404, 506, 404, 412, 805]}
-#     - {startTime: "12:00", endTime: "12:50", sessionIds: [206, 506, 404, 410, 404]}
-#     - {startTime: "13:00", endTime: "13:50", sessionIds: [204, 404, 409, 410, 807]}
-#     - {startTime: "14:00", endTime: "14:50", sessionIds: [308, 507, 603, 410, 404]}
-#     - {startTime: "15:00", endTime: "15:50", sessionIds: [205, 507, 404, 409, 404]}
-#     - {startTime: "16:00", endTime: "16:50", sessionIds: [207, 404, 604, 413, 808]}
-#     - {startTime: "17:00", endTime: "17:50", sessionIds: [210, 404, 404, 413, 404]}
-#     - {startTime: "18:00", endTime: "18:50", sessionIds: [404, 404, 404, 414, 806]}
-#     - {startTime: "19:30", endTime: "20:00", sessionIds: [900]}
+- 
+  date: "2015-11-06"
+  dateReadable: "6 ნოემბერი"
+  tracks: 
+    - {title: "ჰაკათონი", color: "#607D8B"}
+  timeslots:
+    - {startTime: "18:00", endTime: "19:20", sessionIds: [405]}
+    - {startTime: "19:30", endTime: "20:00", sessionIds: [406]}
+    - {startTime: "20:00", endTime: "21:15", sessionIds: [407]}
+    - {startTime: "21:30", endTime: "22:00", sessionIds: [408]}
+    - {startTime: "22:30", endTime: "23:00", sessionIds: [409]}
+    - {startTime: "23:00", endTime: "03:00", sessionIds: [410]}
+    - {startTime: "03:00", endTime: "04:00", sessionIds: [411]}
+- 
+  date: "2015-11-07"
+  dateReadable: "7 ნოემბერი"
+  tracks: 
+    - {title: "ღია ლექციები", color: "#2196F3"}
+    - {title: "ვორქშოფები", color: "#009688"}
+    - {title: "WomanTechMakers", color: "#00E5FF"}
+    - {title: "ჰაკათონი", color: "#607D8B"}
+    - {title: "ჯეოლაბი", color: "#512DA8"}
+  timeslots: 
+    - {startTime: "09:00", endTime: "09:50", sessionIds: [404, 404, 404, 410, 404]}
+    - {startTime: "10:00", endTime: "10:50", sessionIds: [404, 404, 404, 409, 404]}
+    - {startTime: "11:00", endTime: "11:50", sessionIds: [201, 404, 404, 410, 404]}
+    - {startTime: "12:00", endTime: "12:50", sessionIds: [208, 404, 404, 410, 805]}
+    - {startTime: "13:00", endTime: "13:50", sessionIds: [308, 504, 404, 410, 404]}
+    - {startTime: "14:00", endTime: "14:50", sessionIds: [202, 504, 404, 410, 404]}
+    - {startTime: "15:00", endTime: "15:50", sessionIds: [203, 404, 701, 409, 404]}
+    - {startTime: "16:00", endTime: "16:50", sessionIds: [209, 404, 702, 410, 404]}
+    - {startTime: "17:00", endTime: "17:50", sessionIds: [404, 505, 404, 410, 404]}
+    - {startTime: "18:00", endTime: "18:50", sessionIds: [404, 505, 404, 410, 806]}
+    - {startTime: "19:00", endTime: "19:50", sessionIds: [404, 404, 404, 410, 404]}
+    - {startTime: "20:00", endTime: "20:50", sessionIds: [404, 404, 404, 412, 404]}
+    - {startTime: "21:00", endTime: "21:50", sessionIds: [404, 404, 404, 409, 404]}
+    - {startTime: "22:00", endTime: "01:00", sessionIds: [404, 404, 404, 410, 404]}
+    - {startTime: "01:00", endTime: "02:00", sessionIds: [404, 404, 404, 411, 404]}
+- 
+  date: "2015-11-08"
+  dateReadable: "8 ნოემბერი"
+  tracks: 
+    - {title: "ღია ლექციები", color: "#2196F3"}
+    - {title: "ვორქშოფები", color: "#009688"}
+    - {title: "Design Sprint", color: "#3D5AFE"}
+    - {title: "ჰაკათონი", color: "#607D8B"}
+    - {title: "ჯეოლაბი", color: "#512DA8"}
+  timeslots: 
+    - {startTime: "09:00", endTime: "09:50", sessionIds: [404, 404, 601, 410, 404]}
+    - {startTime: "10:00", endTime: "10:50", sessionIds: [404, 404, 602, 409, 404]}
+    - {startTime: "11:00", endTime: "11:50", sessionIds: [404, 506, 404, 412, 805]}
+    - {startTime: "12:00", endTime: "12:50", sessionIds: [206, 506, 404, 410, 404]}
+    - {startTime: "13:00", endTime: "13:50", sessionIds: [204, 404, 409, 410, 807]}
+    - {startTime: "14:00", endTime: "14:50", sessionIds: [308, 507, 603, 410, 404]}
+    - {startTime: "15:00", endTime: "15:50", sessionIds: [205, 507, 404, 409, 404]}
+    - {startTime: "16:00", endTime: "16:50", sessionIds: [207, 404, 604, 413, 808]}
+    - {startTime: "17:00", endTime: "17:50", sessionIds: [210, 404, 404, 413, 404]}
+    - {startTime: "18:00", endTime: "18:50", sessionIds: [404, 404, 404, 414, 806]}
+    - {startTime: "19:30", endTime: "20:00", sessionIds: [900]}
 
 
 
