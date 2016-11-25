@@ -1,16 +1,16 @@
-- 
-  date: "2015-11-06"
-  dateReadable: "6 ნოემბერი"
-  tracks: 
-    - {title: "ჰაკათონი", color: "#607D8B"}
-  timeslots:
-    - {startTime: "18:00", endTime: "19:20", sessionIds: [001]}
-    - {startTime: "19:30", endTime: "20:00", sessionIds: [001]}
-    - {startTime: "20:00", endTime: "21:15", sessionIds: [001]}
-    - {startTime: "21:30", endTime: "22:00", sessionIds: [001]}
-    - {startTime: "22:30", endTime: "23:00", sessionIds: [001]}
-    - {startTime: "23:00", endTime: "03:00", sessionIds: [001]}
-    - {startTime: "03:00", endTime: "04:00", sessionIds: [001]}
+# - 
+#   date: "2015-11-06"
+#   dateReadable: "6 ნოემბერი"
+#   tracks: 
+#     - {title: "ჰაკათონი", color: "#607D8B"}
+#   timeslots:
+#     - {startTime: "18:00", endTime: "19:20", sessionIds: [001]}
+#     - {startTime: "19:30", endTime: "20:00", sessionIds: [001]}
+#     - {startTime: "20:00", endTime: "21:15", sessionIds: [001]}
+#     - {startTime: "21:30", endTime: "22:00", sessionIds: [001]}
+#     - {startTime: "22:30", endTime: "23:00", sessionIds: [001]}
+#     - {startTime: "23:00", endTime: "03:00", sessionIds: [001]}
+#     - {startTime: "03:00", endTime: "04:00", sessionIds: [001]}
 # - 
 #   date: "2015-11-07"
 #   dateReadable: "7 ნოემბერი"
