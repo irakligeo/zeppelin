@@ -75,77 +75,50 @@
   timeslots: 
     - {
         startTime: "12:00",
-        sessionIds: [307, 307, 404, 404]
+        sessionIds: [307, 307, 306, 305]
     }
     - {
       startTime: "12:45",
       sessionIds: [404, 404, 404, 409]
     }
     - {
-      startTime: "11:00",
-      endTime: "11:50",
+      startTime: "13:20",
       sessionIds: [201, 404, 404, 410]
     }
     - {
-        startTime: "12:00",
-        endTime: "12:50",
+        startTime: "14:00",
         sessionIds: [208, 404, 404, 410]
     }
     - {
-      startTime: "13:00",
-      endTime: "13:50",
+      startTime: "14:30",
       sessionIds: [308, 504, 404, 410]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:50",
+        startTime: "15:30",
         sessionIds: [202, 504, 404, 410]
     }
     - {
-        startTime: "15:00",
-        endTime: "15:50",
+        startTime: "16:20",
         sessionIds: [203, 404, 701, 409]
     }
     - {
-        startTime: "16:00",
-        endTime: "16:50",
+        startTime: "17:30",
         sessionIds: [209, 404, 702, 410]
     }
     - {
-        startTime: "17:00",
-        endTime: "17:50",
+        startTime: "18:10",
         sessionIds: [404, 505, 404, 410]
     }
     - {
-        startTime: "18:00",
-        endTime: "18:50",
+        startTime: "19:45",
         sessionIds: [404, 505, 404, 410]
-    }
-    - {
-        startTime: "19:00",
-        endTime: "19:50",
-        sessionIds: [404, 404, 404, 410]
     }
     - {
         startTime: "20:00",
-        endTime: "20:50",
-        sessionIds: [404, 404, 404, 412]
-    }
-    - {
-        startTime: "21:00",
-        endTime: "21:50",
-        sessionIds: [404, 404, 404, 409]
-    }
-    - {
-        startTime: "22:00",
-        endTime: "01:00",
+        endTime: "22:00",
         sessionIds: [404, 404, 404, 410]
     }
-    - {
-        startTime: "01:00",
-        endTime: "02:00",
-        sessionIds: [404, 404, 404, 411]
-    }
+  
 - 
   date: "2015-11-08"
   dateReadable: "8 ნოემბერი"

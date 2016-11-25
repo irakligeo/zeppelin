@@ -47,7 +47,11 @@
 #   speakers: [13]
 
 
-
+-
+  id: 306
+  title: "CodeLab"
+  place: ""
+  description: ""
 
 -
   id: 307
