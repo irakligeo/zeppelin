@@ -79,15 +79,15 @@
     }
     - {
       startTime: "12:45",
-      sessionIds: [404, 404, 306, 304]
+      sessionIds: [305, 305, 306, 304]
     }
     - {
       startTime: "13:20",
-      sessionIds: [201, 404, 404, 410]
+      sessionIds: [201, 404, 306, 304]
     }
     - {
         startTime: "14:00",
-        sessionIds: [208, 404, 404, 410]
+        sessionIds: [208, 404, 306, 304]
     }
     - {
       startTime: "14:30",
