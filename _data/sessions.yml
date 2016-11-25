@@ -28,16 +28,28 @@
 #   description: "Sandro will try to show why the most important part of the system is its structure, how you can make a probabilistic guess about the outcome of a process and why structure yields identity."
 #   speakers: [9]
 
-# -
 
-#   id: 005
-#   title: "Tango with RxJava"
-#   description: "<p>რა არის Reactive Programming?</p>
-#   <p>რატომ გვჭირდება?</p>
-#   <p>რა პრობლემას ჭრის RxJava?</p>
-#   <p>როგორ შეიძლება გამოვიყენოთ?</p>
-#   <p>RxJava ანდროიდში</p>"
-#   speakers: [11]
+
+
+-
+
+  id: 600
+  title: "Design"
+  description: ""
+  speakers: [4]
+
+
+
+-
+
+  id: 605
+  title: "Tango with RxJava"
+  description: "<p>რა არის Reactive Programming?</p>
+  <p>რატომ გვჭირდება?</p>
+  <p>რა პრობლემას ჭრის RxJava?</p>
+  <p>როგორ შეიძლება გამოვიყენოთ?</p>
+  <p>RxJava ანდროიდში</p>"
+  speakers: [11]
 
 
 
@@ -91,17 +103,25 @@
   description: ""
 
 
-
-
-
-
-
-
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Lunch"
+  place: ""
   service: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -
   id: 001
   title: "Material design: Visual style and imagery"
