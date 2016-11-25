@@ -87,7 +87,7 @@
     }
     - {
         startTime: "14:00",
-        sessionIds: [605, 404, 306, 304]
+        sessionIds: [605, 600, 306, 304]
     }
     - {
       startTime: "14:30",
