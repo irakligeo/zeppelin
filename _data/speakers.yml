@@ -33,7 +33,7 @@
 
 
 - 
-  id: 3
+  id: 1
   name: "Amahdy  "
   surname: "AbdElAziz"
   company: "Google Developer Expert"
@@ -47,7 +47,7 @@
   #   - {name: "linkedin", link: ""}
 
 - 
-  id: 4
+  id: 2
   name: "Bob Van  "
   surname: "Luijt"
   company: "Google Developer Expert"
@@ -129,7 +129,7 @@
 
 
 - 
-  id: 9
+  id: 3
   name: "სანდრო  "
   surname: "დოლუა"
   company: ""
@@ -160,7 +160,7 @@
 
 
 - 
-  id: 11
+  id: 4
   name: "ტატო  "
   surname: "კუტალია"
   company: "eMoney.ge"
