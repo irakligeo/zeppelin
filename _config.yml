@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Tbilis DevFest 2016 Madafacka"
+title: "GDG Tbilis DevFest 2018 Madafacka"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "" #/zeppelin
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Tbilisi"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -55,10 +55,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 navigationLinks:
  - {permalink: "/", text: "მთავარი"}
- - {permalink: "/blog/", text: "სიახლეები"}
- - {permalink: "/schedule/", text: "განრიგი"}
- - {permalink: "/speakers/", text: "სპიკერები"}
- - {permalink: "/team/", text: "ჩვენ"}
+ # - {permalink: "/blog/", text: "სიახლეები"}
+ # - {permalink: "/schedule/", text: "განრიგი"}
+ # - {permalink: "/speakers/", text: "სპიკერები"}
+ # - {permalink: "/team/", text: "ჩვენ"}
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "გახდი სპიკერი"}
@@ -67,8 +67,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "statistic.jpg"
-heroTitle: "GDG DevFest <typeout> 2016"
-eventDate: "ნოემბერი 27, 2016"
+heroTitle: "GDG DevFest <typeout> 2018"
+eventDate: "ნოემბერი 27, 2018"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
