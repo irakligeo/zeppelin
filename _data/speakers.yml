@@ -32,7 +32,6 @@
 #   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 
 
- 
 - 
   id: 3
   name: "Amahdy  "
@@ -54,7 +53,7 @@
   company: "Google Developer Expert"
   title: ""
   bio: '<p>Bob is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. He puts his techniques to work at Kubrickology as well as with the company Firmshift. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.</p>'
-  thumbnailUrl: bob|_van_luijt.jpg
+  thumbnailUrl: bob_van_luijt.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
