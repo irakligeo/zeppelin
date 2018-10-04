@@ -34,7 +34,6 @@
 
  
 - 
-
   id: 3
   name: "Amahdy  "
   surname: "AbdElAziz"
@@ -49,11 +48,10 @@
   #   - {name: "linkedin", link: ""}
 
 - 
-
   id: 4
   name: "Bob Van  "
   surname: "Luijt"
-  company: ""
+  company: "Google Developer Expert"
   title: ""
   bio: '<p>Bob is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. He puts his techniques to work at Kubrickology as well as with the company Firmshift. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.</p>'
   thumbnailUrl: bob|_van_luijt.jpg
@@ -132,7 +130,6 @@
 
 
 - 
-
   id: 9
   name: "სანდრო  "
   surname: "დოლუა"
@@ -164,7 +161,6 @@
 
 
 - 
-
   id: 11
   name: "ტატო  "
   surname: "კუტალია"
