@@ -1,5 +1,221 @@
 
+- 
+  id: 1
+  name: "გიორგი  "
+  surname: "მამალაძე"
+  company: "Siemens Factory Automation"
+  title: "Senior Software Architect"
+  bio: '<p>George Mamaladze is a Senior Software Architect at Siemens Factory Automation. He has extensive experience in technical leadership of teams creating large scale industry automation engineering, telecommunication and financial software.</p>'
+  thumbnailUrl: giorgi_mamaladze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+  #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 
+
+
+- 
+  id: 2
+  name: "აკაკი  "
+  surname: "რაზმაძე"
+  company: ""
+  title: "გრაფიკული და შრიფტის დიზაინერი"
+  bio: '<p>აკაკი რაზმაძეს რამოდენიმეწლიანი მუშაობის გამოცდილება აქვს, როგორც გრაფიკულ, ასევე შრიფტის დიზაინში და სალექციო კურსების წარმართვის მიმართულებით.</p>
+  <p>აკაკი რაზმაძემ დაამთავრა თბილისის სახელმწიფო სამხატვრო აკადემიის გრაფიკის განხრით.</p>
+  <p>მან მაგისტრის ხარისხი გერმანიაში მიიღო, საკომუნიკაციო დიზაინის მიმართულებით, სადაც ასევე გაიარა პრაქტიკა შრიფტების მწარმოებელ კომპანიაში -“Monotype”. ამ პერიოდში შექმნილი ქართული შრიფტები, როგორებიცაა Neue Helvetica Georgian, FF Meta Georgian დღეს ამ კომპანიის საკუთრებაა. დაამთავრა თბილისის სახელმწიფო სამხატვრო აკადემია, გრაფიკის მიმართულებით.</p>'
+  thumbnailUrl: akaki_razmadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+  #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+
+
+ 
+- 
+
+  id: 3
+  name: "Amahdy  "
+  surname: "AbdElAziz"
+  company: "Google Developer Expert"
+  title: ""
+  bio: '<p>International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices.</p>'
+  thumbnailUrl: Amahdy.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+
+  id: 4
+  name: "ოთო  "
+  surname: "ფრანგიშვილი"
+  company: ""
+  title: ""
+  bio: '<p></p>'
+  thumbnailUrl: oto_frangishvili.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 5
+  name: "Paul  "
+  surname: "Lammertsma"
+  company: "Pixplicity"
+  title: "Co-Founder"
+  bio: '<p>პაულ ლამერთსმამ მობილური აპლიკაციების სააგენტო Pixplicity 2011 წელს დაარსა ჰოლანდიაში. კომპანიამ მალე დაიმკვიდრა სახელი ციფრულ ბაზარზე, ისეთ კომპანიებისთვის მუშაობით როგორიცაა De Telegraaf, Consumentenbond და Mercedes-Benz. წლების მანძილზე მას უმუშავია წამყვანი დეველოპერის პოზიციაზე ანდროიდის მიმართულებით. რამდენიმე წელია პაულ ლამერთსმა ხელმძღვანელობს Google-ის დეველოპერების ჯგუფს და ჰოლანდიის ანდროიდის მომხმარებელთა ჯგუფს. მას ჩაუტარებია საჯარო გამოსვლები და ვორქრშოფები მსოფლიოს არაერთ ქვეყანაში. მომხსენებელი საქართველოს წელს პირველად ესტუმრება.</p>'
+  thumbnailUrl: paul_lammertsma.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 6
+  name: "პავლე  "
+  surname: "გაბრიჭიძე"
+  company: "Leavingstone"
+  title: "ციფრული რეკლამის იუნითის ჰედი"
+  bio: '<p>პავლე გაბრიჭიძე 2014 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის იუნითის ჰედი.</p>
+  <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
+  <p>2013-2014 მართვის საინფორმაციო სისტემების კომპანია ოპტიმუსი - მარკეტინგის მენეჯერი.</p>
+  <p>2011-2012 კომპანია მობიფეი - კორპორტიული კლიენტების გაყიდვების წარმომადგენელი.</p>
+  <p>2009-2010 თავისუფალ უნივერსიტეტი - PR მენეჯერის ასისტენტი.</p>
+  <p>(2009-2013წწ.) დაამთავრა თბილისის თავისუფალი უნივერსიტეტი (ESM ბიზნეს სკოლა), ბიზნესის ადმინისტრირების ფაკულტეტი.</p>'
+  thumbnailUrl: pavle-gabritchidze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+- 
+
+  id: 7
+  name: "ანდრო  "
+  surname: "ბორცვაძე"
+  company: "Leavingstone"
+  title: "ციფრული რეკლამის მენეჯერი."
+  bio: '<p>ანდრო ბორცვაძე 2015 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის მენეჯერი.</p>
+  <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
+  <p>ანდრო ბორცვაძემ დაამთავრა (2012-2016წწ.) ილიას სახელმწიფო უნივერსიტეტი, ბიზნესის ადმინისტრირების (მენეჯმენტი) ფაკულტეტი.</p>'
+  thumbnailUrl: andro-bortsvadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+
+  id: 8
+  name: "სალომე  "
+  surname: "ვახტანგაძე"
+  company: ""
+  title: ""
+  bio: '<p>სალომე ვახტანგაძე - დაამთავრა თბილისი სახელმწიფო უნივერსიტეტის გამოყენებითი მათემატიკის და კომპიუტერული მეცნიერებების ფაკულტეტი, შემდეგ სწავლა განაგრძო ნიუ იორკის უნივერსიტეტში მაგისტრატურაზე. უნივერსიტეტის დამთავრების შემდეგ ხუთი წლის განმავლობაში მუშაობდა Google-ში სხვადასხვა პროექტებზე, მათ შორისაა: 1. indexing pipeline, that’s responsible for producing all the low ¬latency web search indices. It is a fully multi¬homed system with 99.9% availability and low processing latency. It was written in C++ and had dependencies on most of Google’s infrastructure. 2. uProxy, a peer ¬to¬-peer proxy tool which proxies web traffic using a SOCKS5 proxy over WebRTC. 3. Unfiltered.news is a visualization tool for discovering and exploring global news.</p>'
+  thumbnailUrl: salome_vaxtangadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+
+  id: 9
+  name: "სანდრო  "
+  surname: "დოლუა"
+  company: ""
+  title: "სტრუქტურული ინჟინერი"
+  bio: '<p>Sandro Dolua is a structural engineer with ten years of experience who thinks people make decisions based on emotion, not reason.</p>'
+  thumbnailUrl: sandro_dolua_and_kylo.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+  id: 10
+  name: "სოფიო  "
+  surname: "გაჩეჩილაძე"
+  company: "Potters Digital Agency"
+  title: "CEO"
+  bio: '<p>მაქვს Start Up-ებზე მუშაობის გამოცდილება და ასევე ძალიან ბევრ გუნდთან მიწევდა მუშაობა ბოლო 10 წლის განმავლობაში. შედეგად მივხვდი გყავდეს ძლიერი, კარგი და სანდო გუნდი არის წარმატებისთვის უმნიშვნელოვანესი ფაქტორი. ამ თემაზე მაქვს ძალიან დიდი პრაქტიკული გამოცდილება , დღესაც ვეხმარები რამდენიმე Start Up-ს და ორგანიზაციას გუნდში ხალხის მიღების სტრატეგიის შექმნაში. მაქვს ტრენერობის და სპიკერობის გამოცდილება,როგორც პატარა ისე დიდ აუდიტორიასთან. დაწყებული 20 ადამიანისგან შემდგარი ჯგუფით დასრულებული 600 ადამიანისგან შემდგარი აუდიტორიით სადაც მონაწილეები იყვნენ მსოფლიოს 135 ქვეყნიდან.</p>'
+  thumbnailUrl: sophio_gachechiladze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+  id: 11
+  name: "ტატო  "
+  surname: "კუტალია"
+  company: "eMoney.ge"
+  title: "Android Developer"
+  bio: '<p>Android Developer @ eMoney.ge</p><p>RxJava enthusiast</p><p>უყვარს ჩხირკედელაობა</p><p>უსმენს jazz-სა და progressive-ს</p><p>Former dev @ myvideo.ge</p><p>CS Masters @ IBSU</p>'
+  thumbnailUrl: tato_kutalia.png
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+  id: 12
+  name: "ვახო "
+  surname: "ვახტანგიშვილი"
+  company: "Leavingstone"
+  title: "CEO, Co-Founder"
+  bio: '<p>In 2009 Vakho graduated from European School of Management (at present ESM Business School under Free University of Tbilisi) and is a Bachelor of Business Administration.</p><p>Along with the education in June 2007 Vakho started working as a copyrighter and later as a creative project manager at Wizard Advertising. After 6 months of working experience at the agency Vakho decided to quit due to the need for freedom to do what he liked most.</p><p>In April 2008, at the age of 20, with three friends Vakho started a new venture, a digital agency TOPgroup, providing Digital Marketing and Web Solutions to the Georgian companies. In 2010, due to rising demand for Digital and Social Media Marketing the new brand - Leavingstone has been created under TOPgroup that for now represents one of the leading digital creative agencies in Georgia.</p><p>Leavingstone plans and performs digital marketing activities for top companies in the region -  JSC TBC Bank, JSC Bank Constanta, Geocell (TeliaSonera), Azercell (TeliaSonera), JSC Silknet, GPI Holding, Borjomi, Natakhtari Effes, Wissol Group etc.</p><p>Due to the rising needs for the advance skills in computer science and technology, Leavingstone founded GeoLab with three partners: Geocell, Georgian American University and GITA (Georgia’s Innovation and Technology Agency). GeoLab is a ICT technology laboratory which is open 24 hours a day for any interesting and innovative projects. GeoLab has its own IT institute where lecturers teach students how to create real products with digital tools.</p>'
+  thumbnailUrl: vakho_vakhtangishvili_3.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+- 
+
+  id: 13
+  name: "ლევან "
+  surname: "ცინაძე"
+  company: "შსს და სახელმწიფო უსაფრთხოების სამსახური"
+  title: "პროგრამული უზრუნველყოფის ინჟინერი"
+  bio: '<p>ვარ ლევან ცინაძე. მათემატიკოსი, პროგრამული უზრუნველყოფის ინჟინერი, ვმუშაობ შსს და სახელმწიფო უსაფრთხოების სამსახურში (იმედია საშიში არ არის :) ), სფერო -  Machine Learning - Deep Learning, Big Data (TensorFlow, Hadoop, Spark)  ვარ Data Science Tbilisi და Deep Learning Tbilisi მითაფების კოორგანიზატორი და Deep Learning ენთუზიასტი.</p>'
+  thumbnailUrl: levan_tsinadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+
+# 2018-მდე სპიკერები
 
 - 
   id: 1

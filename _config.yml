@@ -91,17 +91,17 @@ heroButtons:
 # About Block
 aboutTitle: "GDG DevFest-ის შესახებ"
 aboutBlock:
- - {title: "Why Android Development?", image: "paul_lammertsma.jpg", text: "Paul found his way into mobile technologies through mobile device interaction and his need to scratch an itch for entrepreneurship. His passion for Android has always compelled him to keep up with the latest developments and share knowledge by contributing into the open-source and chairing the GDG The Dutch Android User Group. He can frequently be seen giving tech talks & workshops." }
+ - {title: "Going Web Native", image: "amahdy.jpg", text: "International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices." }
  - {title: "The confusing case history of Georgian in Unicode", image: "michael_everson.jpg", text: "The encoding of the Georgian scripts, both the secular and the ecclesiastical, has been somewhat more complicated than the encoding of many other scripts has been. In this talk a serious problem for Georgian computing will be presented and discussed, and a call to action will be given in support of the simplest and most robust solution: adding Mtavruli capitals." }
  # - {title: "ჰაკათონი", image: "hackathon_main_page.jpg", text: "48 საათიანი ღონისძიება. გააქვთ ტექნოლოგიებთან დაკავშირებული ინოვაციური იდეა? შემოგვიერთდით ჰაკათონზე და აქციეთ ის რეალობად!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "დამსწრე", detail: ""}
+ - {count: "300", specialCharacter: "+", info: "დამსწრე", detail: ""}
  - {count: "12", specialCharacter: "", info: "საათი", detail: ""}
- - {count: "13", specialCharacter: "", info: "სპიკერი", detail: ""}
- - {count: "4", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
+ - {count: "10", specialCharacter: "", info: "სპიკერი", detail: ""}
+ - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "სიახლეები"
@@ -121,9 +121,9 @@ eventAddressLocality: "თბილისი"
 eventAddressLocalityRegion: "საქართველო"
 eventPostalCode: "0160"
 eventAddressCountry: "საქართველო"
-eventStartTime: "2016-11-27T12:00"
+eventStartTime: "2018-11-17T12:00"
 eventDoorTime: "10:00"
-eventEndTime: "2016-11-272T23:00"
+eventEndTime: "2018-11-172T23:00"
 # "41.688312, 44.769244" - ჯეოლაბის
 eventPlaceCoordinates: "41.688312, 44.769244"
 mapCenterCoordinates: "41.688312, 44.769244"
