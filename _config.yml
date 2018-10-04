@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Tbilisi DevFest 2016"
+title: "GDG Tbilisi DevFest 2018"
 email: "info@geolab.edu.ge"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "" #/zeppelin
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://geolab.edu.ge"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Tbilisi"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -55,10 +55,10 @@ c4sponsorsUrl: "/assets/GDG_Tbilisi_Sponsorship.pdf"
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 navigationLinks:
  - {permalink: "/", text: "მთავარი"}
- - {permalink: "/blog/", text: "სიახლეები"}
- - {permalink: "/schedule/", text: "განრიგი"}
- - {permalink: "/speakers/", text: "სპიკერები"}
- - {permalink: "/team/", text: "ჩვენ"}
+ # - {permalink: "/blog/", text: "სიახლეები"}
+ # - {permalink: "/schedule/", text: "განრიგი"}
+ # - {permalink: "/speakers/", text: "სპიკერები"}
+ # - {permalink: "/team/", text: "ჩვენ"}
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 
 
@@ -75,8 +75,8 @@ navigationLinks:
 
 # Hero Block
 heroImage: "actualKhokhobi.png"
-heroTitle: "GDG DevFest <typeout> 2016"
-eventDate: "27 ნოემბერი, 2016"
+heroTitle: "GDG DevFest <typeout> 2018"
+eventDate: "17 ნოემბერი, 2018"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
