@@ -33,6 +33,7 @@
 
 
 - 
+
   id: 1
   name: "Amahdy  "
   surname: "AbdElAziz"
@@ -47,6 +48,7 @@
   #   - {name: "linkedin", link: ""}
 
 - 
+
   id: 2
   name: "Bob Van  "
   surname: "Luijt"
@@ -129,6 +131,7 @@
 
 
 - 
+
   id: 3
   name: "სანდრო  "
   surname: "დოლუა"
@@ -160,6 +163,7 @@
 
 
 - 
+
   id: 4
   name: "ტატო  "
   surname: "კუტალია"
