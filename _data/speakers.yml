@@ -7,7 +7,7 @@
   title: "Senior Software Architect"
   bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. </p>
 <p>Cesare will be leading a tech-talk about Architecting a Blockchain-based Solution 101. Those interested in Blockchain technologies will also have an opportunity to attend a practical CodeLab. In order to participate, you need to pre-register (link). Slots are limited!</p>'
-  thumbnailUrl: Cesare_Valitutto.png
+  thumbnailUrl: Cesare_Valitutto.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
@@ -128,11 +128,11 @@
 
   id: 9
   name: "Tato  "
-  surname: "Kutalia"
+  surname: "  Kutalia"
   company: "eMoney.ge"
   title: "Android Developer"
   bio: '<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>'
-  thumbnailUrl: tato_kutalia.png
+  thumbnailUrl: tato_kutalia.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
