@@ -139,21 +139,20 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
+- 
 
-# - 
-
-#   id: 12
-#   name: "ვახო "
-#   surname: "ვახტანგიშვილი"
-#   company: "Leavingstone"
-#   title: "CEO, Co-Founder"
-#   bio: '<p>In 2009 Vakho graduated from European School of Management (at present ESM Business School under Free University of Tbilisi) and is a Bachelor of Business Administration.</p><p>Along with the education in June 2007 Vakho started working as a copyrighter and later as a creative project manager at Wizard Advertising. After 6 months of working experience at the agency Vakho decided to quit due to the need for freedom to do what he liked most.</p><p>In April 2008, at the age of 20, with three friends Vakho started a new venture, a digital agency TOPgroup, providing Digital Marketing and Web Solutions to the Georgian companies. In 2010, due to rising demand for Digital and Social Media Marketing the new brand - Leavingstone has been created under TOPgroup that for now represents one of the leading digital creative agencies in Georgia.</p><p>Leavingstone plans and performs digital marketing activities for top companies in the region -  JSC TBC Bank, JSC Bank Constanta, Geocell (TeliaSonera), Azercell (TeliaSonera), JSC Silknet, GPI Holding, Borjomi, Natakhtari Effes, Wissol Group etc.</p><p>Due to the rising needs for the advance skills in computer science and technology, Leavingstone founded GeoLab with three partners: Geocell, Georgian American University and GITA (Georgia’s Innovation and Technology Agency). GeoLab is a ICT technology laboratory which is open 24 hours a day for any interesting and innovative projects. GeoLab has its own IT institute where lecturers teach students how to create real products with digital tools.</p>'
-#   thumbnailUrl: vakho_vakhtangishvili_3.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
+  id: 10
+  name: "Oto "
+  surname: "&nbsp&nbsp Lolua"
+  company: "Singular"
+  title: "FE Team Lead"
+  bio: '<p>Oto Lolua is working as a Frontend Development team lead at Singular. He will speak about Architecture of Angular Framework during the Devfest.</p>'
+  thumbnailUrl: Oto_Lolua.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 
 
