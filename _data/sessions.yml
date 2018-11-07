@@ -40,7 +40,7 @@
   subtype: keynote
   speakers: [6]
   place: "CONFERENCE Room"
-  language: en
+  language: ge
 
 -
   id: 052
@@ -48,8 +48,6 @@
   description: "Good time for Networking and Lunching"
   subtype: keynote
   place: "Hall"
-  language: ge / en
-  video: "https://www.youtube.com/watch?v=rogFr-B4pnM"
 
 -
   id: 005
@@ -62,13 +60,121 @@
 
 -
   id: 006
-  title: ""
+  title: "Angular application architecture with ngrx"
   description: ""
   subtype: keynote
   speakers: [10]
   place: "CONFERENCE Room"
   language: ge
 
+-
+  id: 007
+  title: ""
+  description: ""
+  subtype: keynote
+  place: "CONFERENCE Room"
+  language: ge
+
+-
+  id: 101
+  title: "Web Accessibility? - Never heard"
+  description: "The internet is arguably the most powerful resource known to mankind. Of course, it isn’t perfect, but we can fix many of its flaws, like lack of accessibility. Not everyone can take full advantage of the internet, and that’s a problem. Sadly, not all websites are optimized for the kinds of visitors who has weak vision or who are blind or who are physically disabled. We all need to speak up for accessibility and start taking action. At this talk we will see how small and simple improvements to your website can significantly make it more accessible, so as make it more effective."
+  subtype: keynote
+  speakers: [2]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 102
+  title: "Break"
+  description: ""
+  place: "CONFERENCE Room"
+
+-
+  id: 103
+  title: "TensorFlow"
+  description: ""
+  subtype: keynote
+  speakers: [7]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 104
+  title: "Kubernetes"
+  description: ""
+  subtype: keynote
+  speakers: [4]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 105
+  title: "Global consistency at scale, breaking the RDBMs ceiling"
+  description: ""
+  subtype: keynote
+  speakers: [8]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 106
+  title: ""
+  description: ""
+  subtype: keynote
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 107
+  title: "Closing"
+  description: ""
+  subtype: keynote
+  place: "CONFERENCE Room"
+  language: ge / en
+
+-
+  id: 401
+  title: "Actions on Google"
+  description: ""
+  subtype: workshop
+  speakers: [9]
+  place: "Codelab 1"
+  language: ge
+
+-
+  id: 402
+  title: "Blockchain CodeLab"
+  description: "super-interactive hands-on Hyperledger Fabric framework, coding and playing with your first blockchain network!"
+  subtype: workshop
+  speakers: [1]
+  place: "CodeLab 2"
+  language: en
+
+-
+  id: 403
+  title: "Getting started with Flutter"
+  description: ""
+  subtype: work
+  speakers: [3]
+  place: "CodeLab 1"
+  language: en
+
+-
+  id: 404
+  title: "Fintech CodeLab"
+  description: ""
+  subtype: work
+  place: "CodeLab 2"
+  language: ge
+
+-
+  id: 501
+  title: "Networking"
+  description: ""
+  subtype: Hall
+  place: "Expo"
+  language: ge
 
 # -
 #   id: 591
