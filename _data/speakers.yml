@@ -2,7 +2,7 @@
 - 
   id: 1
   name: "Cessare  "
-  surname: "Valitutto"
+  surname: "&nbsp Valitutto"
   company: "Siemens Factory Automation"
   title: "Senior Software Architect"
   bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. </p>
@@ -17,7 +17,7 @@
 - 
   id: 2
   name: "Sofia  "
-  surname: "Huts"
+  surname: "&nbsp Huts"
   company: "Microsoft"
   title: "Software Engineer"
   bio: '<p>Sofia Huts from Ukraine is a Software Engineer at Microsoft Prague office.</p>
@@ -33,7 +33,7 @@
 
   id: 3
   name: "Amahdy "
-  surname: "AbdElAziz"
+  surname: "&nbsp AbdElAziz"
   company: "Google Developer Expert"
   title: ""
   bio: '<p>International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices.</p>'
@@ -48,7 +48,7 @@
 
   id: 4
   name: "Daniel "
-  surname: "Mehlow"
+  surname: "&nbsp Mehlow"
   company: "Contiamo"
   title: "Systems Engineer & Co-founder"
   bio: '<p>Daniel Mahlow loves solving complex problems and wearing multiple hats. After his CS studies he worked as a systems engineer in a variety of environments, from large corporates to small incubators and co-founded the data science platform startup Contiamo in Berlin, where he leads technical operations. Avid runner and VR/AR enthusiast.</p>'
@@ -63,7 +63,7 @@
 
   id: 6
   name: "Mikheil  "
-  surname: "Akopov"
+  surname: "&nbsp Akopov"
   company: "Bitphoria AG | App3Null"
   title: "CTO | Lead Android Developer"
   bio: '<p>Mikheil is Chief Technology Officer(CTO) at Bitphoria AG and Team Lead, Lead Android Developer at APP3null GmbH.</p>
@@ -79,7 +79,7 @@
 
   id: 5
   name: "Emillia  "
-  surname: "Maj"
+  surname: "&nbsp Maj"
   company: "Google Developer Expert | HUSKY"
   title: "GDE, Google Sprint Master"
   bio: "<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. </p>
@@ -95,7 +95,7 @@
 
   id: 7
   name: "Natalie  "
-  surname: "Pistunovich"
+  surname: "&nbsp Pistunovich"
   company: "Fraugster"
   title: "Engineering Manager"
   bio: '<p>Natalie Pistunovich is a learner, a Gopher, a public speaker and a sailor. She is leading the observability efforts at Fraugster, Berlin, and is the co-founder of GopherCon Iceland.</p>
@@ -111,7 +111,7 @@
 
   id: 8
   name: "Robert  "
-  surname: "Kubis"
+  surname: "&nbsp Kubis"
   company: "Google"
   title: "Cloud Developer Advocate"
   bio: '<p>Robert Kubis is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in container, storage and scalable technologies.</p>
@@ -128,7 +128,7 @@
 
   id: 9
   name: "Tato  "
-  surname: "<&nbsp><&nbsp> Kutalia"
+  surname: "&nbsp Kutalia"
   company: "eMoney.ge"
   title: "Android Developer"
   bio: '<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>'
