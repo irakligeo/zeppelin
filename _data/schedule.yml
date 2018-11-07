@@ -71,36 +71,36 @@
   timeslots: 
     - {
         startTime: "11:00",
-        sessionIds: [001, , ,]
+        sessionIds: [001]
     }
     - {
       startTime: "12:00",
-      sessionIds: [051, , ,]
+      sessionIds: [051]
     }
     - {
       startTime: "12:30",
-      sessionIds: [002, , ,]
+      sessionIds: [002]
     }
     - {
         startTime: "13:10",
-        sessionIds: [003, , ,]
+        sessionIds: [003]
     }
     - {
       startTime: "13:30",
-      sessionIds: [004, , ,]
+      sessionIds: [004]
     }
     - {
       startTime: "14:00",
       endTime: "15:00",
-      sessionIds: [052, , ,]
+      sessionIds: [052]
     }
     - {
         startTime: "15:00",
-        sessionIds: [005, , ,]
+        sessionIds: [005]
     }
     - {
         startTime: "15:30",
-        sessionIds: [006, , ,]
+        sessionIds: [006]
     }
 
 
