@@ -1,9 +1,9 @@
 - 
-  group: "მთავარი ორგანიზატორი"
+  group: "ორგანიზატორი"
   elements: 
     - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "GDGLOGO.svg", width: "600px"}
-- 
-  group: "თანაორგანიზატორები"
-  elements: 
-    - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "85px"}
-    # - {name: "GBG Tbilisi", description: "GBG Tbilisi", link: "http://devfest.ge", imageUrl: "GBGLOGO.svg", width: "120px"}
+# - 
+#   group: "თანაორგანიზატორები"
+#   elements: 
+#     - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "85px"}
+#     # - {name: "GBG Tbilisi", description: "GBG Tbilisi", link: "http://devfest.ge", imageUrl: "GBGLOGO.svg", width: "120px"}
