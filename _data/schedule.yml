@@ -64,55 +64,65 @@
   dateReadable: "17 ნოემბერი"
   tracks: 
     - {title: "CONFERENCE Room", color: "#FFC013"}
-
-  timeslots: 
-    - {
-        startTime: "11:00",
-        sessionIds: [001]
-    }
-    - {
-      startTime: "12:00",
-      sessionIds: [051]
-    }
-    - {
-      startTime: "12:30",
-      sessionIds: [002]
-    }
-    - {
-        startTime: "13:10",
-        sessionIds: [003]
-    }
-    - {
-      startTime: "13:30",
-      sessionIds: [004]
-    }
-    - {
-      startTime: "14:00",
-      endTime: "15:00",
-      sessionIds: [052]
-    }
-
-
-- 
-  date: "2018-11-17"
-  dateReadable: "17 ნოემბერი"
-  tracks: 
-    - {title: "CONFERENCE Room", color: "#FFC013"}
     - {title: "CodeLabs 1", color: "#4D80C1"}
     - {title: "CodeLabs 2", color: "#EE402E"}
     - {title: "Expo", color: "#7E287E"}
 
   timeslots: 
-   
+    - {
+        startTime: "11:00",
+        sessionIds: [001, , ,]
+    }
+    - {
+      startTime: "12:00",
+      sessionIds: [051, , ,]
+    }
+    - {
+      startTime: "12:30",
+      sessionIds: [002, , ,]
+    }
+    - {
+        startTime: "13:10",
+        sessionIds: [003, , ,]
+    }
+    - {
+      startTime: "13:30",
+      sessionIds: [004, , ,]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "15:00",
+      sessionIds: [052, , ,]
+    }
     - {
         startTime: "15:00",
-        sessionIds: [005]
+        sessionIds: [005, , ,]
     }
     - {
         startTime: "15:30",
-        sessionIds: [006]
+        sessionIds: [006, , ,]
     }
 
+
+# - 
+#   date: "2018-11-17"
+#   dateReadable: "17 ნოემბერი"
+#   tracks: 
+#     - {title: "CONFERENCE Room", color: "#FFC013"}
+#     - {title: "CodeLabs 1", color: "#4D80C1"}
+#     - {title: "CodeLabs 2", color: "#EE402E"}
+#     - {title: "Expo", color: "#7E287E"}
+
+#   timeslots: 
+   
+#     - {
+#         startTime: "15:00",
+#         sessionIds: [005]
+#     }
+#     - {
+#         startTime: "15:30",
+#         sessionIds: [006]
+#     }
     # - {
     #     startTime: "17:30",
     #     sessionIds: [596, 595, 306, 304]
