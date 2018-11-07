@@ -66,7 +66,8 @@
   surname: "Maj"
   company: "Google Developer Expert | HUSKY"
   title: "GDE, Google Sprint Master"
-  bio: '<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>'
+  bio: '<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. </p>
+  <p>HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>'
   thumbnailUrl: Emillia_Maj.jpg
   rockstar: true
   # social: 
