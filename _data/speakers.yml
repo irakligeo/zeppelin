@@ -35,7 +35,7 @@
 
 - 
 
-  id: 1
+  id: 3
   name: "Amahdy "
   surname: "AbdElAziz"
   company: "Google Developer Expert"
@@ -51,143 +51,92 @@
 
 - 
 
-  id: 2
-  name: "Bob "
-  surname: "Luijt"
-  company: "Google Developer Expert"
-  title: ""
-  bio: '<p>Bob is a creative technologist and designer who works at the intersection of technology, design, and art.</p>'
-  thumbnailUrl: bob_van_luijt.jpg
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
-
-
-# - 
-
-#   id: 2
-#   name: "Bob Van  "
-#   surname: "Luijt"
-#   company: "Google Developer Expert"
-#   title: ""
-#   bio: '<p>Bob is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. He puts his techniques to work at Kubrickology as well as with the company Firmshift. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.</p>'
-#   thumbnailUrl: bob_van_luijt.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
-
-# - 
-
-#   id: 5
-#   name: "Paul  "
-#   surname: "Lammertsma"
-#   company: "Pixplicity"
-#   title: "Co-Founder"
-#   bio: '<p>პაულ ლამერთსმამ მობილური აპლიკაციების სააგენტო Pixplicity 2011 წელს დაარსა ჰოლანდიაში. კომპანიამ მალე დაიმკვიდრა სახელი ციფრულ ბაზარზე, ისეთ კომპანიებისთვის მუშაობით როგორიცაა De Telegraaf, Consumentenbond და Mercedes-Benz. წლების მანძილზე მას უმუშავია წამყვანი დეველოპერის პოზიციაზე ანდროიდის მიმართულებით. რამდენიმე წელია პაულ ლამერთსმა ხელმძღვანელობს Google-ის დეველოპერების ჯგუფს და ჰოლანდიის ანდროიდის მომხმარებელთა ჯგუფს. მას ჩაუტარებია საჯარო გამოსვლები და ვორქრშოფები მსოფლიოს არაერთ ქვეყანაში. მომხსენებელი საქართველოს წელს პირველად ესტუმრება.</p>'
-#   thumbnailUrl: paul_lammertsma.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
-
-# - 
-
-#   id: 6
-#   name: "პავლე  "
-#   surname: "გაბრიჭიძე"
-#   company: "Leavingstone"
-#   title: "ციფრული რეკლამის იუნითის ჰედი"
-#   bio: '<p>პავლე გაბრიჭიძე 2014 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის იუნითის ჰედი.</p>
-#   <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
-#   <p>2013-2014 მართვის საინფორმაციო სისტემების კომპანია ოპტიმუსი - მარკეტინგის მენეჯერი.</p>
-#   <p>2011-2012 კომპანია მობიფეი - კორპორტიული კლიენტების გაყიდვების წარმომადგენელი.</p>
-#   <p>2009-2010 თავისუფალ უნივერსიტეტი - PR მენეჯერის ასისტენტი.</p>
-#   <p>(2009-2013წწ.) დაამთავრა თბილისის თავისუფალი უნივერსიტეტი (ESM ბიზნეს სკოლა), ბიზნესის ადმინისტრირების ფაკულტეტი.</p>'
-#   thumbnailUrl: pavle-gabritchidze.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
-# - 
-
-#   id: 7
-#   name: "ანდრო  "
-#   surname: "ბორცვაძე"
-#   company: "Leavingstone"
-#   title: "ციფრული რეკლამის მენეჯერი."
-#   bio: '<p>ანდრო ბორცვაძე 2015 წლიდან დღემდე არის კომპანია ლივინგსტონის ციფრული რეკლამის მენეჯერი.</p>
-#   <p>2015 წლიდან არის გუგლის სერტიფიცირებული ედვერთაიზერი.</p>
-#   <p>ანდრო ბორცვაძემ დაამთავრა (2012-2016წწ.) ილიას სახელმწიფო უნივერსიტეტი, ბიზნესის ადმინისტრირების (მენეჯმენტი) ფაკულტეტი.</p>'
-#   thumbnailUrl: andro-bortsvadze.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
-
-# - 
-
-
-#   id: 8
-#   name: "სალომე  "
-#   surname: "ვახტანგაძე"
-#   company: ""
-#   title: ""
-#   bio: '<p>სალომე ვახტანგაძე - დაამთავრა თბილისი სახელმწიფო უნივერსიტეტის გამოყენებითი მათემატიკის და კომპიუტერული მეცნიერებების ფაკულტეტი, შემდეგ სწავლა განაგრძო ნიუ იორკის უნივერსიტეტში მაგისტრატურაზე. უნივერსიტეტის დამთავრების შემდეგ ხუთი წლის განმავლობაში მუშაობდა Google-ში სხვადასხვა პროექტებზე, მათ შორისაა: 1. indexing pipeline, that’s responsible for producing all the low ¬latency web search indices. It is a fully multi¬homed system with 99.9% availability and low processing latency. It was written in C++ and had dependencies on most of Google’s infrastructure. 2. uProxy, a peer ¬to¬-peer proxy tool which proxies web traffic using a SOCKS5 proxy over WebRTC. 3. Unfiltered.news is a visualization tool for discovering and exploring global news.</p>'
-#   thumbnailUrl: salome_vaxtangadze.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
-
-
-- 
-
-  id: 3
-  name: "სანდრო  "
-  surname: "დოლუა"
-  company: ""
-  title: "სტრუქტურული ინჟინერი"
-  bio: '<p>Sandro Dolua is a structural engineer with ten years of experience who thinks people make decisions based on emotion, not reason.</p>'
-  thumbnailUrl: sandro_dolua_and_kylo.jpg
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
-
-
-# - 
-
-#   id: 10
-#   name: "სოფიო  "
-#   surname: "გაჩეჩილაძე"
-#   company: "Potters Digital Agency"
-#   title: "CEO"
-#   bio: '<p>მაქვს Start Up-ებზე მუშაობის გამოცდილება და ასევე ძალიან ბევრ გუნდთან მიწევდა მუშაობა ბოლო 10 წლის განმავლობაში. შედეგად მივხვდი გყავდეს ძლიერი, კარგი და სანდო გუნდი არის წარმატებისთვის უმნიშვნელოვანესი ფაქტორი. ამ თემაზე მაქვს ძალიან დიდი პრაქტიკული გამოცდილება , დღესაც ვეხმარები რამდენიმე Start Up-ს და ორგანიზაციას გუნდში ხალხის მიღების სტრატეგიის შექმნაში. მაქვს ტრენერობის და სპიკერობის გამოცდილება,როგორც პატარა ისე დიდ აუდიტორიასთან. დაწყებული 20 ადამიანისგან შემდგარი ჯგუფით დასრულებული 600 ადამიანისგან შემდგარი აუდიტორიით სადაც მონაწილეები იყვნენ მსოფლიოს 135 ქვეყნიდან.</p>'
-#   thumbnailUrl: sophio_gachechiladze.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
-
-
-- 
-
   id: 4
-  name: "ტატო  "
-  surname: "კუტალია"
+  name: "Daniel "
+  surname: "Mehlow"
+  company: "Contiamo"
+  title: "Systems Engineer & Co-founder"
+  bio: '<p>Daniel Mahlow loves solving complex problems and wearing multiple hats. After his CS studies he worked as a systems engineer in a variety of environments, from large corporates to small incubators and co-founded the data science platform startup Contiamo in Berlin, where he leads technical operations. Avid runner and VR/AR enthusiast.</p>'
+  thumbnailUrl: Daniel_Mehlow.png
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+  id: 5
+  name: "Emillia  "
+  surname: "Maj"
+  company: "Google Developer Expert | HUSKY"
+  title: "GDE, Google Sprint Master"
+  bio: '<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>'
+  thumbnailUrl: Emillia_Maj.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 6
+  name: "Mikheil  "
+  surname: "Akopov"
+  company: "Bitphoria AG | App3Null"
+  title: "CTO | Lead Android Developer"
+  bio: '<p>Mikheil is Chief Technology Officer(CTO) at Bitphoria AG and Team Lead, Lead Android Developer at APP3null GmbH.</p>
+  <p>He has 12 years work experience, working as Analyst Developer, Business Process Architect, lecturer, IT consultant. Mikheil is also frequently invited as a guest lecturer and speaker in many local or foreign conferences.</p>'
+  thumbnailUrl: misha_akopov.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 7
+  name: "Natalie  "
+  surname: "Pistunovich"
+  company: "Fraugster"
+  title: "Engineering Manager"
+  bio: '<p>Natalie Pistunovich is a learner, a Gopher, a public speaker and a sailor. She is leading the observability efforts at Fraugster, Berlin, and is the co-founder of GopherCon Iceland.</p>
+  <p>Prior to that she was a Backend Developer at GrayMeta, Los Angeles, a co-founder at Connta, Nairobi, a Backend Developer at adjust, Berlin, and a Silicon Integration Engineer at Intel, Haifa.</p>'
+  thumbnailUrl: Natalie_Pistunovich.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+  
+- 
+
+  id: 8
+  name: "Robert  "
+  surname: "Kubis"
+  company: "Google"
+  title: "Cloud Developer Advocate"
+  bio: '<p>Robert Kubis is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in container, storage and scalable technologies.</p>
+  <p>Before joining Google, Robert collected over ten years of experience in software development and architecture.</p>
+  <p>In his spare time he enjoys following tech trends & good restaurants, traveling and improving his photographing skills.</p>'
+  thumbnailUrl: Robert_Kubis.png
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 9
+  name: "Tato  "
+  surname: "Kutalia"
   company: "eMoney.ge"
   title: "Android Developer"
-  bio: '<p>Android Developer @ eMoney.ge</p><p>RxJava enthusiast</p><p>უყვარს ჩხირკედელაობა</p><p>უსმენს jazz-სა და progressive-ს</p><p>Former dev @ myvideo.ge</p><p>CS Masters @ IBSU</p>'
+  bio: '<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>'
   thumbnailUrl: tato_kutalia.png
   rockstar: true
   # social: 
