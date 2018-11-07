@@ -1,35 +1,36 @@
 
-# - 
-#   id: 1
-#   name: "გიორგი  "
-#   surname: "მამალაძე"
-#   company: "Siemens Factory Automation"
-#   title: "Senior Software Architect"
-#   bio: '<p>George Mamaladze is a Senior Software Architect at Siemens Factory Automation. He has extensive experience in technical leadership of teams creating large scale industry automation engineering, telecommunication and financial software.</p>'
-#   thumbnailUrl: giorgi_mamaladze.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
-#   #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
-#   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+- 
+  id: 1
+  name: "Cessare  "
+  surname: "Valitutto"
+  company: "Siemens Factory Automation"
+  title: "Senior Software Architect"
+  bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. 
+</p>
+<p>Cesare will be leading a tech-talk about Architecting a Blockchain-based Solution 101. Those interested in Blockchain technologies will also have an opportunity to attend a practical CodeLab. In order to participate, you need to pre-register (link). Slots are limited!</p>'
+  thumbnailUrl: Cessare_Valitutto.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+  #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 
 
 
-# - 
-#   id: 2
-#   name: "აკაკი  "
-#   surname: "რაზმაძე"
-#   company: ""
-#   title: "გრაფიკული და შრიფტის დიზაინერი"
-#   bio: '<p>აკაკი რაზმაძეს რამოდენიმეწლიანი მუშაობის გამოცდილება აქვს, როგორც გრაფიკულ, ასევე შრიფტის დიზაინში და სალექციო კურსების წარმართვის მიმართულებით.</p>
-#   <p>აკაკი რაზმაძემ დაამთავრა თბილისის სახელმწიფო სამხატვრო აკადემიის გრაფიკის განხრით.</p>
-#   <p>მან მაგისტრის ხარისხი გერმანიაში მიიღო, საკომუნიკაციო დიზაინის მიმართულებით, სადაც ასევე გაიარა პრაქტიკა შრიფტების მწარმოებელ კომპანიაში -“Monotype”. ამ პერიოდში შექმნილი ქართული შრიფტები, როგორებიცაა Neue Helvetica Georgian, FF Meta Georgian დღეს ამ კომპანიის საკუთრებაა. დაამთავრა თბილისის სახელმწიფო სამხატვრო აკადემია, გრაფიკის მიმართულებით.</p>'
-#   thumbnailUrl: akaki_razmadze.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
-#   #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
-#   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+- 
+  id: 2
+  name: "Sofia  "
+  surname: "Huts"
+  company: "Microsoft"
+  title: "Software Engineer"
+  bio: '<p>Sofia Huts from Ukraine is a Software Engineer at Microsoft Prague office.</p>
+  <p>At DevFest Tbilisi she will talk about Accessibility and how we shall consider hearing or visual barriers of our potential customers while developing our webpages, mobile apps and softwares.</p>'
+  thumbnailUrl: Sofia_Huts.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+  #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 
 
 - 
