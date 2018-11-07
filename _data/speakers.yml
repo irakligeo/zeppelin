@@ -61,22 +61,6 @@
 
 - 
 
-  id: 5
-  name: "Emillia  "
-  surname: "Maj"
-  company: "Google Developer Expert | HUSKY"
-  title: "GDE, Google Sprint Master"
-  bio: '<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. </p>
-  <p>HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>'
-  thumbnailUrl: Emillia_Maj.jpg
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
-
-- 
-
   id: 6
   name: "Mikheil  "
   surname: "Akopov"
@@ -85,6 +69,22 @@
   bio: '<p>Mikheil is Chief Technology Officer(CTO) at Bitphoria AG and Team Lead, Lead Android Developer at APP3null GmbH.</p>
   <p>He has 12 years work experience, working as Analyst Developer, Business Process Architect, lecturer, IT consultant. Mikheil is also frequently invited as a guest lecturer and speaker in many local or foreign conferences.</p>'
   thumbnailUrl: misha_akopov.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 5
+  name: "Emillia  "
+  surname: "Maj"
+  company: "Google Developer Expert | HUSKY"
+  title: "GDE, Google Sprint Master"
+  bio: "<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. </p>
+  <p>HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>"
+  thumbnailUrl: Emillia_Maj.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
