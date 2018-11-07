@@ -19,7 +19,7 @@
     # - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
    
     # - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains-logo.svg", width: "100px", height: "400px"}
-    - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "85px", height: "400px"}
+    - {name: "Geolab", description: "GeoLab", link: "http://geolab.edu.ge", imageUrl: "geolab.svg", width: "115px", height: "400px"}
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita.svg", width: "115px", height: "400px"}
     # - {name: "Ray Productions", description: "Ray Productions", link: "https://www.facebook.com/RayProductionGE/?fref=ts&__mref=message", imageUrl: "Ray_Production.svg", width: "400px"}
     - {name: "Owl Group", description: "Owl Group", link: "", imageUrl: "owl-logo-svg.svg", width: "125px"}
