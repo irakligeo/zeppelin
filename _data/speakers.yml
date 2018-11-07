@@ -5,8 +5,7 @@
   surname: "Valitutto"
   company: "Siemens Factory Automation"
   title: "Senior Software Architect"
-  bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. 
-</p>
+  bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. </p>
 <p>Cesare will be leading a tech-talk about Architecting a Blockchain-based Solution 101. Those interested in Blockchain technologies will also have an opportunity to attend a practical CodeLab. In order to participate, you need to pre-register (link). Slots are limited!</p>'
   thumbnailUrl: Cesare_Valitutto.png
   rockstar: true
@@ -111,7 +110,7 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
-  
+
 - 
 
   id: 8
