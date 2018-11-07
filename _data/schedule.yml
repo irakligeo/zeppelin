@@ -88,7 +88,7 @@
     }
     - {
       startTime: "14:00",
-      endTime: "15:00"
+      endTime: "15:00",
       sessionIds: [052]
     }
 
