@@ -128,7 +128,7 @@
 
   id: 9
   name: "Tato  "
-  surname: "  Kutalia"
+  surname: "<&nbsp><&nbsp> Kutalia"
   company: "eMoney.ge"
   title: "Android Developer"
   bio: '<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>'
