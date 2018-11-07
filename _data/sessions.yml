@@ -43,6 +43,15 @@
   language: en
 
 -
+  id: 052
+  title: "Break / Lunch"
+  description: "Good time for Networking and Lunching"
+  subtype: keynote
+  place: "Hall"
+  language: ge / en
+  video: "https://www.youtube.com/watch?v=rogFr-B4pnM"
+
+-
   id: 005
   title: "Going Web Native"
   description: ""

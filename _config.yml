@@ -62,12 +62,12 @@ navigationLinks:
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 
 
-# bottomNavigationLinks:
+bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "დევფესტზე რეგისტრაცია"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
-# rightNavigationButtons:
+rightNavigationButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "დევფესტზე რეგისტრაცია"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
