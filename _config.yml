@@ -56,20 +56,20 @@ c4sponsorsUrl: "/assets/GDG_Tbilisi_Sponsorship.pdf"
 navigationLinks:
  - {permalink: "/", text: "მთავარი"}
  # - {permalink: "/blog/", text: "სიახლეები"}
- # - {permalink: "/schedule/", text: "განრიგი"}
- # - {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/schedule/", text: "განრიგი"}
+ - {permalink: "/speakers/", text: "სპიკერები"}
  # - {permalink: "/team/", text: "ჩვენ"}
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 
 
 # bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- # - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "დევფესტზე რეგისტრაცია"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 # rightNavigationButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- # - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "დევფესტზე რეგისტრაცია"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
@@ -100,7 +100,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "დამსწრე", detail: ""}
  - {count: "12", specialCharacter: "", info: "საათი", detail: ""}
- - {count: "10", specialCharacter: "", info: "სპიკერი", detail: ""}
+ - {count: "11", specialCharacter: "", info: "სპიკერი", detail: ""}
  - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
 
 # Latest News Block
