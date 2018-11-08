@@ -154,6 +154,21 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
+- 
+
+  id: 11
+  name: "David "
+  surname: "&nbsp Chechelashvili"
+  company: "EVP Business Development | XPAND"
+  title: ""
+  bio: '<p>David Chechelashvili is an experienced high-tech entrepreneur in the directions of 3D/VR/AR and AI. At DevFest he will talk about technology commercialization and financing models.</p>'
+  thumbnailUrl: David_Chechelashvili.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
 
 
 # - 

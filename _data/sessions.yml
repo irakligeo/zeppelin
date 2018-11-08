@@ -119,9 +119,10 @@
 
 -
   id: 106
-  title: ""
+  title: "Comercializing Technologies"
   description: ""
   subtype: keynote
+  speakers: [11]
   place: "CONFERENCE Room"
   language: ge
 
