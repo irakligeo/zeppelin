@@ -65,12 +65,12 @@ navigationLinks:
 bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
- # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 rightNavigationButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
- # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
@@ -82,7 +82,7 @@ typeoutFallback: "Season"
 heroButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
- # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 # hackathonButtons:
