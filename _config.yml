@@ -135,7 +135,7 @@ venueBigImage: "techpark1.png"
 venueSmallImage1: "techpark2.png"
 venueSmallImage2: "techpark3.png"
 venueSmallImage3: "techpark1.png"
-venueFeatures: ["Technopark is one of the main projects of Georgian Innovation and Technology Agency, which is focused on creating an ecosystem in  innovations and technology fields. Technopark creates physical space, where is accumulated technological, educational and professional resources, which is intended to serve knowledge based economy development."]
+venueFeatures: ["Technopark is focused on creating an ecosystem in innovations and technology fields. Technopark creates physical space, where is accumulated technological, educational and professional resources, which is intended to serve knowledge based economy development."]
 # venueBlockTitle: "ჯეოლაბი"
 # venueBigImage: "geolab_1.jpg"
 # venueSmallImage1: "geolab_2.jpg"
