@@ -184,6 +184,36 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
+- 
+
+  id: 13
+  name: "Nino "
+  surname: "&nbsp Nanitashvili"
+  company: "GDG Tbilisi"
+  title: "Devfest Host"
+  bio: '<p>Meet DevFest host, Nino Nanitashvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
+  thumbnailUrl: Ninuca_Nanitashvili.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+
+- 
+
+  id: 14
+  name: "Giorgi "
+  surname: "&nbsp Vakhtangishvili"
+  company: "GDG Tbilisi"
+  title: "Devfest Host"
+  bio: '<p>Meet DevFest host, Giorgi Vakhtangishvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
+  thumbnailUrl: Giorgi_Vakhtangishvili.png
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 # - 
 

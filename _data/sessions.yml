@@ -11,6 +11,7 @@
   title: "Opening"
   description: ""
   subtype: keynote
+  speakers: [13, 14]
   place: "CONFERENCE Room"
   language: ge / en
   video: "https://www.youtube.com/watch?v=rogFr-B4pnM"
@@ -131,6 +132,7 @@
   title: "Closing"
   description: ""
   subtype: keynote
+  speakers: [13, 14]
   place: "CONFERENCE Room"
   language: ge / en
 
