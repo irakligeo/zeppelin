@@ -54,34 +54,34 @@ c4sponsorsUrl: "/assets/GDG_Tbilisi_Sponsorship.pdf"
 # rightNavigationButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 navigationLinks:
- - {permalink: "/", text: "მთავარი"}
+ - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "სიახლეები"}
- - {permalink: "/schedule/", text: "განრიგი"}
- - {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "ჩვენ"}
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 
 
 bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "დევფესტზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 rightNavigationButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "დევფესტზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
 heroImage: "cover_2018_2.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "17 ნოემბერი, 2018"
+eventDate: "17 November, 2018"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- # - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
+ - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -98,10 +98,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "დამსწრე", detail: ""}
- - {count: "12", specialCharacter: "", info: "საათი", detail: ""}
- - {count: "11", specialCharacter: "", info: "სპიკერი", detail: ""}
- - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: ""}
+ - {count: "12", specialCharacter: "", info: "hours", detail: ""}
+ - {count: "11", specialCharacter: "", info: "speakers", detail: ""}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
 # latestNewsTitle: "სიახლეები"
@@ -109,33 +109,33 @@ statisticBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "სპიკერები"
-rockstarSpeakersButtonText: "ნახეთ ყველა სპიკერი"
+rockstarSpeakersTitle: "Rockstar Speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "მისამართი"
-eventLocationName: "ტექნოპარკი"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "ინოვაციების 7"
-eventAddressLocality: "თბილისი"
-eventAddressLocalityRegion: "საქართველო"
+locationBlockTitle: "Location"
+eventLocationName: "TechnoPark"
+eventLocationLink: "https://gita.gov.ge/"
+eventStreetAddress: "ინოვაციების 7, ოქროყანა"
+eventAddressLocality: "Tbilisi"
+eventAddressLocalityRegion: "Georgia"
 eventPostalCode: "0160"
-eventAddressCountry: "საქართველო"
+eventAddressCountry: "Georgia"
 eventStartTime: "2018-11-17T12:00"
-eventDoorTime: "10:00"
-eventEndTime: "2018-11-172T23:00"
+eventDoorTime: "11:00"
+eventEndTime: "2018-11-172T21:00"
 # "41.688312, 44.769244" - ჯეოლაბის
 eventPlaceCoordinates: "41.688312, 44.769244"
 mapCenterCoordinates: "41.688312, 44.769244"
 mapMobileCenterCoordinates: "41.688312, 44.769244"
 
 # Venue Block
-venueBlockTitle: "ტექნოპარკი"
+venueBlockTitle: "TechnoPark"
 venueBigImage: "techpark1.png"
 venueSmallImage1: "techpark2.png"
 venueSmallImage2: "techpark3.png"
 venueSmallImage3: "techpark1.png"
-venueFeatures: ["ტექნოპარკი არის სივრცე, სადაც თავმოყრილია ტექნოლოგიური, საგანმანათლებლო და პროფესიონალური რესურსები, რაც წარმოადგენს პლატფორმას ინოვაციებსა და ტექნოლოგიებზე დაფუძნებული იდეების განვითარებისთვის."]
+venueFeatures: ["Technopark is one of the main projects of Georgian Innovation and Technology Agency, which is focused on creating an ecosystem in  innovations and technology fields. Technopark creates physical space, where is accumulated technological, educational and professional resources, which is intended to serve knowledge based economy development."]
 # venueBlockTitle: "ჯეოლაბი"
 # venueBigImage: "geolab_1.jpg"
 # venueSmallImage1: "geolab_2.jpg"
@@ -152,9 +152,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "ორგანიზატორი"
-partnersTitle: "პარტნიორები"
-partnersC4sponsorsButton: "გახდი სპონსორი"
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -212,12 +212,12 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "ბმულები"
+  title: "Links"
   links:
     - {link: "https://developers.google.com", text: "Google Developers"}
    # - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
  -
-  title: "კონტაქტები"
+  title: "Contact us"
   links:
    - {link: "mailto:info@geolab.edu.ge", text: "info@geolab.edu.ge"}
  -
