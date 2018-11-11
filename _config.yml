@@ -104,7 +104,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "პარალელური აქტივობა", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "სიახლეები"
+# latestNewsTitle: "სიახლეები"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
