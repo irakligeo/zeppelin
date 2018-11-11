@@ -34,8 +34,8 @@
   id: 3
   name: "Amahdy "
   surname: "&nbsp AbdElAziz"
-  company: "Google Developer Expert"
-  title: ""
+  company: "Google Developer Expert | Vaadin"
+  title: "Developer Advocate"
   bio: '<p>International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices.</p>'
   thumbnailUrl: Amahdy.jpg
   rockstar: true
@@ -159,8 +159,8 @@
   id: 11
   name: "David "
   surname: "&nbsp Chechelashvili"
-  company: "EVP Business Development | XPAND"
-  title: ""
+  company: "XPAND"
+  title: "EVP Business Development"
   bio: '<p>David Chechelashvili is an experienced high-tech entrepreneur in the directions of 3D/VR/AR and AI. At DevFest he will talk about technology commercialization and financing models.</p>'
   thumbnailUrl: David_Chechelashvili.jpg
   rockstar: true
@@ -169,6 +169,20 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
+- 
+
+  id: 12
+  name: "David "
+  surname: "&nbsp Mereklishvili"
+  company: "Bank of Georgia"
+  title: "Android Developer"
+  bio: '<p>Davit Mereklishvili is a Student at Caucasus University and working as Android Developer at Bank of Georgia. He is an active member of Georgian Android Community - DroidUp.</p>'
+  thumbnailUrl: David_Mereklishvili.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 
 # - 

@@ -156,16 +156,16 @@
   id: 403
   title: "Getting started with Flutter"
   description: ""
-  subtype: work
+  subtype: workshop
   speakers: [3]
   place: "CodeLab 1"
   language: en
 
 -
   id: 404
-  title: "Fintech CodeLab"
+  title: "Fintech with Flutter"
   description: ""
-  subtype: work
+  subtype: workshop
   place: "CodeLab 2"
   language: ge
 
