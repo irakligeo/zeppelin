@@ -89,11 +89,11 @@ heroButtons:
 #  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 
 # About Block
-aboutTitle: "GDG DevFest-ის შესახებ"
+aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Google Developer Expert", image: "Amahdy.jpg", text: "International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices" }
- - {title: "Google", image: "Robert_Kubis.png", text: "Robert Kubis is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in container, storage and scalable technologies" }
- # - {title: "ჰაკათონი", image: "hackathon_main_page.jpg", text: "48 საათიანი ღონისძიება. გააქვთ ტექნოლოგიებთან დაკავშირებული ინოვაციური იდეა? შემოგვიერთდით ჰაკათონზე და აქციეთ ის რეალობად!" }
+ - {title: "conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "CodeLabs", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Design Sprint", image: "hackathon_main_page.jpg", text: "Full-day Design Sprint Session!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
