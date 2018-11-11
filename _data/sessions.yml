@@ -111,8 +111,8 @@
 
 -
   id: 105
-  title: "Global consistency at scale, breaking the RDBMs ceiling"
-  description: ""
+  title: "Kubernetes, Troubleshooting, Debugging and Google Cloud"
+  description: "Creating a single microservice is a well-understood challenge. Creating a cluster of load-balanced microservices that are resilient and self-healing is not so easy. Debugging applications in production, especially with microservices, especially with containers, especially in the cloud, is even harder. Google has spent over a decade deploying containerized applications at unprecedented scale and the infrastructure and tools developed have made it uniquely possible to manage, troubleshoot, and debug, at scale. Kubernetes, an open-source container management system, can help with this. In this talk, see how you can diagnose and troubleshoot production issues w/ out of the box Kubernetes tools, as well as getting insight from Stackdriver tools."
   subtype: keynote
   speakers: [8]
   place: "CONFERENCE Room"
