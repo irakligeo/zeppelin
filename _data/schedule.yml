@@ -65,7 +65,7 @@
   tracks: 
     - {title: "CONFERENCE Room", color: "#FFC013"}
     - {title: "Google Room", color: "#4D80C1"}
-    - {title: "Fintech Room", color: "#34A853"}
+    - {title: "Fintech Room", color: "#FD6A02"}
     - {title: "Sprint Room", color: "#EA4335"}
     - {title: "Hall", color: "#7E287E"}
 
@@ -96,7 +96,7 @@
     }
     - {
         startTime: "15:00",
-        sessionIds: [003, 403, 402, 405, 501]
+        sessionIds: [003, 403, 402, , 501]
     }
     - {
         startTime: "15:30",
@@ -120,7 +120,7 @@
     }
     - {
         startTime: "18:00",
-        sessionIds: [105, 405]
+        sessionIds: [105, , , 405]
     }
     - {
         startTime: "18:30",

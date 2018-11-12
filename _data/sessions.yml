@@ -181,13 +181,12 @@
   place: "Design Sprint"
   language: en
 
-
 -
   id: 501
   title: "Networking"
   description: ""
   subtype: Hall
-  place: "Expo"
+  place: "Hall"
   language: ge
 
 # -
