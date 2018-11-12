@@ -64,8 +64,9 @@
   dateReadable: "17 ნოემბერი"
   tracks: 
     - {title: "CONFERENCE Room", color: "#FFC013"}
-    - {title: "CodeLabs 1", color: "#4D80C1"}
-    - {title: "CodeLabs 2", color: "#EE402E"}
+    - {title: "Google Room", color: "#4D80C1"}
+    - {title: "Fintech Room", color: "#34A853"}
+    - {title: "Sprint Room", color: "#EA4335"}
     - {title: "Hall", color: "#7E287E"}
 
   timeslots: 
@@ -79,11 +80,11 @@
     }
     - {
       startTime: "12:30",
-      sessionIds: [002]
+      sessionIds: [005]
     }
     - {
         startTime: "13:10",
-        sessionIds: [003]
+        sessionIds: [002]
     }
     - {
       startTime: "13:30",
@@ -91,47 +92,43 @@
     }
     - {
       startTime: "14:00",
-      sessionIds: [052, 401, 402, 501]
+      sessionIds: [052, 403, 402, 405, 501]
     }
     - {
         startTime: "15:00",
-        sessionIds: [005, 401, 402, 501]
+        sessionIds: [003, 403, 402, 405, 501]
     }
     - {
         startTime: "15:30",
-        sessionIds: [006, 401, 402, 501]
+        sessionIds: [101, 403, 402, 405, 501]
     }
     - {
         startTime: "16:00",
-        sessionIds: [007, 403, 404, 501]
+        sessionIds: [006, 401, 404, 405, 501]
     }
     - {
         startTime: "16:30",
-        sessionIds: [101, 403, 404, 501]
+        sessionIds: [103, 401, 404, 405, 501]
     }
     - {
         startTime: "17:00",
-        sessionIds: [102, 403, 404, 501]
+        sessionIds: [102, 401, 404, 405, 501]
     }
     - {
         startTime: "17:30",
-        sessionIds: [103, 403, 404, 501]
+        sessionIds: [104, 401, 404, 405, 501]
     }
     - {
         startTime: "18:00",
-        sessionIds: [104]
+        sessionIds: [105, 405]
     }
     - {
         startTime: "18:30",
-        sessionIds: [105]
+        sessionIds: [106, 405]
     }
     - {
         startTime: "19:00",
-        sessionIds: [106]
-    }
-    - {
-        startTime: "19:30",
-        sessionIds: [107]
+        sessionIds: [107, 405]
     }
 
 

@@ -173,6 +173,16 @@
   language: ge
 
 -
+  id: 405
+  title: "Google Sprint Methodology for solving violence"
+  description: ""
+  subtype: workshop
+  speakers: [5]
+  place: "Design Sprint"
+  language: en
+
+
+-
   id: 501
   title: "Networking"
   description: ""

@@ -14,7 +14,6 @@
    
     # - {name: "Wissol", description: "Wissol", link: "http://wissol.ge/", imageUrl: "wissoll.svg", width: "120px"}
     # - {name: "Night Pizza", description: "NP", link: "http://nightpizza.ge", imageUrl: "nightpizza_2.svg", width: "100px"}
-    # - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
     # - {name: "IHUB", description: "IHUB", link: "https://www.facebook.com/IHUB-Tbilisi-863627120411270", imageUrl: "ihub.svg", width: "120px"}
     # - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
    
@@ -23,9 +22,15 @@
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita.svg", width: "115px", height: "400px"}
     # - {name: "Ray Productions", description: "Ray Productions", link: "https://www.facebook.com/RayProductionGE/?fref=ts&__mref=message", imageUrl: "Ray_Production.svg", width: "400px"}
     - {name: "Owl Group", description: "Owl Group", link: "", imageUrl: "owl-logo-svg.svg", width: "125px"}
-    # - {name: "3D - tride", description: "3D - tride", link: "https://www.facebook.com/3dludi/?hc_ref=SEARCH&fref=nf&__mref=message", imageUrl: "3d_logo.svg", width: "118px"}
-    # - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "100px"}
     - {name: "Innovation Support Fund", description: "Innovation Support Fund", link: "", imageUrl: "Innovation_Support_Fund.png", width: "125px"}
+    - {name: "Emotions Georgia", description: "Emotions Georgia", link: "", imageUrl: "emotions_georgia.png", width: "125px"}
+    - {name: "UN Women Support", description: "UN Women Support", link: "", imageUrl: "unw_support.png", width: "125px"}
+    - {name: "UN Women Support", description: "UN Women Support", link: "", imageUrl: "unw_support.png", width: "125px"}
+    - {name: "Orange the World", description: "Orange the World", link: "", imageUrl: "activism_logo.png", width: "125px"}
+    - {name: "Taxify", description: "Taxify", link: "taxify.com", imageUrl: "taxify.png", width: "125px"}
+    # - {name: "3D - tride", description: "3D - tride", link: "https://www.facebook.com/3dludi/?hc_ref=SEARCH&fref=nf&__mref=message", imageUrl: "3d_logo.svg", width: "118px"}
+    - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "100px"}
+    - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.svg", width: "120px"}
 
 # - 
   # group: "Information partners"
