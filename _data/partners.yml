@@ -1,5 +1,5 @@
 - 
-  group: "გენერალური სპონსორები"
+  group: "General Sponsors"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "Google_new.svg", width: "240px"}
     - {name: "Fintech.ge", description: "Fintech Community", link: "http://fintech.ge", imageUrl: "fintech.png", width: "240px"}
@@ -8,7 +8,7 @@
     # - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "GDGLOGO.svg", width: "154px"}
 
 - 
-  group: "მხარდამჭერები"
+  group: "Partners"
   elements: 
     # - {name: "GAU", description: "GAU", link: "http://gau.ge", imageUrl: "gau-logo.svg", width: "120px"}
    
