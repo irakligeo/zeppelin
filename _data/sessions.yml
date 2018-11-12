@@ -142,7 +142,7 @@
   description: ""
   subtype: workshop
   speakers: [9]
-  place: "Codelab 1"
+  place: "Google Room"
   language: ge
 
 -
@@ -151,7 +151,7 @@
   description: "super-interactive hands-on Hyperledger Fabric framework, coding and playing with your first blockchain network!"
   subtype: workshop
   speakers: [1]
-  place: "CodeLab 2"
+  place: "Fintech Room"
   language: en
 
 -
@@ -160,7 +160,7 @@
   description: ""
   subtype: workshop
   speakers: [3]
-  place: "CodeLab 1"
+  place: "Google Room"
   language: en
 
 -
@@ -169,7 +169,7 @@
   description: ""
   subtype: workshop
   speakers: [12]
-  place: "CodeLab 2"
+  place: "Fintech Room"
   language: ge
 
 -
@@ -178,7 +178,7 @@
   description: ""
   subtype: workshop
   speakers: [5]
-  place: "Design Sprint"
+  place: "Sprint Room"
   language: en
 
 -
