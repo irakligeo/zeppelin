@@ -2,7 +2,7 @@
   group: ""
   elements: 
     - {name: "GDG Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://devfest.ge", imageUrl: "GDGLOGO.svg", width: "600px"}
-    - {name: "WTM Tbilisi", description: "WTM Tbilisi - Women Tech Makers community", link: "http://womentechmakers.ge/", imageUrl: "wtm_logo.png", width: "400px"}
+    - {name: "WTM Tbilisi", description: "WTM Tbilisi - Women Tech Makers community", link: "http://womentechmakers.ge/", imageUrl: "wtm_logo.png", width: "200px", height: "200px"}
 # - 
 #   group: "თანაორგანიზატორები"
 #   elements: 
