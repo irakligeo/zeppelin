@@ -61,7 +61,7 @@
 
 - 
   date: "2018-11-17"
-  dateReadable: "17 ნოემბერი"
+  dateReadable: "17 November"
   tracks: 
     - {title: "CONFERENCE Room", color: "#34A853"}
     - {title: "Google Room", color: "#4D80C1"}
@@ -128,7 +128,7 @@
     }
     - {
         startTime: "19:00",
-        sessionIds: [107, 404, 404, 405, 501]
+        sessionIds: [107]
     }
 
 

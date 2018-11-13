@@ -223,10 +223,10 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "ქცევის კოდექსი"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "სიახლეები"
+blogTitle: "Latest News"
 blogCommentsEnabled: false
 discusShortName: "devfest tbilisi"
 
