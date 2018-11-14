@@ -76,7 +76,7 @@
     }
     - {
         startTime: "11:00",
-        sessionIds: [404, 404, 404, 405, 001]
+        sessionIds: [001, 001, 001, 405, 001]
     }
     - {
       startTime: "12:00",
