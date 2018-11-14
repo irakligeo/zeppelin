@@ -71,8 +71,12 @@
 
   timeslots: 
     - {
+        startTime: "10:00",
+        sessionIds: [404, 404, 404, 405, 404]
+    }
+    - {
         startTime: "11:00",
-        sessionIds: [001]
+        sessionIds: [404, 404, 404, 405, 001]
     }
     - {
       startTime: "12:00",
@@ -80,15 +84,15 @@
     }
     - {
       startTime: "12:30",
-      sessionIds: [005]
+      sessionIds: [005, 404, 404, 405, 501]
     }
     - {
         startTime: "13:10",
-        sessionIds: [002]
+        sessionIds: [002, 404, 404, 405, 501]
     }
     - {
       startTime: "13:30",
-      sessionIds: [004]
+      sessionIds: [004, 404, 404, 405, 501]
     }
     - {
       startTime: "14:00",
