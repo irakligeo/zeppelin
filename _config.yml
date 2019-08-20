@@ -78,7 +78,7 @@ heroImage: "cover_2019.jpg"
 # heroTitle: "GDG DevFest <typeout> 2019"
 # eventDate: "08 September, 2019"
 # typeoutTextValues: '"", "Tbilisi"'
-typeoutFallback: "Season"
+# typeoutFallback: "Season"
 heroButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  # - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
