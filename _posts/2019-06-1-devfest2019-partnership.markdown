@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "In Partnership with Fintech"
-date:   2018-10-1 03:47:00
+date:   2019-06-1 03:47:00
 isStaticPost: false
 ---
 
-Devfest Tbilisi 2018 and Fintech.ge are partnered for this year. Fintech.ge will be the General Sponsor of Devfest along with Google.
+Devfest Tbilisi 2019 and Fintech.ge are partnered for this year again. Fintech.ge will be the General Sponsor of Devfest along with Google.
 
 During the Conference, there will be many interesting Tech talks and some insights in Fintech world.  
 

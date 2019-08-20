@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "DevFest Tbilisi 2018"
-date:   2018-10-17 01:14:00
+title:  "DevFest Tbilisi 2019"
+date:   2019-08-15 01:14:00
 isStaticPost: false
 ---
 
-On 17th of November in Tbilisi, there will be held Google's annual developer festival which will be part of worldwide GDG Devfest season all around the globe. GDG Devfest is held 7th times already. One of the biggest Google's event is held in more than 100 cities around the world and hosts more than 30,000 participants.
+On 8th of შეპტემბერ in Tbilisi, there will be held Google's annual developer festival which will be part of worldwide GDG Devfest season all around the globe. GDG Devfest is held 8th times already. One of the biggest Google's event is held in more than 100 cities around the world and hosts more than 30,000 participants.
 
 Devfest Tbilisi covers different activites about different topics:
 
 * Tech Talks
 * CodeLabs
 * Workshops
-* Design Sprint
 * Networking
+* Experience Sharing
 
 This year GDG Devfest Tbilisi's General Partners will be Google and Fintech.ge
 
-DevFest Tbilisi 2018 is held at Technopark, Georgian Innovation and Technology Agency. 
+DevFest Tbilisi 2019 is held at Technopark, Georgian Innovation and Technology Agency. 
 Address: Okroqana, Inovaciebis #7.
 
 More details about speakers and Activities will appear in subsequent posts, meantime like us on [Facebook](https://www.facebook.com/gdgtbilisi/) or join to our Meetup Group [Meetup](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/).
