@@ -5,7 +5,7 @@ date:   2019-08-15 01:14:00
 isStaticPost: false
 ---
 
-On 8th of შეპტემბერ in Tbilisi, there will be held Google's annual developer festival which will be part of worldwide GDG Devfest season all around the globe. GDG Devfest is held 8th times already. One of the biggest Google's event is held in more than 100 cities around the world and hosts more than 30,000 participants.
+On 8th of September in Tbilisi, there will be held Google's annual developer festival which will be part of worldwide GDG Devfest season all around the globe. GDG Devfest is held 8th times already. One of the biggest Google's event is held in more than 100 cities around the world and hosts more than 30,000 participants.
 
 Devfest Tbilisi covers different activites about different topics:
 
