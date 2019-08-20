@@ -207,7 +207,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/106672659252619762166", icon: "google-plus"}
- - {link: "https://twitter.com/GeoLabEdu", icon: "twitter"}
+ # - {link: "https://twitter.com/GeoLabEdu", icon: "twitter"}
  - {link: "https://facebook.com/gdgtbilisi", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
