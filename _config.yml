@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Tbilisi DevFest 2018"
+title: "GDG Tbilisi DevFest 2019"
 email: "info@geolab.edu.ge"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "" #/zeppelin
