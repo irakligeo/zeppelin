@@ -64,20 +64,20 @@ navigationLinks:
 
 bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
- - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
+ # - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
+ # - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 rightNavigationButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
- - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
- - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
+ # - {link: "https://goo.gl/forms/qVXx0Bjl0vm5aAwH3", text: "Register on Devfest"}
+ # - {link: "https://goo.gl/forms/pPH5cNrciPsKacOv2", text: "CodeLab Registration"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
 heroImage: "cover_2019.jpg"
-heroTitle: "GDG DevFest <typeout> 2019"
-eventDate: "08 September, 2019"
-typeoutTextValues: '"", "Tbilisi"'
+# heroTitle: "GDG DevFest <typeout> 2019"
+# eventDate: "08 September, 2019"
+# typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
