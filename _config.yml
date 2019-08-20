@@ -74,7 +74,7 @@ rightNavigationButtons:
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
-heroImage: "cover_2018.png"
+heroImage: "cover_2019.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
 eventDate: "17 November, 2018"
 typeoutTextValues: '"", "Tbilisi"'
@@ -93,15 +93,15 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "CodeLabs", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Design Sprint", image: "hackathon_main_page.jpg", text: "Full-day Design Sprint Session!" }
+ - {title: "Networking", image: "hackathon_main_page.jpg", text: "Full-day Community Buildup!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees", detail: ""}
+ - {count: "400", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "12", specialCharacter: "", info: "hours", detail: ""}
- - {count: "11", specialCharacter: "", info: "speakers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: ""}
+ - {count: "10", specialCharacter: "", info: "speakers", detail: ""}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest News"
@@ -113,21 +113,21 @@ rockstarSpeakersTitle: "Rockstar Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "TechnoPark"
-eventLocationLink: "https://gita.gov.ge/"
-eventStreetAddress: "Inovation Street N7, Okroqana"
-eventAddressLocality: "Tbilisi"
-eventAddressLocalityRegion: "Georgia"
-eventPostalCode: "0160"
-eventAddressCountry: "Georgia"
-eventStartTime: "2018-11-17T12:00"
-eventDoorTime: "11:00"
-eventEndTime: "2018-11-172T21:00"
-# "41.688312, 44.769244" - ჯეოლაბის
-eventPlaceCoordinates: "41.688312, 44.769244"
-mapCenterCoordinates: "41.688312, 44.769244"
-mapMobileCenterCoordinates: "41.688312, 44.769244"
+# locationBlockTitle: "Location"
+# eventLocationName: "TechnoPark"
+# eventLocationLink: "https://gita.gov.ge/"
+# eventStreetAddress: "Inovation Street N7, Okroqana"
+# eventAddressLocality: "Tbilisi"
+# eventAddressLocalityRegion: "Georgia"
+# eventPostalCode: "0160"
+# eventAddressCountry: "Georgia"
+# eventStartTime: "2018-11-17T12:00"
+# eventDoorTime: "11:00"
+# eventEndTime: "2018-11-172T21:00"
+# # "41.688312, 44.769244" - ჯეოლაბის
+# eventPlaceCoordinates: "41.688312, 44.769244"
+# mapCenterCoordinates: "41.688312, 44.769244"
+# mapMobileCenterCoordinates: "41.688312, 44.769244"
 
 # Venue Block
 venueBlockTitle: "TechnoPark"
@@ -219,7 +219,7 @@ footerBlocks:
  -
   title: "Contact us"
   links:
-   - {link: "mailto:info@geolab.edu.ge", text: "info@geolab.edu.ge"}
+   - {link: "mailto:info@devfest.ge", text: "info@devfest.ge"}
  -
   title: "FAQ"
   links:
