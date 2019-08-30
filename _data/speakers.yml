@@ -6,8 +6,7 @@
   surname: "&nbsp Atamel"
   company: "Google"
   title: "Developer Advocate"
-  bio: '<p>Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems.</p>
-<p> Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.</p>'
+  bio: '<p>Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems.</p><p>Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.</p>'
   thumbnailUrl: 1_Mete_Atamel.jpg
   rockstar: true
   # social: 
@@ -22,8 +21,7 @@
   surname: "&nbsp Ceylan"
   company: "LINKIT, KLM"
   title: "JavaScript Tech Lead, GDE"
-  bio: '<p>Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems for the past 15 years. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and a speaker.</p>
-  <p>He's also interested in photography, capturing the night photos specifically.</p>'
+  bio: "<p>Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems for the past 15 years. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and a speaker.</p><p>He's also interested in photography, capturing the night photos specifically.</p>"
   thumbnailUrl: 2_Onder_Ceylan.png
   rockstar: true
   # social: 
@@ -31,13 +29,13 @@
   #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
 
-- 
+-
   id: 3
   name: "Maria "
   surname: "&nbsp Encinar"
   company: "Google"
   title: "Developer Relations Community Specialist"
-  bio: '<p>Maria is part of the Europen Developer Relations team at Google, where she takes care of communities in Central and Eastern Europe. She's being working with tech communities and startups for more than 10 years. From Galicia (Spain) but living in Prague, she's a language geek, food lover and a triathlon lover.</p>'
+  bio: "<p>Maria is part of the Europen Developer Relations team at Google, where she takes care of communities in Central and Eastern Europe. She's being working with tech communities and startups for more than 10 years. From Galicia (Spain) but living in Prague, she's a language geek, food lover and a triathlon lover.</p>"
   thumbnailUrl: 3_Maria_Encinar.jpeg
   rockstar: true
   # social: 
@@ -51,7 +49,7 @@
   surname: "&nbsp Sanchez"
   company: "Adobe"
   title: "Senior Cloud Software Engineer, GDE"
-  bio: '<p>Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. Apart from his current job at Adobe, Carlos is also a Google Developer Expert (GDE) for Google Cloud Platform.</p>'
+  bio: "<p>Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. Apart from his current job at Adobe, Carlos is also a Google Developer Expert (GDE) for Google Cloud Platform.</p>"
   thumbnailUrl: Carlos_Sanchez.jpg
   rockstar: true
   # social: 
@@ -65,8 +63,8 @@
   surname: "&nbsp Robakidze"
   company: "Clientela"
   title: "Lead Engineer"
-  bio: '<p>Ana Graduated from New York Institute of Technology in 2016 with the degree in Computer Science.  While at NYIT she served actively in multiple iniiatives, including to being selected by Google as a Student Ambassador. Since graduation, Ana has been working in different industries as a software engineer and led entrepreneurship journey in NYC and California with TechStars and Y combinator.</p>
-  <p>Currently working as a lead engineer at Clientela where together with her team she bridges the online and in-store experience allowing for a world where retail can be efficient yet meaningful from behind the scenes to beyond the counter.</p>'
+  bio: "<p>Ana Graduated from New York Institute of Technology in 2016 with the degree in Computer Science.  While at NYIT she served actively in multiple iniiatives, including to being selected by Google as a Student Ambassador. Since graduation, Ana has been working in different industries as a software engineer and led entrepreneurship journey in NYC and California with TechStars and Y combinator.</p>
+  <p>Currently working as a lead engineer at Clientela where together with her team she bridges the online and in-store experience allowing for a world where retail can be efficient yet meaningful from behind the scenes to beyond the counter.</p>"
   thumbnailUrl: 5_Ana_Robakidze.jpg
   rockstar: true
   # social: 
@@ -94,8 +92,8 @@
   surname: "&nbsp Milner"
   company: "SitePen"
   title: "Software Engineer, GDE"
-  bio: '<p>James is a fullstack software developer and Google Developer Expert for Web Technologies. He has  a history of building immersive web applications with both corporates and startups.</p>
-  <p>His background is in geospatial technologies for which he still has a passion. He is a fan of all things web development, particularly frontend with a penchant for exploring the potentials of the platform. During working life he spends time considering user experience patterns, building UIs and mulling over performance. Out of work James maintains an active blog chronicling his adventures into web development, and is a speaker at London development meetups and beyond. Alongside his technological pursuits he is a mediocre acoustic guitarist, fitness enthusiast and is a big fan of coffee and burritos (not together).</p>'
+  bio: "<p>James is a fullstack software developer and Google Developer Expert for Web Technologies. He has  a history of building immersive web applications with both corporates and startups.</p>
+  <p>His background is in geospatial technologies for which he still has a passion. He is a fan of all things web development, particularly frontend with a penchant for exploring the potentials of the platform. During working life he spends time considering user experience patterns, building UIs and mulling over performance. Out of work James maintains an active blog chronicling his adventures into web development, and is a speaker at London development meetups and beyond. Alongside his technological pursuits he is a mediocre acoustic guitarist, fitness enthusiast and is a big fan of coffee and burritos (not together).</p>"
   thumbnailUrl: 7_James_Milner.jpeg
   rockstar: true
   # social: 
@@ -109,8 +107,8 @@
   surname: "&nbsp Milani"
   company: "Code 2 Serve"
   title: "CEO, Women Techmakers Ambassador"
-  bio: '<p>Hawra Milani is an active community organiser, where she spends a lot of her time in organising, attending, and speaking at technical conferences around the world. A former high-school teacher, she is now the founder and CEO of ‘Code 2 Serve’ where she spends a lot of her time creating coding programmes and convincing youth that no matter what their educational or cultural background, they have a place in tech. She is the Lead Organiser for GDG Oxford, GDG Najaf (Iraq), a Women Techmakers Ambassador, and a STEM UK ambassador. She also teaches in Code Clubs and CoderDojos in various parts of London, and is an Apple, Google and Raspberry Pi Certified Educator.</p>
-  <p>She holds a BSc in Computer Science, a PGCE in Computer Science, and an MA in Computer Science Education from King’s College London. Her hobbies include ice-skating and photography.</p>'
+  bio: "<p>Hawra Milani is an active community organiser, where she spends a lot of her time in organising, attending, and speaking at technical conferences around the world. A former high-school teacher, she is now the founder and CEO of ‘Code 2 Serve’ where she spends a lot of her time creating coding programmes and convincing youth that no matter what their educational or cultural background, they have a place in tech. She is the Lead Organiser for GDG Oxford, GDG Najaf (Iraq), a Women Techmakers Ambassador, and a STEM UK ambassador. She also teaches in Code Clubs and CoderDojos in various parts of London, and is an Apple, Google and Raspberry Pi Certified Educator.</p>
+  <p>She holds a BSc in Computer Science, a PGCE in Computer Science, and an MA in Computer Science Education from King’s College London. Her hobbies include ice-skating and photography.</p>"
   thumbnailUrl: 8_Hawra_Milani.jpg
   rockstar: true
   # social: 
@@ -124,7 +122,7 @@
   surname: "&nbsp Kutalia"
   company: "eMoney.ge"
   title: "Android Developer"
-  bio: '<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>'
+  bio: "<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>"
   thumbnailUrl: tato_kutalia.jpg
   rockstar: true
   # social: 
@@ -139,7 +137,7 @@
   surname: "&nbsp Kodok"
   company: "REEA.net"
   title: "Senior Software Architect, GDE"
-  bio: '<p>Márton is a Google Developer Expert(GDE) for Cloud and senior software architect at REEA.net . A romanian hero on StackOverflow with 135k reputation points. He led the implementation of complex and distributed systems serving millions of users for companies like FreeLogoServices, LogoMix, WaterSmart, Ausschreibungsdienste and many more.</p>'
+  bio: "<p>Márton is a Google Developer Expert(GDE) for Cloud and senior software architect at REEA.net . A romanian hero on StackOverflow with 135k reputation points. He led the implementation of complex and distributed systems serving millions of users for companies like FreeLogoServices, LogoMix, WaterSmart, Ausschreibungsdienste and many more.</p>"
   thumbnailUrl: 9_Marton_Kodok.png
   rockstar: true
   # social: 
@@ -154,7 +152,7 @@
   surname: "&nbsp Sitnikov"
   company: "Exactpro"
   title: "Chief Software Architect"
-  bio: '<p>Anton is the Chief Software Architect at Exactpro. Throughout his career, Anton has developed several FinTech-related test automation tools in different capacities. He joined Exactpro in 2013 to lead the creation of a Surveillance system testing tool. Anton has many years of software development and leadership experience. He holds an Engineering Degree from the The Bauman Moscow State Technical University.</p>'
+  bio: "<p>Anton is the Chief Software Architect at Exactpro. Throughout his career, Anton has developed several FinTech-related test automation tools in different capacities. He joined Exactpro in 2013 to lead the creation of a Surveillance system testing tool. Anton has many years of software development and leadership experience. He holds an Engineering Degree from the The Bauman Moscow State Technical University.</p>"
   thumbnailUrl: 11_Anton_Sitnikov.jpeg
   rockstar: true
   # social: 
@@ -183,7 +181,7 @@
   surname: "&nbsp Nanitashvili"
   company: "GDG Tbilisi"
   title: "Devfest Host"
-  bio: '<p>Meet DevFest host, Nino Nanitashvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
+  bio: "<p>Meet DevFest host, Nino Nanitashvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>"
   thumbnailUrl: ninuca_nanitashvili_2.jpg
   rockstar: false
   # social: 
@@ -198,7 +196,7 @@
   surname: "&nbsp Vakhtangishvili"
   company: "GDG Tbilisi"
   title: "Devfest Host"
-  bio: '<p>Meet DevFest host, Giorgi Vakhtangishvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
+  bio: "<p>Meet DevFest host, Giorgi Vakhtangishvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>"
   thumbnailUrl: Giorgi_Vakhtangishvili.png
   rockstar: false
   # social: 
