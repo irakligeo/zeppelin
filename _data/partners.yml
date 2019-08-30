@@ -33,7 +33,7 @@
     # - {name: "TechHub", description: "TechHub", link: "", imageUrl: "techhub_logo.png", width: "120px"}
     # - {name: "MGroup", description: "MGroup", link: "", imageUrl: "mgroup.png", width: "120px"}
     # - {name: "Healthy Water", description: "Healthy Water", link: "", imageUrl: "healthy_water.png", width: "120px"}
-    - {name: "Exactpro", description: "Exactpro", link: "https://exactpro.com/company/locations/tbilisi", imageUrl: "Exactpro.png", width: "125px"}
+    - {name: "Exactpro", description: "Exactpro", link: "https://exactpro.com/company/locations/tbilisi", imageUrl: "Exactpro.png", width: "140px"}
 
 # - 
   # group: "Information partners"
