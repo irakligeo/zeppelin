@@ -45,7 +45,7 @@ c4sponsorsUrl: "/assets/GDG_Tbilisi_Sponsorship.pdf"
 #  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Schedule"}
-#  - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -57,7 +57,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "სიახლეები"}
  # - {permalink: "/schedule/", text: "Agenda"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "ჩვენ"}
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 
