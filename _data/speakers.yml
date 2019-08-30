@@ -1,13 +1,14 @@
 
+# Devfest 2019 Speakers
 - 
   id: 1
-  name: "Cesare "
-  surname: "&nbsp Valitutto"
-  company: "IBM"
-  title: "Blockchain Solution Architect"
-  bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. </p>
-<p>Cesare will be leading a tech-talk about Architecting a Blockchain-based Solution 101. Those interested in Blockchain technologies will also have an opportunity to attend a practical CodeLab. In order to participate, you need to pre-register (link). Slots are limited!</p>'
-  thumbnailUrl: Cesare_Valitutto.jpg
+  name: "Mete "
+  surname: "&nbsp Atamel"
+  company: "Google"
+  title: "Developer Advocate"
+  bio: '<p>Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems.</p>
+<p> Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.</p>'
+  thumbnailUrl: 1_Mete_Atamel.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
@@ -16,13 +17,13 @@
 
 - 
   id: 2
-  name: "Sofia  "
-  surname: "&nbsp Huts"
-  company: "Microsoft"
-  title: "Software Engineer"
-  bio: '<p>Sofia Huts from Ukraine is a Software Engineer at Microsoft Prague office.</p>
-  <p>At DevFest Tbilisi she will talk about Accessibility and how we shall consider hearing or visual barriers of our potential customers while developing our webpages, mobile apps and softwares.</p>'
-  thumbnailUrl: Sofia_Huts.jpg
+  name: "Onder  "
+  surname: "&nbsp Ceylan"
+  company: "LINKIT, KLM"
+  title: "JavaScript Tech Lead, GDE"
+  bio: '<p>Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems for the past 15 years. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and a speaker.</p>
+  <p>He's also interested in photography, capturing the night photos specifically.</p>'
+  thumbnailUrl: 2_Onder_Ceylan.png
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
@@ -32,12 +33,12 @@
 - 
 
   id: 3
-  name: "Amahdy "
-  surname: "&nbsp AbdElAziz"
-  company: "Google Developer Expert | Vaadin"
-  title: "Developer Advocate"
-  bio: '<p>International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices.</p>'
-  thumbnailUrl: Amahdy.jpg
+  name: "Maria "
+  surname: "&nbsp Encinar"
+  company: "Google"
+  title: "Developer Relations Community Specialist"
+  bio: '<p>Maria is part of the Europen Developer Relations team at Google, where she takes care of communities in Central and Eastern Europe. She's being working with tech communities and startups for more than 10 years. From Galicia (Spain) but living in Prague, she's a language geek, food lover and a triathlon lover.</p>'
+  thumbnailUrl: 3_Maria_Encinar.jpeg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -47,28 +48,12 @@
 - 
 
   id: 4
-  name: "Daniel "
-  surname: "&nbsp Mahlow"
-  company: "Contiamo"
-  title: "Systems Engineer & Co-founder"
-  bio: '<p>Daniel Mahlow loves solving complex problems and wearing multiple hats. After his CS studies he worked as a systems engineer in a variety of environments, from large corporates to small incubators and co-founded the data science platform startup Contiamo in Berlin, where he leads technical operations. Avid runner and VR/AR enthusiast.</p>'
-  thumbnailUrl: Daniel_Mehlow.png
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
-
-- 
-
-  id: 6
-  name: "Mikheil  "
-  surname: "&nbsp Akopov"
-  company: "Bitphoria AG | App3Null"
-  title: "CTO | Lead Android Developer"
-  bio: '<p>Mikheil is Chief Technology Officer(CTO) at Bitphoria AG and Team Lead, Lead Android Developer at APP3null GmbH.</p>
-  <p>He has 12 years work experience, working as Analyst Developer, Business Process Architect, lecturer, IT consultant. Mikheil is also frequently invited as a guest lecturer and speaker in many local or foreign conferences.</p>'
-  thumbnailUrl: misha_akopov.jpg
+  name: "Carlos "
+  surname: "&nbsp Sanchez"
+  company: "Adobe"
+  title: "Senior Cloud Software Engineer, GDE"
+  bio: '<p>Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. Apart from his current job at Adobe, Carlos is also a Google Developer Expert (GDE) for Google Cloud Platform.</p>'
+  thumbnailUrl: Carlos_Sanchez.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -78,13 +63,28 @@
 - 
 
   id: 5
-  name: "Emillia  "
-  surname: "&nbsp Maj"
-  company: "Google Developer Expert | HUSKY"
-  title: "GDE, Google Sprint Master"
-  bio: "<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. </p>
-  <p>HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>"
-  thumbnailUrl: Emillia_Maj.jpg
+  name: "Ana "
+  surname: "&nbsp Robakidze"
+  company: "Clientela"
+  title: "Lead Engineer"
+  bio: '<p>Ana Graduated from New York Institute of Technology in 2016 with the degree in Computer Science.  While at NYIT she served actively in multiple iniiatives, including to being selected by Google as a Student Ambassador. Since graduation, Ana has been working in different industries as a software engineer and led entrepreneurship journey in NYC and California with TechStars and Y combinator.</p>
+  <p>Currently working as a lead engineer at Clientela where together with her team she bridges the online and in-store experience allowing for a world where retail can be efficient yet meaningful from behind the scenes to beyond the counter.</p>'
+  thumbnailUrl: 5_Ana_Robakidze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
+
+- 
+
+  id: 6
+  name: "Gautier  "
+  surname: "&nbsp Mechling"
+  company: "Innovorder"
+  title: "Lead Android Developer, GDE"
+  bio: "<p>Gautier is a passionate developer living in Paris, France. Agile thinker, passionate in Android development, he publishes and maintains open source tools, and regularly writes blog posts on software engineering. Gautier is a Google Developer Expert (GDE) for Internet of Things.</p>"
+  thumbnailUrl: 6_Gautier_Mechling.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -94,13 +94,13 @@
 - 
 
   id: 7
-  name: "Natalie  "
-  surname: "&nbsp Pistunovich"
-  company: "Fraugster"
-  title: "Engineering Manager"
-  bio: '<p>Natalie Pistunovich is a learner, a Gopher, a public speaker and a sailor. She is leading the observability efforts at Fraugster, Berlin, and is the co-founder of GopherCon Iceland.</p>
-  <p>Prior to that she was a Backend Developer at GrayMeta, Los Angeles, a co-founder at Connta, Nairobi, a Backend Developer at adjust, Berlin, and a Silicon Integration Engineer at Intel, Haifa.</p>'
-  thumbnailUrl: Natalie_Pistunovich.jpg
+  name: "James "
+  surname: "&nbsp Milner"
+  company: "SitePen"
+  title: "Software Engineer, GDE"
+  bio: '<p>James is a fullstack software developer and Google Developer Expert for Web Technologies. He has  a history of building immersive web applications with both corporates and startups.</p>
+  <p>His background is in geospatial technologies for which he still has a passion. He is a fan of all things web development, particularly frontend with a penchant for exploring the potentials of the platform. During working life he spends time considering user experience patterns, building UIs and mulling over performance. Out of work James maintains an active blog chronicling his adventures into web development, and is a speaker at London development meetups and beyond. Alongside his technological pursuits he is a mediocre acoustic guitarist, fitness enthusiast and is a big fan of coffee and burritos (not together).</p>'
+  thumbnailUrl: 7_James_Milner.jpeg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -110,14 +110,13 @@
 - 
 
   id: 8
-  name: "Robert  "
-  surname: "&nbsp Kubis"
-  company: "Google"
-  title: "Cloud Developer Advocate"
-  bio: '<p>Robert Kubis is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in container, storage and scalable technologies.</p>
-  <p>Before joining Google, Robert collected over ten years of experience in software development and architecture.</p>
-  <p>In his spare time he enjoys following tech trends & good restaurants, traveling and improving his photographing skills.</p>'
-  thumbnailUrl: Robert_Kubis.png
+  name: "Hawra  "
+  surname: "&nbsp Milani"
+  company: "Code 2 Serve"
+  title: "CEO, Women Techmakers Ambassador"
+  bio: '<p>Hawra Milani is an active community organiser, where she spends a lot of her time in organising, attending, and speaking at technical conferences around the world. A former high-school teacher, she is now the founder and CEO of ‘Code 2 Serve’ where she spends a lot of her time creating coding programmes and convincing youth that no matter what their educational or cultural background, they have a place in tech. She is the Lead Organiser for GDG Oxford, GDG Najaf (Iraq), a Women Techmakers Ambassador, and a STEM UK ambassador. She also teaches in Code Clubs and CoderDojos in various parts of London, and is an Apple, Google and Raspberry Pi Certified Educator.</p>
+  <p>She holds a BSc in Computer Science, a PGCE in Computer Science, and an MA in Computer Science Education from King’s College London. Her hobbies include ice-skating and photography.</p>'
+  thumbnailUrl: 8_Hawra_Milani.jpg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -142,12 +141,12 @@
 - 
 
   id: 10
-  name: "Oto "
-  surname: "&nbsp Lolua"
-  company: "Singular"
-  title: "FE Team Lead"
-  bio: '<p>Oto Lolua is working as a Frontend Development team lead at Singular. He will speak about Architecture of Angular Framework during the Devfest.</p>'
-  thumbnailUrl: Oto_Lolua.jpg
+  name: "Marton "
+  surname: "&nbsp Kodok"
+  company: "REEA.net"
+  title: "Senior Software Architect, GDE"
+  bio: '<p>Márton is a Google Developer Expert(GDE) for Cloud and senior software architect at REEA.net . A romanian hero on StackOverflow with 135k reputation points. He led the implementation of complex and distributed systems serving millions of users for companies like FreeLogoServices, LogoMix, WaterSmart, Ausschreibungsdienste and many more.</p>'
+  thumbnailUrl: 9_Marton_Kodok.png
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
@@ -157,32 +156,32 @@
 - 
 
   id: 11
-  name: "David "
-  surname: "&nbsp Chechelashvili"
-  company: "XPAND"
-  title: "EVP Business Development"
-  bio: '<p>David Chechelashvili is an experienced high-tech entrepreneur in the directions of 3D/VR/AR and AI. At DevFest he will talk about technology commercialization and financing models.</p>'
-  thumbnailUrl: David_Chechelashvili.jpg
+  name: "Anton "
+  surname: "&nbsp Sitnikov"
+  company: "Exactpro"
+  title: "Chief Software Architect"
+  bio: '<p>Anton is the Chief Software Architect at Exactpro. Throughout his career, Anton has developed several FinTech-related test automation tools in different capacities. He joined Exactpro in 2013 to lead the creation of a Surveillance system testing tool. Anton has many years of software development and leadership experience. He holds an Engineering Degree from the The Bauman Moscow State Technical University.</p>'
+  thumbnailUrl: 11_Anton_Sitnikov.jpeg
   rockstar: true
   # social: 
   #   - {name: "google-plus", link: ""}
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-- 
+# - 
 
-  id: 12
-  name: "David "
-  surname: "&nbsp Mereklishvili"
-  company: "Bank of Georgia"
-  title: "Android Developer"
-  bio: '<p>Davit Mereklishvili is a Student at Caucasus University and working as Android Developer at Bank of Georgia. He is an active member of Georgian Android Community - DroidUp.</p>'
-  thumbnailUrl: David_Mereklishvili.jpg
-  rockstar: true
-  # social: 
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "facebook", link: ""}
-  #   - {name: "linkedin", link: ""}
+#   id: 12
+#   name: "David "
+#   surname: "&nbsp Mereklishvili"
+#   company: "Bank of Georgia"
+#   title: "Android Developer"
+#   bio: '<p>Davit Mereklishvili is a Student at Caucasus University and working as Android Developer at Bank of Georgia. He is an active member of Georgian Android Community - DroidUp.</p>'
+#   thumbnailUrl: David_Mereklishvili.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
 
 - 
 
@@ -193,7 +192,7 @@
   title: "Devfest Host"
   bio: '<p>Meet DevFest host, Nino Nanitashvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
   thumbnailUrl: ninuca_nanitashvili_2.jpg
-  rockstar: true
+  rockstar: false
   # social: 
   #   - {name: "google-plus", link: ""}
   #   - {name: "facebook", link: ""}
@@ -209,11 +208,231 @@
   title: "Devfest Host"
   bio: '<p>Meet DevFest host, Giorgi Vakhtangishvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
   thumbnailUrl: Giorgi_Vakhtangishvili.png
-  rockstar: true
+  rockstar: false
   # social: 
   #   - {name: "google-plus", link: ""}
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
+
+
+
+
+# Devfest 2018 Speakers below
+# - 
+#   id: 1
+#   name: "Cesare "
+#   surname: "&nbsp Valitutto"
+#   company: "IBM"
+#   title: "Blockchain Solution Architect"
+#   bio: '<p>Meet Cesare Valitutto, Blockchain Solution Architect from IBM’s London office and a very special guest during our DevFest Tbilisi. </p>
+# <p>Cesare will be leading a tech-talk about Architecting a Blockchain-based Solution 101. Those interested in Blockchain technologies will also have an opportunity to attend a practical CodeLab. In order to participate, you need to pre-register (link). Slots are limited!</p>'
+#   thumbnailUrl: Cesare_Valitutto.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+#   #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+#   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+
+# - 
+#   id: 2
+#   name: "Sofia  "
+#   surname: "&nbsp Huts"
+#   company: "Microsoft"
+#   title: "Software Engineer"
+#   bio: '<p>Sofia Huts from Ukraine is a Software Engineer at Microsoft Prague office.</p>
+#   <p>At DevFest Tbilisi she will talk about Accessibility and how we shall consider hearing or visual barriers of our potential customers while developing our webpages, mobile apps and softwares.</p>'
+#   thumbnailUrl: Sofia_Huts.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
+#   #   - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
+#   #   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+
+# - 
+
+#   id: 3
+#   name: "Amahdy "
+#   surname: "&nbsp AbdElAziz"
+#   company: "Google Developer Expert | Vaadin"
+#   title: "Developer Advocate"
+#   bio: '<p>International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Mobile and Web apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices.</p>'
+#   thumbnailUrl: Amahdy.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 4
+#   name: "Daniel "
+#   surname: "&nbsp Mahlow"
+#   company: "Contiamo"
+#   title: "Systems Engineer & Co-founder"
+#   bio: '<p>Daniel Mahlow loves solving complex problems and wearing multiple hats. After his CS studies he worked as a systems engineer in a variety of environments, from large corporates to small incubators and co-founded the data science platform startup Contiamo in Berlin, where he leads technical operations. Avid runner and VR/AR enthusiast.</p>'
+#   thumbnailUrl: Daniel_Mehlow.png
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 6
+#   name: "Mikheil  "
+#   surname: "&nbsp Akopov"
+#   company: "Bitphoria AG | App3Null"
+#   title: "CTO | Lead Android Developer"
+#   bio: '<p>Mikheil is Chief Technology Officer(CTO) at Bitphoria AG and Team Lead, Lead Android Developer at APP3null GmbH.</p>
+#   <p>He has 12 years work experience, working as Analyst Developer, Business Process Architect, lecturer, IT consultant. Mikheil is also frequently invited as a guest lecturer and speaker in many local or foreign conferences.</p>'
+#   thumbnailUrl: misha_akopov.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 5
+#   name: "Emillia  "
+#   surname: "&nbsp Maj"
+#   company: "Google Developer Expert | HUSKY"
+#   title: "GDE, Google Sprint Master"
+#   bio: "<p>Emilia is a Google Developer Expert in UI/UX and has been certified as a Google Sprint Master. She is also the founder of the HUSKY design agency. </p>
+#   <p>HUSKY specialises in software product strategy, user experience and visual design. As a product designer, she's responsible for driving the software product from inception through execution to ensure that the products amaze and delight end-users.</p>"
+#   thumbnailUrl: Emillia_Maj.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 7
+#   name: "Natalie  "
+#   surname: "&nbsp Pistunovich"
+#   company: "Fraugster"
+#   title: "Engineering Manager"
+#   bio: '<p>Natalie Pistunovich is a learner, a Gopher, a public speaker and a sailor. She is leading the observability efforts at Fraugster, Berlin, and is the co-founder of GopherCon Iceland.</p>
+#   <p>Prior to that she was a Backend Developer at GrayMeta, Los Angeles, a co-founder at Connta, Nairobi, a Backend Developer at adjust, Berlin, and a Silicon Integration Engineer at Intel, Haifa.</p>'
+#   thumbnailUrl: Natalie_Pistunovich.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 8
+#   name: "Robert  "
+#   surname: "&nbsp Kubis"
+#   company: "Google"
+#   title: "Cloud Developer Advocate"
+#   bio: '<p>Robert Kubis is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in container, storage and scalable technologies.</p>
+#   <p>Before joining Google, Robert collected over ten years of experience in software development and architecture.</p>
+#   <p>In his spare time he enjoys following tech trends & good restaurants, traveling and improving his photographing skills.</p>'
+#   thumbnailUrl: Robert_Kubis.png
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 9
+#   name: "Tato  "
+#   surname: "&nbsp Kutalia"
+#   company: "eMoney.ge"
+#   title: "Android Developer"
+#   bio: '<p>Tato is interested in Trending Technologies and eager to understand how to use them. He will Lead the Actions on Google Codelab session during the Devfest and will talk about the Google Assistant capabilities.</p>'
+#   thumbnailUrl: tato_kutalia.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 10
+#   name: "Oto "
+#   surname: "&nbsp Lolua"
+#   company: "Singular"
+#   title: "FE Team Lead"
+#   bio: '<p>Oto Lolua is working as a Frontend Development team lead at Singular. He will speak about Architecture of Angular Framework during the Devfest.</p>'
+#   thumbnailUrl: Oto_Lolua.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 11
+#   name: "David "
+#   surname: "&nbsp Chechelashvili"
+#   company: "XPAND"
+#   title: "EVP Business Development"
+#   bio: '<p>David Chechelashvili is an experienced high-tech entrepreneur in the directions of 3D/VR/AR and AI. At DevFest he will talk about technology commercialization and financing models.</p>'
+#   thumbnailUrl: David_Chechelashvili.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 12
+#   name: "David "
+#   surname: "&nbsp Mereklishvili"
+#   company: "Bank of Georgia"
+#   title: "Android Developer"
+#   bio: '<p>Davit Mereklishvili is a Student at Caucasus University and working as Android Developer at Bank of Georgia. He is an active member of Georgian Android Community - DroidUp.</p>'
+#   thumbnailUrl: David_Mereklishvili.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+# - 
+
+#   id: 13
+#   name: "Nino "
+#   surname: "&nbsp Nanitashvili"
+#   company: "GDG Tbilisi"
+#   title: "Devfest Host"
+#   bio: '<p>Meet DevFest host, Nino Nanitashvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
+#   thumbnailUrl: ninuca_nanitashvili_2.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
+
+
+# - 
+
+#   id: 14
+#   name: "Giorgi "
+#   surname: "&nbsp Vakhtangishvili"
+#   company: "GDG Tbilisi"
+#   title: "Devfest Host"
+#   bio: '<p>Meet DevFest host, Giorgi Vakhtangishvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>'
+#   thumbnailUrl: Giorgi_Vakhtangishvili.png
+#   rockstar: true
+#   # social: 
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "facebook", link: ""}
+#   #   - {name: "linkedin", link: ""}
 
 # - 
 
