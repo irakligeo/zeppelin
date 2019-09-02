@@ -14,45 +14,11 @@
   speakers: [13, 14]
   place: "CONFERENCE Room"
   language: ge / en
-  video: "https://www.youtube.com/watch?v=rogFr-B4pnM"
+  video: "https://www.youtube.com/watch?v=hTJ_-MxHKMY"
 
 -
   id: 002
-  title: "Blockchain for Techies"
-  description: ""
-  subtype: keynote
-  speakers: [1]
-  place: "CONFERENCE Room"
-  language: en
-
--
-  id: 003
-  title: "Introduction to Google Sprint Methodology"
-  description: ""
-  subtype: keynote
-  speakers: [5]
-  place: "CONFERENCE Room"
-  language: en
-
--
-  id: 004
-  title: "ML Kit for Mobiles"
-  description: ""
-  subtype: keynote
-  speakers: [6]
-  place: "CONFERENCE Room"
-  language: ge
-
--
-  id: 052
-  title: "Break / Lunch"
-  description: "Good time for Networking and Lunching"
-  subtype: keynote
-  place: "Hall"
-
--
-  id: 005
-  title: "Going Web Native"
+  title: "Google Communities Program: How we support developers around the world."
   description: ""
   subtype: keynote
   speakers: [3]
@@ -60,28 +26,70 @@
   language: en
 
 -
-  id: 006
-  title: "Angular application architecture with ngrx"
+  id: 003
+  title: "Serverless Containers with Knative and Cloud Run"
   description: ""
   subtype: keynote
-  speakers: [10]
+  speakers: [1]
   place: "CONFERENCE Room"
-  language: ge
+  language: en
+
+-
+  id: 004
+  title: "The rise of Webassembly"
+  description: ""
+  subtype: keynote
+  speakers: [7]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 052
+  title: "Lunch"
+  description: "Good time for Networking and Lunching"
+  subtype: keynote
+  place: "Hall"
+
+-
+  id: 053
+  title: "Break"
+  description: "Good time for Networking"
+  subtype: keynote
+  place: "Hall"
+
+-
+  id: 005
+  title: "Giving AI a human voice: What will it say?"
+  description: ""
+  subtype: keynote
+  speakers: [8]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 006
+  title: "Getting started with microcontrollers and Google Cloud IoT Core"
+  description: ""
+  subtype: keynote
+  speakers: [6]
+  place: "CONFERENCE Room"
+  language: en
 
 -
   id: 007
-  title: ""
+  title: "How to be a Clean Coder"
   description: ""
   subtype: keynote
+  speakers: [5]
   place: "CONFERENCE Room"
-  language: ge
+  language: en
 
 -
   id: 101
-  title: "Web Accessibility? - Never heard"
-  description: "The internet is arguably the most powerful resource known to mankind. Of course, it isn’t perfect, but we can fix many of its flaws, like lack of accessibility. Not everyone can take full advantage of the internet, and that’s a problem. Sadly, not all websites are optimized for the kinds of visitors who has weak vision or who are blind or who are physically disabled. We all need to speak up for accessibility and start taking action. At this talk we will see how small and simple improvements to your website can significantly make it more accessible, so as make it more effective."
+  title: "Defensive Programmin x Fintech"
+  description: ""
   subtype: keynote
-  speakers: [2]
+  speakers: [9]
   place: "CONFERENCE Room"
   language: en
 
@@ -93,16 +101,7 @@
 
 -
   id: 103
-  title: "TensorFlow"
-  description: ""
-  subtype: keynote
-  speakers: [7]
-  place: "CONFERENCE Room"
-  language: en
-
--
-  id: 104
-  title: "Kubernetes"
+  title: "Progressive Delivery: Implementing Continuous Delivery the Right Way"
   description: ""
   subtype: keynote
   speakers: [4]
@@ -110,11 +109,20 @@
   language: en
 
 -
-  id: 105
-  title: "Kubernetes, Troubleshooting, Debugging and Google Cloud"
-  description: "Creating a single microservice is a well-understood challenge. Creating a cluster of load-balanced microservices that are resilient and self-healing is not so easy. Debugging applications in production, especially with microservices, especially with containers, especially in the cloud, is even harder. Google has spent over a decade deploying containerized applications at unprecedented scale and the infrastructure and tools developed have made it uniquely possible to manage, troubleshoot, and debug, at scale. Kubernetes, an open-source container management system, can help with this. In this talk, see how you can diagnose and troubleshoot production issues w/ out of the box Kubernetes tools, as well as getting insight from Stackdriver tools."
+  id: 104
+  title: "Supercharge your data analytics with BigQuery"
+  description: ""
   subtype: keynote
-  speakers: [8]
+  speakers: [10]
+  place: "CONFERENCE Room"
+  language: en
+
+-
+  id: 105
+  title: "R3 Corda: Distributed ledger for Fintech applications"
+  description: ""
+  subtype: keynote
+  speakers: [11]
   place: "CONFERENCE Room"
   language: en
 
@@ -138,20 +146,20 @@
 
 -
   id: 401
-  title: "Actions on Google"
+  title: "Hello Cloud Run & Cloud Run on GKE"
   description: ""
   subtype: workshop
-  speakers: [9]
-  place: "Google Room"
-  language: ge
+  speakers: [3, 1]
+  place: "CodeLab Room"
+  language: en
 
 -
   id: 402
-  title: "Blockchain CodeLab"
-  description: "super-interactive hands-on Hyperledger Fabric framework, coding and playing with your first blockchain network!"
+  title: "Build a production ready PWA with Angular and Firebase"
+  description: ""
   subtype: workshop
-  speakers: [1]
-  place: "Fintech Room"
+  speakers: [2]
+  place: "CodeLab Room"
   language: en
 
 -
@@ -186,8 +194,43 @@
   title: "Networking"
   description: ""
   subtype: Hall
-  place: "Hall"
+  place: "Community Area"
   language: ge
+
+-
+  id: 502
+  title: "1on1 with Speakers"
+  description: ""
+  subtype: Hall
+  speakers: [1, 3, 7]
+  place: "Community Area"
+  language: en
+
+-
+  id: 503
+  title: "Meet with Xooglers"
+  description: ""
+  subtype: Hall
+  place: "Community Area"
+  language: ge
+
+-
+  id: 504
+  title: "1on1 with Speakers"
+  description: ""
+  subtype: Hall
+  speakers: [5, 6, 8]
+  place: "Community Area"
+  language: en
+
+-
+  id: 505
+  title: "1on1 with Speakers"
+  description: ""
+  subtype: Hall
+  speakers: [4, 9, 10, 11]
+  place: "Community Area"
+  language: en
 
 # -
 #   id: 591

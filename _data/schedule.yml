@@ -59,81 +59,165 @@
 #     - {startTime: "19:30", endTime: "20:00", sessionIds: [900]}
 
 
+
+# Devfest 2019 Schedule
 - 
-  date: "2018-11-17"
-  dateReadable: "17 November"
+  date: "2019-09-08"
+  dateReadable: "8 September"
   tracks: 
     - {title: "CONFERENCE Room", color: "#34A853"}
-    - {title: "Google Room", color: "#4D80C1"}
-    - {title: "Fintech Room", color: "#FD6A02"}
-    - {title: "Sprint Room", color: "#EA4335"}
-    - {title: "Hall", color: "#7E287E"}
+    - {title: "CodeLab Room", color: "#4D80C1"}
+    - {title: "Community Area", color: "#FD6A02"}
+    # - {title: "Sprint Room", color: "#EA4335"}
+    # - {title: "Hall", color: "#7E287E"}
 
   timeslots: 
-    - {
-        startTime: "10:00",
-        sessionIds: [404, 404, 404, 405, 404]
-    }
+    # - {
+    #     startTime: "10:00",
+    #     sessionIds: [404, 404, 404, 405, 404]
+    # }
     - {
         startTime: "11:00",
-        sessionIds: [001, 001, 001, 405, 001]
+        sessionIds: [001, 001, 501]
     }
     - {
       startTime: "12:00",
       sessionIds: [051]
     }
     - {
-      startTime: "12:30",
-      sessionIds: [005, 404, 404, 405, 501]
+      startTime: "12:15",
+      sessionIds: [002, 404, 501]
     }
     - {
-        startTime: "13:10",
-        sessionIds: [002, 404, 404, 405, 501]
+        startTime: "12:30",
+        sessionIds: [003, 404, 501]
+    }
+    - {
+      startTime: "13:00",
+      sessionIds: [004, 404, 501]
     }
     - {
       startTime: "13:30",
-      sessionIds: [004, 404, 404, 405, 501]
+      sessionIds: [053, 404, 502]
     }
     - {
-      startTime: "14:00",
-      sessionIds: [052, 403, 402, 405, 501]
+        startTime: "14:00",
+        sessionIds: [005, 401, 404]
+    }
+    - {
+        startTime: "14:30",
+        sessionIds: [006, 401, 404]
     }
     - {
         startTime: "15:00",
-        sessionIds: [003, 403, 402, 404, 501]
-    }
-    - {
-        startTime: "15:30",
-        sessionIds: [101, 403, 402, 405, 501]
+        sessionIds: [052, 401, 404]
     }
     - {
         startTime: "16:00",
-        sessionIds: [006, 401, 407, 405, 501]
+        sessionIds: [007, 402, 503]
     }
     - {
         startTime: "16:30",
-        sessionIds: [103, 401, 407, 405, 501]
+        sessionIds: [101, 402, 404]
     }
     - {
         startTime: "17:00",
-        sessionIds: [102, 401, 407, 405, 501]
+        sessionIds: [103, 402, 404]
     }
     - {
         startTime: "17:30",
-        sessionIds: [104, 401, 407, 405, 501]
+        sessionIds: [053, 402, 504]
     }
     - {
         startTime: "18:00",
-        sessionIds: [105, 404, 404, 405, 501]
+        sessionIds: [104, 404, 505]
     }
     - {
         startTime: "18:30",
-        sessionIds: [106, 404, 404, 405, 501]
+        sessionIds: [105, 404, 505]
     }
     - {
         startTime: "19:00",
-        sessionIds: [107]
+        sessionIds: [107, 404, 505]
     }
+
+
+# Devfest 2018 Schedule
+# - 
+#   date: "2018-11-17"
+#   dateReadable: "17 November"
+#   tracks: 
+#     - {title: "CONFERENCE Room", color: "#34A853"}
+#     - {title: "Google Room", color: "#4D80C1"}
+#     - {title: "Fintech Room", color: "#FD6A02"}
+#     - {title: "Sprint Room", color: "#EA4335"}
+#     - {title: "Hall", color: "#7E287E"}
+
+#   timeslots: 
+#     - {
+#         startTime: "10:00",
+#         sessionIds: [404, 404, 404, 405, 404]
+#     }
+#     - {
+#         startTime: "11:00",
+#         sessionIds: [001, 001, 001, 405, 001]
+#     }
+#     - {
+#       startTime: "12:00",
+#       sessionIds: [051]
+#     }
+#     - {
+#       startTime: "12:30",
+#       sessionIds: [005, 404, 404, 405, 501]
+#     }
+#     - {
+#         startTime: "13:10",
+#         sessionIds: [002, 404, 404, 405, 501]
+#     }
+#     - {
+#       startTime: "13:30",
+#       sessionIds: [004, 404, 404, 405, 501]
+#     }
+#     - {
+#       startTime: "14:00",
+#       sessionIds: [052, 403, 402, 405, 501]
+#     }
+#     - {
+#         startTime: "15:00",
+#         sessionIds: [003, 403, 402, 404, 501]
+#     }
+#     - {
+#         startTime: "15:30",
+#         sessionIds: [101, 403, 402, 405, 501]
+#     }
+#     - {
+#         startTime: "16:00",
+#         sessionIds: [006, 401, 407, 405, 501]
+#     }
+#     - {
+#         startTime: "16:30",
+#         sessionIds: [103, 401, 407, 405, 501]
+#     }
+#     - {
+#         startTime: "17:00",
+#         sessionIds: [102, 401, 407, 405, 501]
+#     }
+#     - {
+#         startTime: "17:30",
+#         sessionIds: [104, 401, 407, 405, 501]
+#     }
+#     - {
+#         startTime: "18:00",
+#         sessionIds: [105, 404, 404, 405, 501]
+#     }
+#     - {
+#         startTime: "18:30",
+#         sessionIds: [106, 404, 404, 405, 501]
+#     }
+#     - {
+#         startTime: "19:00",
+#         sessionIds: [107]
+#     }
 
 
 # - 
