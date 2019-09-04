@@ -65,12 +65,12 @@ navigationLinks:
 bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "http://bit.ly/DevFestTbilisi2019", text: "Register on Devfest"}
- - {link: "https://forms.gle/YHniVE7XRbiZhr6F8", text: "CodeLab Registration"}
+ - {link: "https://forms.gle/YHniVE7XRbiZhr6F8", text: "Register on CodeLab"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 rightNavigationButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "http://bit.ly/DevFestTbilisi2019", text: "Register on Devfest"}
- - {link: "https://forms.gle/YHniVE7XRbiZhr6F8", text: "CodeLab Registration"}
+ - {link: "https://forms.gle/YHniVE7XRbiZhr6F8", text: "Register on CodeLab"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
 
 # Hero Block
@@ -82,7 +82,7 @@ heroImage: "cover_2019.jpg"
 heroButtons:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  - {link: "http://bit.ly/DevFestTbilisi2019", text: "Register on Devfest"}
- - {link: "https://forms.gle/YHniVE7XRbiZhr6F8", text: "CodeLab Registration"}
+ - {link: "https://forms.gle/YHniVE7XRbiZhr6F8", text: "Register on CodeLab"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 # hackathonButtons:
