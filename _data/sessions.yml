@@ -127,15 +127,6 @@
   language: en
 
 -
-  id: 106
-  title: "Comercializing Technologies"
-  description: ""
-  subtype: keynote
-  speakers: [11]
-  place: "CONFERENCE Room"
-  language: ge
-
--
   id: 107
   title: "Closing"
   description: ""
@@ -163,33 +154,6 @@
   language: en
 
 -
-  id: 403
-  title: "Getting started with Flutter"
-  description: ""
-  subtype: workshop
-  speakers: [3]
-  place: "Google Room"
-  language: en
-
--
-  id: 407
-  title: "Fintech with Flutter"
-  description: ""
-  subtype: workshop
-  speakers: [12]
-  place: "Fintech Room"
-  language: ge
-
--
-  id: 405
-  title: "Google Sprint Methodology for solving violence"
-  description: ""
-  subtype: workshop
-  speakers: [5]
-  place: "Sprint Room"
-  language: en
-
--
   id: 501
   title: "Networking"
   description: ""
@@ -211,8 +175,9 @@
   title: "Meet with Xooglers"
   description: ""
   subtype: Hall
+  speakers: [12, 15]
   place: "Community Area"
-  language: ge
+  language: ge / en
 
 -
   id: 504
@@ -228,7 +193,16 @@
   title: "1on1 with Speakers"
   description: ""
   subtype: Hall
-  speakers: [4, 9, 10, 11]
+  speakers: [4, 9]
+  place: "Community Area"
+  language: en
+
+-
+  id: 506
+  title: "1on1 with Speakers"
+  description: ""
+  subtype: Hall
+  speakers: [10, 11]
   place: "Community Area"
   language: en
 

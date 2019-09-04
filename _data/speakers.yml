@@ -160,20 +160,21 @@
   #   - {name: "facebook", link: ""}
   #   - {name: "linkedin", link: ""}
 
-# - 
+- 
 
-#   id: 12
-#   name: "David "
-#   surname: "&nbsp Mereklishvili"
-#   company: "Bank of Georgia"
-#   title: "Android Developer"
-#   bio: '<p>Davit Mereklishvili is a Student at Caucasus University and working as Android Developer at Bank of Georgia. He is an active member of Georgian Android Community - DroidUp.</p>'
-#   thumbnailUrl: David_Mereklishvili.jpg
-#   rockstar: true
-#   # social: 
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "facebook", link: ""}
-#   #   - {name: "linkedin", link: ""}
+  id: 12
+  name: "Giorgi "
+  surname: "&nbsp Lekveishvili"
+  company: "Xoogler"
+  title: "Software Engineer"
+  bio: "<p>Giorgi just got back to Georgia after 9 years of working at Google on projects like Google’s financial reporting, ETL pipeline management framework, distributed and in memory query execution engines, hosted Machine Learning service and Google Search Infrastructure.</p>
+  <p>Currently he is taking a break from professional tech sector and planning to invest more time in his other interests such as teaching, sports, outdoors, ...</p>"
+  thumbnailUrl: giorgi_lekveishvili.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 - 
   id: 13
@@ -205,6 +206,21 @@
   #   - {name: "linkedin", link: ""}
 
 
+- 
+
+  id: 15
+  name: "Salome "
+  surname: "&nbsp Vakhtangadze"
+  company: "Xoogler"
+  title: "Software Engineer"
+  bio: "<p>After getting her Masters degree in CS from NYU, Salome worked at Google for 5 years. She spent the first three years working on Search infrastructure and following two years at Google Ideas(currently known as Jigsaw), where she helped design and implement products that were meant to help users in distress.</p>
+  <p>After Google she came back to Georgia and worked remotely for Blockchain for two years as well as a lecturer at Free University Tbilisi.</p>"
+  thumbnailUrl: salome_vakhtangadze.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "facebook", link: ""}
+  #   - {name: "linkedin", link: ""}
 
 
 # Devfest 2018 Speakers below
