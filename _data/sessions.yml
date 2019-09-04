@@ -71,7 +71,11 @@
 -
   id: 006
   title: "Getting started with microcontrollers and Google Cloud IoT Core"
-  description: ""
+  description: "<p>In this talk, we will start from a famous and affordable microcontroller unit.
+We will first discover how to write code for this MCU so we can get environment data. Then we will connect the microcontroller to the Cloud using Google Cloud IoT Core.
+Our goal is to discover what these online Cloud IoT solutions offer, and why you may (or may not) need those.
+
+We will focus on Google Cloud IoT core, core concepts remaining the same on other online platforms.</p>"
   subtype: keynote
   speakers: [6]
   place: "CONFERENCE Room"
@@ -80,7 +84,7 @@
 -
   id: 007
   title: "How to be a Clean Coder"
-  description: ""
+  description: "<p>Clean code is critical in the tech industry as it is perceived as what makes or breaks a project. Startups and companies have shut down because of the insurmountable technical debt that unclean code has brought them. In this short tech talk, I will discuss best practices and how every developer can become a cleaner coder.</p>"
   subtype: keynote
   speakers: [5]
   place: "CONFERENCE Room"
@@ -104,7 +108,8 @@
 -
   id: 103
   title: "Progressive Delivery: Implementing Continuous Delivery the Right Way"
-  description: ""
+  description: "<p>Progressive Delivery is the next step after Continuous Delivery, where new versions are deployed to a subset of users and are evaluated in terms of correctness and performance before rolling them to the totality of the users and rolled back if not matching some key metrics. Canary deployments is one of the techniques in Progressive Delivery, used in companies like Facebook to roll out new versions gradually. But good news! you don't need to be Facebook to take advantage of it.</p>
+  <p>We will demo how to create a fully automated Progressive Delivery pipeline with Canary deployments and rollbacks in Kubernetes using Jenkins X, an open source CI/CD platform for Kubernetes based on Jenkins. It runs on Kubernetes and transparently uses on demand containers to run build agents and jobs, and isolate job execution. It enables CI/CD-as-code using Jenkins Pipelines and automated deployments of commits and pull requests using Skaffold, Helm and other popular open source tools.</p>"
   subtype: keynote
   speakers: [4]
   place: "CONFERENCE Room"
