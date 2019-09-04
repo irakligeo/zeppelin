@@ -28,7 +28,7 @@
 -
   id: 003
   title: "Serverless Containers with Knative and Cloud Run"
-  description: ""
+  description: "<p>When you build a serverless app, you either tie yourself to a cloud provider, or you end up building your own serverless stack. Knative provides a better choice. Open-source Knative extends Kubernetes to provide a set of middleware components for container-based serverless apps that can run anywhere. In this talk, we’ll explore Knative components (serving, eventing, build) and also take a look at its managed cousin Cloud Run on Google Cloud.</p>"
   subtype: keynote
   speakers: [1]
   place: "CONFERENCE Room"
@@ -37,7 +37,9 @@
 -
   id: 004
   title: "The rise of Webassembly"
-  description: ""
+  description: "<p>For many years there has been the only way to write client-side logic for the web; JavaScript. WebAssembly provides another way, as a low-level language similar to assembly, with a compact binary format. The power of WebAssembly lies in the ability for it to be a compilation target for a range of statically typed languages like C, C++, Rust, Go and even TypeScript.</p>
+  <p>The rise of WebAssembly support in browsers has allowed companies such as AutoCad and Figma to rethink their web applications, games engines such as Unity to turbo power their libraries and even consumer sites like eBay to improve their user experience.</p>
+  <p>The real question on everyone's minds is, will it cause a paradigm shift in how we build applications as web developers? This talk will attempt to answer this question by giving a grounding in what WebAssembly is, then dig into its use cases and what the future holds for it. Attendees can expect to understand where WebAssembly lies in the ecosystem and what it provides to those building apps today and how it might change the web going forward.</p>"
   subtype: keynote
   speakers: [7]
   place: "CONFERENCE Room"
@@ -111,7 +113,8 @@
 -
   id: 104
   title: "Supercharge your data analytics with BigQuery"
-  description: ""
+  description: "<p>Powering interactive data analysis require massive architecture, and Know-How to build a fast real-time computing system. BigQuery solves this problem by enabling super-fast, SQL-like queries against petabytes of data using the processing power of Google’s infrastructure. We will cover its core features, creating tables, columns, views, working with partitions, clustering for cost optimizations, streaming inserts, User Defined Functions, and several use cases for everyday developer: funnel analytics, behavioral analytics, exploring unstructured data.</p>
+  <p>The other part will be about BigQuery ML, which enables users to create and execute machine learning models in BigQuery using standard SQL queries. BigQuery ML democratizes machine learning by enabling SQL practitioners to build models using existing SQL tools and skills. BigQuery ML increases development speed by eliminating the need to move data.</p>"
   subtype: keynote
   speakers: [10]
   place: "CONFERENCE Room"
