@@ -179,7 +179,7 @@
 - 
   id: 13
   name: "Nino "
-  surname: "&nbsp Nanitashvili"
+  surname: " Nanitashvili"
   company: "GDG Tbilisi"
   title: "Devfest Host"
   bio: "<p>Meet DevFest host, Nino Nanitashvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>"
@@ -194,7 +194,7 @@
 - 
   id: 14
   name: "Giorgi "
-  surname: "&nbsp Vakhtangishvili"
+  surname: " Vakhtangishvili"
   company: "GDG Tbilisi"
   title: "Devfest Host"
   bio: "<p>Meet DevFest host, Giorgi Vakhtangishvili, organizer of GDG and WomenTechmakers communities in Tbilisi.</p>"
