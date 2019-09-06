@@ -33,6 +33,8 @@
     - {name: "Exactpro", description: "Exactpro", link: "https://exactpro.com/company/locations/tbilisi", imageUrl: "Exactpro.png", width: "180px"}
     - {name: "MGroup", description: "MGroup", link: "", imageUrl: "mgroup.png", width: "120px"}
     - {name: "Bolt", description: "Bolt", link: "bolt.eu", imageUrl: "bolt.png", width: "80px"}
+    - {name: "Premium Events", description: "Premium Events", link: "http://premiumevents.ge/", imageUrl: "premium_events.pdf", width: "100px"}
+    - {name: "GiS", description: "GiS", link: "http://gis.ge/", imageUrl: "gis_logo.ai", width: "100px"}
     # - {name: "Healthy Water", description: "Healthy Water", link: "", imageUrl: "healthy_water.png", width: "120px"}
 
 # - 
