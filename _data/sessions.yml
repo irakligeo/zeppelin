@@ -145,7 +145,7 @@ We will focus on Google Cloud IoT core, core concepts remaining the same on othe
 
 -
   id: 401
-  title: "Hello Cloud Run & Cloud Run on GKE"
+  title: "Hello Cloud Run & Cloud Run on GKE (1.5 hours)"
   description: ""
   subtype: workshop
   speakers: [3, 1]
@@ -154,7 +154,7 @@ We will focus on Google Cloud IoT core, core concepts remaining the same on othe
 
 -
   id: 402
-  title: "Build a production ready PWA with Angular and Firebase"
+  title: "Build a production ready PWA with Angular and Firebase (2 hours)"
   description: ""
   subtype: workshop
   speakers: [2]
