@@ -3,7 +3,7 @@
 - 
   id: 1
   name: "Mete "
-  surname: "&nbsp Atamel"
+  surname: " Atamel"
   company: "Google"
   title: "Developer Advocate"
   bio: '<p>Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems.</p><p>Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.</p>'
@@ -18,7 +18,7 @@
 -
   id: 2
   name: "Onder  "
-  surname: "&nbsp Ceylan"
+  surname: " Ceylan"
   company: "LINKIT, KLM"
   title: "JavaScript Tech Lead, GDE"
   bio: "<p>Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems for the past 15 years. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and a speaker.</p><p>He's also interested in photography, capturing the night photos specifically.</p>"
@@ -32,7 +32,7 @@
 -
   id: 3
   name: "Maria "
-  surname: "&nbsp Encinar"
+  surname: " Encinar"
   company: "Google"
   title: "Developer Relations Community Specialist"
   bio: "<p>Maria is part of the Europen Developer Relations team at Google, where she takes care of communities in Central and Eastern Europe. She's being working with tech communities and startups for more than 10 years. From Galicia (Spain) but living in Prague, she's a language geek, food lover and a triathlon lover.</p>"
@@ -46,7 +46,7 @@
 - 
   id: 4
   name: "Carlos "
-  surname: "&nbsp Sanchez"
+  surname: " Sanchez"
   company: "Adobe"
   title: "Senior Cloud Software Engineer, GDE"
   bio: "<p>Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. Apart from his current job at Adobe, Carlos is also a Google Developer Expert (GDE) for Google Cloud Platform.</p>"
@@ -60,7 +60,7 @@
 - 
   id: 5
   name: "Ana "
-  surname: "&nbsp Robakidze"
+  surname: " Robakidze"
   company: "Clientela"
   title: "Lead Engineer"
   bio: "<p>Ana Graduated from New York Institute of Technology in 2016 with the degree in Computer Science.  While at NYIT she served actively in multiple iniiatives, including to being selected by Google as a Student Ambassador. Since graduation, Ana has been working in different industries as a software engineer and led entrepreneurship journey in NYC and California with TechStars and Y combinator.</p>
@@ -75,7 +75,7 @@
 - 
   id: 6
   name: "Gautier  "
-  surname: "&nbsp Mechling"
+  surname: " Mechling"
   company: "Innovorder"
   title: "Lead Android Developer, GDE"
   bio: "<p>Gautier is a passionate developer living in Paris, France. Agile thinker, passionate in Android development, he publishes and maintains open source tools, and regularly writes blog posts on software engineering. Gautier is a Google Developer Expert (GDE) for Internet of Things.</p>"
@@ -89,7 +89,7 @@
 - 
   id: 7
   name: "James "
-  surname: "&nbsp Milner"
+  surname: " Milner"
   company: "SitePen"
   title: "Software Engineer, GDE"
   bio: "<p>James is a fullstack software developer and Google Developer Expert for Web Technologies. He has  a history of building immersive web applications with both corporates and startups.</p>
@@ -104,7 +104,7 @@
 - 
   id: 8
   name: "Hawra  "
-  surname: "&nbsp Milani"
+  surname: " Milani"
   company: "Code 2 Serve"
   title: "CEO, Women Techmakers Ambassador"
   bio: "<p>Hawra Milani is an active community organiser, where she spends a lot of her time in organising, attending, and speaking at technical conferences around the world. A former high-school teacher, she is now the founder and CEO of ‘Code 2 Serve’ where she spends a lot of her time creating coding programmes and convincing youth that no matter what their educational or cultural background, they have a place in tech. She is the Lead Organiser for GDG Oxford, GDG Najaf (Iraq), a Women Techmakers Ambassador, and a STEM UK ambassador. She also teaches in Code Clubs and CoderDojos in various parts of London, and is an Apple, Google and Raspberry Pi Certified Educator.</p>
@@ -119,7 +119,7 @@
 - 
   id: 9
   name: "Tato  "
-  surname: "&nbsp Kutalia"
+  surname: " Kutalia"
   company: "eMoney.ge"
   title: "Android Developer"
   bio: "<p>Tato is interested in trending technologies and eager to understand how to use them. Active community member, hosting meetups and podcast.</p>"
@@ -134,7 +134,7 @@
 
   id: 10
   name: "Marton "
-  surname: "&nbsp Kodok"
+  surname: " Kodok"
   company: "REEA.net"
   title: "Senior Software Architect, GDE"
   bio: "<p>Márton is a Google Developer Expert(GDE) for Cloud and senior software architect at REEA.net . A romanian hero on StackOverflow with 135k reputation points. He led the implementation of complex and distributed systems serving millions of users for companies like FreeLogoServices, LogoMix, WaterSmart, Ausschreibungsdienste and many more.</p>"
@@ -149,7 +149,7 @@
 
   id: 11
   name: "Anton "
-  surname: "&nbsp Sitnikov"
+  surname: " Sitnikov"
   company: "Exactpro"
   title: "Chief Software Architect"
   bio: "<p>Anton is the Chief Software Architect at Exactpro. Throughout his career, Anton has developed several FinTech-related test automation tools in different capacities. He joined Exactpro in 2013 to lead the creation of a Surveillance system testing tool. Anton has many years of software development and leadership experience. He holds an Engineering Degree from the The Bauman Moscow State Technical University.</p>"
@@ -164,7 +164,7 @@
 
   id: 12
   name: "Giorgi "
-  surname: "&nbsp Lekveishvili"
+  surname: " Lekveishvili"
   company: "Xoogler"
   title: "Software Engineer"
   bio: "<p>Giorgi just got back to Georgia after 9 years of working at Google on projects like Google’s financial reporting, ETL pipeline management framework, distributed and in memory query execution engines, hosted Machine Learning service and Google Search Infrastructure.</p>
@@ -210,7 +210,7 @@
 
   id: 15
   name: "Salome "
-  surname: "&nbsp Vakhtangadze"
+  surname: " Vakhtangadze"
   company: "Xoogler"
   title: "Software Engineer"
   bio: "<p>After getting her Masters degree in CS from NYU, Salome worked at Google for 5 years. She spent the first three years working on Search infrastructure and following two years at Google Ideas(currently known as Jigsaw), where she helped design and implement products that were meant to help users in distress.</p>
