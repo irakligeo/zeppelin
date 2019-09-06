@@ -88,16 +88,16 @@ We will focus on Google Cloud IoT core, core concepts remaining the same on othe
   subtype: keynote
   speakers: [5]
   place: "CONFERENCE Room"
-  language: en
+  language: ge
 
 -
   id: 101
-  title: "Defensive Programmin x Fintech"
+  title: "Defensive Programming x Fintech"
   description: ""
   subtype: keynote
   speakers: [9]
   place: "CONFERENCE Room"
-  language: en
+  language: ge
 
 -
   id: 102
@@ -185,7 +185,7 @@ We will focus on Google Cloud IoT core, core concepts remaining the same on othe
   subtype: Hall
   speakers: [12, 15]
   place: "Community Area"
-  language: ge / en
+  language: ge
 
 -
   id: 504

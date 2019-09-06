@@ -112,9 +112,13 @@
         startTime: "15:00",
         sessionIds: [052]
     }
+     - {
+        startTime: "15:30",
+        sessionIds: [052, 404, 503]
+    }
     - {
         startTime: "16:00",
-        sessionIds: [007, 402, 503]
+        sessionIds: [007, 402]
     }
     - {
         startTime: "16:30",
