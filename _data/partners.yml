@@ -31,9 +31,9 @@
     # - {name: "გიფერი", description: "გიფერი", link: "http://giffer.ge/", imageUrl: "giffer-logo.png", width: "125px"}
     # - {name: "Memogram", description: "Memogram", link: "http://memogram.ge", imageUrl: "memogram.jpg", width: "130px"}
     # - {name: "TechHub", description: "TechHub", link: "", imageUrl: "techhub_logo.png", width: "120px"}
-    # - {name: "MGroup", description: "MGroup", link: "", imageUrl: "mgroup.png", width: "120px"}
-    # - {name: "Healthy Water", description: "Healthy Water", link: "", imageUrl: "healthy_water.png", width: "120px"}
     - {name: "Exactpro", description: "Exactpro", link: "https://exactpro.com/company/locations/tbilisi", imageUrl: "Exactpro.png", width: "180px"}
+    - {name: "MGroup", description: "MGroup", link: "", imageUrl: "mgroup.png", width: "120px"}
+    # - {name: "Healthy Water", description: "Healthy Water", link: "", imageUrl: "healthy_water.png", width: "120px"}
 
 # - 
   # group: "Information partners"
